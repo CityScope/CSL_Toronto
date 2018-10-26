@@ -1,0 +1,983 @@
+[
+    {
+        "place_id": "162418302",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "389984496",
+        "boundingbox": [
+            "43.6423073",
+            "43.6424798",
+            "-79.5756049",
+            "-79.5753875"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5756049",
+                "43.6424466"
+            ],
+            [
+                "-79.5755507",
+                "43.6423073"
+            ],
+            [
+                "-79.5753875",
+                "43.6423406"
+            ],
+            [
+                "-79.5754416",
+                "43.6424798"
+            ],
+            [
+                "-79.5756049",
+                "43.6424466"
+            ]
+        ],
+        "lat": "43.6423936",
+        "lon": "-79.5754961883699",
+        "display_name": "BMO, Burnhamthorpe Road, Old Burnhamthorpe, Etobicoke, Toronto, Ontario, M9C 2H3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "46326130",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3442199471",
+        "boundingbox": [
+            "43.6606408",
+            "43.6607408",
+            "-79.5819933",
+            "-79.5818933"
+        ],
+        "polygonpoints": [
+            [
+                -79.5819433,
+                43.6607408
+            ],
+            [
+                -79.58190794466094,
+                43.660726155339056
+            ],
+            [
+                -79.5818933,
+                43.6606908
+            ],
+            [
+                -79.58190794466094,
+                43.66065544466094
+            ],
+            [
+                -79.5819433,
+                43.660640799999996
+            ],
+            [
+                -79.58197865533907,
+                43.66065544466094
+            ],
+            [
+                -79.58199330000001,
+                43.6606908
+            ],
+            [
+                -79.58197865533907,
+                43.660726155339056
+            ]
+        ],
+        "lat": "43.6606908",
+        "lon": "-79.5819433",
+        "display_name": "BMO, Ramage Lane, Eringate, Etobicoke, Toronto, Ontario, M9C 2N6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "50968449",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3931418540",
+        "boundingbox": [
+            "43.642775",
+            "43.642875",
+            "-79.5768254",
+            "-79.5767254"
+        ],
+        "polygonpoints": [
+            [
+                -79.5767754,
+                43.642875000000004
+            ],
+            [
+                -79.57674004466094,
+                43.64286035533906
+            ],
+            [
+                -79.5767254,
+                43.642825
+            ],
+            [
+                -79.57674004466094,
+                43.642789644660944
+            ],
+            [
+                -79.5767754,
+                43.642775
+            ],
+            [
+                -79.57681075533907,
+                43.642789644660944
+            ],
+            [
+                -79.5768254,
+                43.642825
+            ],
+            [
+                -79.57681075533907,
+                43.64286035533906
+            ]
+        ],
+        "lat": "43.642825",
+        "lon": "-79.5767754",
+        "display_name": "BMO, Burnhamthorpe Road, Old Burnhamthorpe, Etobicoke, Toronto, Ontario, M9C 1Y5, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "54501035",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4409956882",
+        "boundingbox": [
+            "43.5663945",
+            "43.5664945",
+            "-79.5702966",
+            "-79.5701966"
+        ],
+        "polygonpoints": [
+            [
+                -79.5702466,
+                43.566494500000005
+            ],
+            [
+                -79.57021124466094,
+                43.56647985533906
+            ],
+            [
+                -79.5701966,
+                43.5664445
+            ],
+            [
+                -79.57021124466094,
+                43.566409144660945
+            ],
+            [
+                -79.5702466,
+                43.5663945
+            ],
+            [
+                -79.57028195533907,
+                43.566409144660945
+            ],
+            [
+                -79.5702966,
+                43.5664445
+            ],
+            [
+                -79.57028195533907,
+                43.56647985533906
+            ]
+        ],
+        "lat": "43.5664445",
+        "lon": "-79.5702466",
+        "display_name": "BMO, 515, Lakeshore Road East, Lakeview, Ont., Peel Region, Ontario, L5G 4S6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "51185667",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4011358233",
+        "boundingbox": [
+            "43.5269297",
+            "43.5270297",
+            "-79.6756332",
+            "-79.6755332"
+        ],
+        "polygonpoints": [
+            [
+                -79.6755832,
+                43.5270297
+            ],
+            [
+                -79.67554784466094,
+                43.52701505533906
+            ],
+            [
+                -79.6755332,
+                43.5269797
+            ],
+            [
+                -79.67554784466094,
+                43.52694434466094
+            ],
+            [
+                -79.6755832,
+                43.5269297
+            ],
+            [
+                -79.67561855533907,
+                43.52694434466094
+            ],
+            [
+                -79.67563320000001,
+                43.5269797
+            ],
+            [
+                -79.67561855533907,
+                43.52701505533906
+            ]
+        ],
+        "lat": "43.5269797",
+        "lon": "-79.6755832",
+        "display_name": "BMO, 2458, Dundas Street West, Sheridan Homelands, Erin Mills, Ont., Peel Region, Ontario, L5K 1R8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "25073240",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2433164038",
+        "boundingbox": [
+            "43.5074241",
+            "43.5075241",
+            "-79.6315582",
+            "-79.6314582"
+        ],
+        "polygonpoints": [
+            [
+                -79.6315082,
+                43.507524100000005
+            ],
+            [
+                -79.63147284466093,
+                43.50750945533906
+            ],
+            [
+                -79.6314582,
+                43.5074741
+            ],
+            [
+                -79.63147284466093,
+                43.507438744660945
+            ],
+            [
+                -79.6315082,
+                43.5074241
+            ],
+            [
+                -79.63154355533906,
+                43.507438744660945
+            ],
+            [
+                -79.6315582,
+                43.5074741
+            ],
+            [
+                -79.63154355533906,
+                43.50750945533906
+            ]
+        ],
+        "lat": "43.5074741",
+        "lon": "-79.6315082",
+        "display_name": "BMO, 920, Southdown Road, Clarkson, Ont., Peel Region, Ontario, L5J 2Y4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "15729934",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1406557302",
+        "boundingbox": [
+            "43.6077547",
+            "43.6078547",
+            "-79.6914391",
+            "-79.6913391"
+        ],
+        "polygonpoints": [
+            [
+                -79.6913891,
+                43.607854700000004
+            ],
+            [
+                -79.69135374466093,
+                43.60784005533906
+            ],
+            [
+                -79.6913391,
+                43.6078047
+            ],
+            [
+                -79.69135374466093,
+                43.607769344660944
+            ],
+            [
+                -79.6913891,
+                43.6077547
+            ],
+            [
+                -79.69142445533906,
+                43.607769344660944
+            ],
+            [
+                -79.6914391,
+                43.6078047
+            ],
+            [
+                -79.69142445533906,
+                43.60784005533906
+            ]
+        ],
+        "lat": "43.6078047",
+        "lon": "-79.6913891",
+        "display_name": "BMO Bank of Montreal, 5800, Mavis Road, Meadowvale South, Ont., Peel Region, Ontario, L5V 3B7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "56219455",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4511270148",
+        "boundingbox": [
+            "43.6379101",
+            "43.6380101",
+            "-79.69437",
+            "-79.69427"
+        ],
+        "polygonpoints": [
+            [
+                -79.69432,
+                43.6380101
+            ],
+            [
+                -79.69428464466094,
+                43.63799545533906
+            ],
+            [
+                -79.69427,
+                43.6379601
+            ],
+            [
+                -79.69428464466094,
+                43.63792474466094
+            ],
+            [
+                -79.69432,
+                43.6379101
+            ],
+            [
+                -79.69435535533907,
+                43.63792474466094
+            ],
+            [
+                -79.69437,
+                43.6379601
+            ],
+            [
+                -79.69435535533907,
+                43.63799545533906
+            ]
+        ],
+        "lat": "43.6379601",
+        "lon": "-79.69432",
+        "display_name": "BMO, Hurontario Street, Derry West, Meadowvale Village, Ont., Peel Region, Ontario, L5T 0A4, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "46281953",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3455005419",
+        "boundingbox": [
+            "43.6195141",
+            "43.6196141",
+            "-79.6688765",
+            "-79.6687765"
+        ],
+        "polygonpoints": [
+            [
+                -79.6688265,
+                43.6196141
+            ],
+            [
+                -79.66879114466093,
+                43.619599455339056
+            ],
+            [
+                -79.66877649999999,
+                43.6195641
+            ],
+            [
+                -79.66879114466093,
+                43.61952874466094
+            ],
+            [
+                -79.6688265,
+                43.619514099999996
+            ],
+            [
+                -79.66886185533906,
+                43.61952874466094
+            ],
+            [
+                -79.6688765,
+                43.6195641
+            ],
+            [
+                -79.66886185533906,
+                43.619599455339056
+            ]
+        ],
+        "lat": "43.6195641",
+        "lon": "-79.6688265",
+        "display_name": "BMO, Matheson Boulevard East, Britannia, Ont., Peel Region, Ontario, L4Z 3P8, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "28367263",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2687999722",
+        "boundingbox": [
+            "43.508408",
+            "43.508508",
+            "-79.6304534",
+            "-79.6303534"
+        ],
+        "polygonpoints": [
+            [
+                -79.6304034,
+                43.508508
+            ],
+            [
+                -79.63036804466094,
+                43.508493355339056
+            ],
+            [
+                -79.6303534,
+                43.508458
+            ],
+            [
+                -79.63036804466094,
+                43.50842264466094
+            ],
+            [
+                -79.6304034,
+                43.508407999999996
+            ],
+            [
+                -79.63043875533907,
+                43.50842264466094
+            ],
+            [
+                -79.63045340000001,
+                43.508458
+            ],
+            [
+                -79.63043875533907,
+                43.508493355339056
+            ]
+        ],
+        "lat": "43.508458",
+        "lon": "-79.6304034",
+        "display_name": "BMO, Royal Windsor Drive, Clarkson, Ont., Peel Region, Ontario, L5J 1K5, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "103457619",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "119879353",
+        "boundingbox": [
+            "43.6376162",
+            "43.6380429",
+            "-79.6945964",
+            "-79.694009"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6945964",
+                "43.6378887"
+            ],
+            [
+                "-79.6942249",
+                "43.6376162"
+            ],
+            [
+                "-79.694009",
+                "43.6377703"
+            ],
+            [
+                "-79.6943805",
+                "43.6380429"
+            ],
+            [
+                "-79.6945964",
+                "43.6378887"
+            ]
+        ],
+        "lat": "43.6378295",
+        "lon": "-79.6943026851967",
+        "display_name": "BMO, Hurontario Street, Derry West, Meadowvale Village, Ont., Peel Region, Ontario, L5T 0A4, Canada",
+        "class": "building",
+        "type": "yes",
+        "importance": 0.101
+    },
+    {
+        "place_id": "19729677",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1905900910",
+        "boundingbox": [
+            "43.5933968",
+            "43.5934968",
+            "-79.570389",
+            "-79.570289"
+        ],
+        "polygonpoints": [
+            [
+                -79.570339,
+                43.593496800000004
+            ],
+            [
+                -79.57030364466094,
+                43.59348215533906
+            ],
+            [
+                -79.570289,
+                43.5934468
+            ],
+            [
+                -79.57030364466094,
+                43.593411444660944
+            ],
+            [
+                -79.570339,
+                43.5933968
+            ],
+            [
+                -79.57037435533907,
+                43.593411444660944
+            ],
+            [
+                -79.570389,
+                43.5934468
+            ],
+            [
+                -79.57037435533907,
+                43.59348215533906
+            ]
+        ],
+        "lat": "43.5934468",
+        "lon": "-79.570339",
+        "display_name": "Bank of Montreal, South Service Road, Applewood Acres, Lakeview, Ont., Peel Region, Ontario, L4Y 1A9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    }
+    {
+        "place_id": "27873105",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2667171431",
+        "boundingbox": [
+            "43.5991082",
+            "43.5992082",
+            "-79.7134158",
+            "-79.7133158"
+        ],
+        "polygonpoints": [
+            [
+                -79.7133658,
+                43.5992082
+            ],
+            [
+                -79.71333044466094,
+                43.599193555339056
+            ],
+            [
+                -79.7133158,
+                43.5991582
+            ],
+            [
+                -79.71333044466094,
+                43.59912284466094
+            ],
+            [
+                -79.7133658,
+                43.599108199999996
+            ],
+            [
+                -79.71340115533907,
+                43.59912284466094
+            ],
+            [
+                -79.7134158,
+                43.5991582
+            ],
+            [
+                -79.71340115533907,
+                43.599193555339056
+            ]
+        ],
+        "lat": "43.5991582",
+        "lon": "-79.7133658",
+        "display_name": "BMO, 6085, Creditview Road, Riverview, Meadowvale South, Ont., Peel Region, Ontario, L5M 4Z9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "16558992",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1517084675",
+        "boundingbox": [
+            "43.552869",
+            "43.552969",
+            "-79.714296",
+            "-79.714196"
+        ],
+        "polygonpoints": [
+            [
+                -79.714246,
+                43.552969000000004
+            ],
+            [
+                -79.71421064466094,
+                43.55295435533906
+            ],
+            [
+                -79.714196,
+                43.552919
+            ],
+            [
+                -79.71421064466094,
+                43.552883644660945
+            ],
+            [
+                -79.714246,
+                43.552869
+            ],
+            [
+                -79.71428135533907,
+                43.552883644660945
+            ],
+            [
+                -79.714296,
+                43.552919
+            ],
+            [
+                -79.71428135533907,
+                43.55295435533906
+            ]
+        ],
+        "lat": "43.552919",
+        "lon": "-79.714246",
+        "display_name": "BMO, 2825, Eglinton Avenue West, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "51140662",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3976539727",
+        "boundingbox": [
+            "43.5970961",
+            "43.5971961",
+            "-79.7851944",
+            "-79.7850944"
+        ],
+        "polygonpoints": [
+            [
+                -79.7851444,
+                43.597196100000005
+            ],
+            [
+                -79.78510904466093,
+                43.59718145533906
+            ],
+            [
+                -79.78509439999999,
+                43.5971461
+            ],
+            [
+                -79.78510904466093,
+                43.597110744660945
+            ],
+            [
+                -79.7851444,
+                43.5970961
+            ],
+            [
+                -79.78517975533906,
+                43.597110744660945
+            ],
+            [
+                -79.7851944,
+                43.5971461
+            ],
+            [
+                -79.78517975533906,
+                43.59718145533906
+            ]
+        ],
+        "lat": "43.5971461",
+        "lon": "-79.7851444",
+        "display_name": "BMO, Argentia Road, Meadowvale, Ont., Peel Region, Ontario, L5N 8P7, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "51285492",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3975839448",
+        "boundingbox": [
+            "43.5389962",
+            "43.5390962",
+            "-79.7049712",
+            "-79.7048712"
+        ],
+        "polygonpoints": [
+            [
+                -79.7049212,
+                43.5390962
+            ],
+            [
+                -79.70488584466094,
+                43.53908155533906
+            ],
+            [
+                -79.7048712,
+                43.5390462
+            ],
+            [
+                -79.70488584466094,
+                43.53901084466094
+            ],
+            [
+                -79.7049212,
+                43.5389962
+            ],
+            [
+                -79.70495655533907,
+                43.53901084466094
+            ],
+            [
+                -79.7049712,
+                43.5390462
+            ],
+            [
+                -79.70495655533907,
+                43.53908155533906
+            ]
+        ],
+        "lat": "43.5390462",
+        "lon": "-79.7049212",
+        "display_name": "BMO, Winston Churchill Boulevard, Central Erin Mills, Erin Mills, Ont., Peel Region, Ontario, L5L 4X5, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "50910461",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3944423265",
+        "boundingbox": [
+            "43.5474807",
+            "43.5475807",
+            "-79.7143959",
+            "-79.7142959"
+        ],
+        "polygonpoints": [
+            [
+                -79.7143459,
+                43.547580700000005
+            ],
+            [
+                -79.71431054466093,
+                43.54756605533906
+            ],
+            [
+                -79.7142959,
+                43.5475307
+            ],
+            [
+                -79.71431054466093,
+                43.547495344660945
+            ],
+            [
+                -79.7143459,
+                43.5474807
+            ],
+            [
+                -79.71438125533906,
+                43.547495344660945
+            ],
+            [
+                -79.7143959,
+                43.5475307
+            ],
+            [
+                -79.71438125533906,
+                43.54756605533906
+            ]
+        ],
+        "lat": "43.5475307",
+        "lon": "-79.7143459",
+        "display_name": "BMO, Winston Churchill Boulevard, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "48750825",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3762116143",
+        "boundingbox": [
+            "43.5835256",
+            "43.5836256",
+            "-79.7777978",
+            "-79.7776978"
+        ],
+        "polygonpoints": [
+            [
+                -79.7777478,
+                43.583625600000005
+            ],
+            [
+                -79.77771244466093,
+                43.58361095533906
+            ],
+            [
+                -79.7776978,
+                43.5835756
+            ],
+            [
+                -79.77771244466093,
+                43.583540244660945
+            ],
+            [
+                -79.7777478,
+                43.5835256
+            ],
+            [
+                -79.77778315533907,
+                43.583540244660945
+            ],
+            [
+                -79.7777978,
+                43.5835756
+            ],
+            [
+                -79.77778315533907,
+                43.58361095533906
+            ]
+        ],
+        "lat": "43.5835756",
+        "lon": "-79.7777478",
+        "display_name": "BMO, 3221, Derry Road West, Lisgar, Meadowvale, Ont., Peel Region, Ontario, L5N 7L7, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.101,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "117707572",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "178908695",
+        "boundingbox": [
+            "43.6015693",
+            "43.6020281",
+            "-79.7543168",
+            "-79.7534696"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7543168",
+                "43.6016654"
+            ],
+            [
+                "-79.7535654",
+                "43.6015693"
+            ],
+            [
+                "-79.7535138",
+                "43.6017827"
+            ],
+            [
+                "-79.7534696",
+                "43.6017827"
+            ],
+            [
+                "-79.7534917",
+                "43.6019535"
+            ],
+            [
+                "-79.7536906",
+                "43.6019535"
+            ],
+            [
+                "-79.7542137",
+                "43.6020281"
+            ],
+            [
+                "-79.7543168",
+                "43.6016654"
+            ]
+        ],
+        "lat": "43.6018681",
+        "lon": "-79.7538699155569",
+        "display_name": "BMO, 2465, Argentia Road, Meadowvale Business Park, Meadowvale, Ont., Peel Region, Ontario, L5N 6A3, Canada",
+        "class": "building",
+        "type": "yes",
+        "importance": 0.101
+    }
+]

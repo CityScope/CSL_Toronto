@@ -1,0 +1,1719 @@
+[
+    {
+        "place_id": "14390812",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1276104148",
+        "boundingbox": [
+            "43.764706",
+            "43.764806",
+            "-79.396949",
+            "-79.396849"
+        ],
+        "polygonpoints": [
+            [
+                -79.396899,
+                43.764806
+            ],
+            [
+                -79.39686364466094,
+                43.76479135533906
+            ],
+            [
+                -79.396849,
+                43.764756
+            ],
+            [
+                -79.39686364466094,
+                43.76472064466094
+            ],
+            [
+                -79.396899,
+                43.764706
+            ],
+            [
+                -79.39693435533907,
+                43.76472064466094
+            ],
+            [
+                -79.396949,
+                43.764756
+            ],
+            [
+                -79.39693435533907,
+                43.76479135533906
+            ]
+        ],
+        "lat": "43.764756",
+        "lon": "-79.396899",
+        "display_name": "TD Canada Trust, 1, Yonge Street, Willowdale, North York, Toronto, Ontario, M2N 5X2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "13037513",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1208799414",
+        "boundingbox": [
+            "43.774786",
+            "43.774886",
+            "-79.414656",
+            "-79.414556"
+        ],
+        "polygonpoints": [
+            [
+                -79.414606,
+                43.774886
+            ],
+            [
+                -79.41457064466094,
+                43.77487135533906
+            ],
+            [
+                -79.414556,
+                43.774836
+            ],
+            [
+                -79.41457064466094,
+                43.77480064466094
+            ],
+            [
+                -79.414606,
+                43.774786
+            ],
+            [
+                -79.41464135533907,
+                43.77480064466094
+            ],
+            [
+                -79.41465600000001,
+                43.774836
+            ],
+            [
+                -79.41464135533907,
+                43.77487135533906
+            ]
+        ],
+        "lat": "43.774836",
+        "lon": "-79.414606",
+        "display_name": "TD Canada Trust, 1, Yonge Street, Willowdale, North York, Toronto, Ontario, M2N 5R6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "5014543",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "560650174",
+        "boundingbox": [
+            "43.7619527",
+            "43.7620527",
+            "-79.410631",
+            "-79.410531"
+        ],
+        "polygonpoints": [
+            [
+                -79.410581,
+                43.7620527
+            ],
+            [
+                -79.41054564466093,
+                43.762038055339055
+            ],
+            [
+                -79.41053099999999,
+                43.7620027
+            ],
+            [
+                -79.41054564466093,
+                43.76196734466094
+            ],
+            [
+                -79.410581,
+                43.761952699999995
+            ],
+            [
+                -79.41061635533906,
+                43.76196734466094
+            ],
+            [
+                -79.410631,
+                43.7620027
+            ],
+            [
+                -79.41061635533906,
+                43.762038055339055
+            ]
+        ],
+        "lat": "43.7620027",
+        "lon": "-79.410581",
+        "display_name": "TD Canada Trust, 2, Sheppard Avenue East, Willowdale, North York, Toronto, Ontario, M2N 0G3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "5038490",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "568834888",
+        "boundingbox": [
+            "43.797197",
+            "43.797297",
+            "-79.4253377",
+            "-79.4252377"
+        ],
+        "polygonpoints": [
+            [
+                -79.4252877,
+                43.797297
+            ],
+            [
+                -79.42525234466093,
+                43.79728235533906
+            ],
+            [
+                -79.4252377,
+                43.797247
+            ],
+            [
+                -79.42525234466093,
+                43.79721164466094
+            ],
+            [
+                -79.4252877,
+                43.797197
+            ],
+            [
+                -79.42532305533906,
+                43.79721164466094
+            ],
+            [
+                -79.4253377,
+                43.797247
+            ],
+            [
+                -79.42532305533906,
+                43.79728235533906
+            ]
+        ],
+        "lat": "43.797247",
+        "lon": "-79.4252877",
+        "display_name": "TD Canada Trust, Steeles Avenue West, North York, Toronto, York Region, Ontario, L4J 2L1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4408923",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "474967355",
+        "boundingbox": [
+            "43.7561596",
+            "43.7562596",
+            "-79.4391299",
+            "-79.4390299"
+        ],
+        "polygonpoints": [
+            [
+                -79.4390799,
+                43.7562596
+            ],
+            [
+                -79.43904454466093,
+                43.756244955339056
+            ],
+            [
+                -79.4390299,
+                43.7562096
+            ],
+            [
+                -79.43904454466093,
+                43.75617424466094
+            ],
+            [
+                -79.4390799,
+                43.7561596
+            ],
+            [
+                -79.43911525533906,
+                43.75617424466094
+            ],
+            [
+                -79.4391299,
+                43.7562096
+            ],
+            [
+                -79.43911525533906,
+                43.756244955339056
+            ]
+        ],
+        "lat": "43.7562096",
+        "lon": "-79.4390799",
+        "display_name": "TD Canada Trust, 1, Bathurst Street, Armour Heights, North York, Toronto, Ontario, M3H 3S3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4939372",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "540311696",
+        "boundingbox": [
+            "43.7585131",
+            "43.7586131",
+            "-79.4098985",
+            "-79.4097985"
+        ],
+        "polygonpoints": [
+            [
+                -79.4098485,
+                43.758613100000005
+            ],
+            [
+                -79.40981314466093,
+                43.75859845533906
+            ],
+            [
+                -79.4097985,
+                43.7585631
+            ],
+            [
+                -79.40981314466093,
+                43.758527744660945
+            ],
+            [
+                -79.4098485,
+                43.7585131
+            ],
+            [
+                -79.40988385533906,
+                43.758527744660945
+            ],
+            [
+                -79.4098985,
+                43.7585631
+            ],
+            [
+                -79.40988385533906,
+                43.75859845533906
+            ]
+        ],
+        "lat": "43.7585631",
+        "lon": "-79.4098485",
+        "display_name": "TD Canada Trust, 1, Yonge Street, Willowdale, North York, Toronto, Ontario, M2N 5M3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3628663",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "391166245",
+        "boundingbox": [
+            "43.7879849",
+            "43.7880849",
+            "-79.3803676",
+            "-79.3802676"
+        ],
+        "polygonpoints": [
+            [
+                -79.3803176,
+                43.7880849
+            ],
+            [
+                -79.38028224466093,
+                43.78807025533906
+            ],
+            [
+                -79.3802676,
+                43.7880349
+            ],
+            [
+                -79.38028224466093,
+                43.78799954466094
+            ],
+            [
+                -79.3803176,
+                43.7879849
+            ],
+            [
+                -79.38035295533906,
+                43.78799954466094
+            ],
+            [
+                -79.3803676,
+                43.7880349
+            ],
+            [
+                -79.38035295533906,
+                43.78807025533906
+            ]
+        ],
+        "lat": "43.7880349",
+        "lon": "-79.3803176",
+        "display_name": "TD Canada Trust, 636-686, Finch Avenue East, Bayview Woods-Steeles, North York, Toronto, Ontario, M2H 1A8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "45007379",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3285162570",
+        "boundingbox": [
+            "43.7862729",
+            "43.7863729",
+            "-79.4695378",
+            "-79.4694378"
+        ],
+        "polygonpoints": [
+            [
+                -79.4694878,
+                43.7863729
+            ],
+            [
+                -79.46945244466093,
+                43.78635825533906
+            ],
+            [
+                -79.4694378,
+                43.7863229
+            ],
+            [
+                -79.46945244466093,
+                43.786287544660944
+            ],
+            [
+                -79.4694878,
+                43.7862729
+            ],
+            [
+                -79.46952315533906,
+                43.786287544660944
+            ],
+            [
+                -79.4695378,
+                43.7863229
+            ],
+            [
+                -79.46952315533906,
+                43.78635825533906
+            ]
+        ],
+        "lat": "43.7863229",
+        "lon": "-79.4694878",
+        "display_name": "TD Canada Trust, 1, Dufferin Street, Fisherville, North York, Toronto, Ontario, M3J 3N3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "26584652",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2547520854",
+        "boundingbox": [
+            "43.7873047",
+            "43.7874047",
+            "-79.4177053",
+            "-79.4176053"
+        ],
+        "polygonpoints": [
+            [
+                -79.4176553,
+                43.7874047
+            ],
+            [
+                -79.41761994466094,
+                43.78739005533906
+            ],
+            [
+                -79.4176053,
+                43.7873547
+            ],
+            [
+                -79.41761994466094,
+                43.78731934466094
+            ],
+            [
+                -79.4176553,
+                43.7873047
+            ],
+            [
+                -79.41769065533907,
+                43.78731934466094
+            ],
+            [
+                -79.41770530000001,
+                43.7873547
+            ],
+            [
+                -79.41769065533907,
+                43.78739005533906
+            ]
+        ],
+        "lat": "43.7873547",
+        "lon": "-79.4176553",
+        "display_name": "TD Canada Trust, 1, Yonge Street, Newton Brook, North York, Toronto, Ontario, M2M 3T9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "12138887",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1131216699",
+        "boundingbox": [
+            "43.762886",
+            "43.762986",
+            "-79.4904149",
+            "-79.4903149"
+        ],
+        "polygonpoints": [
+            [
+                -79.4903649,
+                43.762986000000005
+            ],
+            [
+                -79.49032954466094,
+                43.76297135533906
+            ],
+            [
+                -79.4903149,
+                43.762936
+            ],
+            [
+                -79.49032954466094,
+                43.762900644660945
+            ],
+            [
+                -79.4903649,
+                43.762886
+            ],
+            [
+                -79.49040025533907,
+                43.762900644660945
+            ],
+            [
+                -79.4904149,
+                43.762936
+            ],
+            [
+                -79.49040025533907,
+                43.76297135533906
+            ]
+        ],
+        "lat": "43.762936",
+        "lon": "-79.4903649",
+        "display_name": "TD Canada Trust, 1, Keele Street, Northwood Park, North York, Toronto, Ontario, M3J 2B1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "19019759",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1815451424",
+        "boundingbox": [
+            "43.767686",
+            "43.767786",
+            "-79.387998",
+            "-79.387898"
+        ],
+        "polygonpoints": [
+            [
+                -79.387948,
+                43.767786
+            ],
+            [
+                -79.38791264466093,
+                43.76777135533906
+            ],
+            [
+                -79.38789799999999,
+                43.767736
+            ],
+            [
+                -79.38791264466093,
+                43.76770064466094
+            ],
+            [
+                -79.387948,
+                43.767686
+            ],
+            [
+                -79.38798335533906,
+                43.76770064466094
+            ],
+            [
+                -79.387998,
+                43.767736
+            ],
+            [
+                -79.38798335533906,
+                43.76777135533906
+            ]
+        ],
+        "lat": "43.767736",
+        "lon": "-79.387948",
+        "display_name": "TD Canada Trust, 2885, Bayview Avenue, Bayview Village, North York, Toronto, Ontario, M2K 1E6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "11753571",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1111952930",
+        "boundingbox": [
+            "43.7727187",
+            "43.7728187",
+            "-79.5053142",
+            "-79.5052142"
+        ],
+        "polygonpoints": [
+            [
+                -79.5052642,
+                43.7728187
+            ],
+            [
+                -79.50522884466093,
+                43.77280405533906
+            ],
+            [
+                -79.5052142,
+                43.7727687
+            ],
+            [
+                -79.50522884466093,
+                43.77273334466094
+            ],
+            [
+                -79.5052642,
+                43.7727187
+            ],
+            [
+                -79.50529955533906,
+                43.77273334466094
+            ],
+            [
+                -79.5053142,
+                43.7727687
+            ],
+            [
+                -79.50529955533906,
+                43.77280405533906
+            ]
+        ],
+        "lat": "43.7727687",
+        "lon": "-79.5052642",
+        "display_name": "TD Canada Trust, 115, Tunnel between Lassonde and CLH, Northwood Park, North York, Toronto, Ontario, M3J 2S5, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "8046566",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "859545354",
+        "boundingbox": [
+            "43.768359",
+            "43.768459",
+            "-79.414222",
+            "-79.414122"
+        ],
+        "polygonpoints": [
+            [
+                -79.414172,
+                43.768459
+            ],
+            [
+                -79.41413664466093,
+                43.76844435533906
+            ],
+            [
+                -79.41412199999999,
+                43.768409
+            ],
+            [
+                -79.41413664466093,
+                43.76837364466094
+            ],
+            [
+                -79.414172,
+                43.768359
+            ],
+            [
+                -79.41420735533906,
+                43.76837364466094
+            ],
+            [
+                -79.414222,
+                43.768409
+            ],
+            [
+                -79.41420735533906,
+                43.76844435533906
+            ]
+        ],
+        "lat": "43.768409",
+        "lon": "-79.414172",
+        "display_name": "TD Canada Trust, 5160, Park Home Avenue, Willowdale, North York, Toronto, Ontario, M2N 5W4, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "16184033",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1444962315",
+        "boundingbox": [
+            "43.80456",
+            "43.80466",
+            "-79.437579",
+            "-79.437479"
+        ],
+        "polygonpoints": [
+            [
+                -79.437529,
+                43.80466
+            ],
+            [
+                -79.43749364466093,
+                43.804645355339055
+            ],
+            [
+                -79.437479,
+                43.80461
+            ],
+            [
+                -79.43749364466093,
+                43.80457464466094
+            ],
+            [
+                -79.437529,
+                43.804559999999995
+            ],
+            [
+                -79.43756435533906,
+                43.80457464466094
+            ],
+            [
+                -79.437579,
+                43.80461
+            ],
+            [
+                -79.43756435533906,
+                43.804645355339055
+            ]
+        ],
+        "lat": "43.80461",
+        "lon": "-79.437529",
+        "display_name": "TD Canada Trust, Clark Avenue West, Thornhill, Vaughan, York Region, Ontario, L4J 5K2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "102978836",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "121777672",
+        "boundingbox": [
+            "43.8221534",
+            "43.8223226",
+            "-79.4255559",
+            "-79.4252205"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4255559",
+                "43.8222417"
+            ],
+            [
+                "-79.4255418",
+                "43.8221754"
+            ],
+            [
+                "-79.425519",
+                "43.822178"
+            ],
+            [
+                "-79.4255138",
+                "43.8221534"
+            ],
+            [
+                "-79.4252205",
+                "43.8221859"
+            ],
+            [
+                "-79.4252496",
+                "43.8223226"
+            ],
+            [
+                "-79.4253599",
+                "43.8223103"
+            ],
+            [
+                "-79.425355",
+                "43.822287"
+            ],
+            [
+                "-79.4255311",
+                "43.8222675"
+            ],
+            [
+                "-79.4255263",
+                "43.822245"
+            ],
+            [
+                "-79.4255559",
+                "43.8222417"
+            ]
+        ],
+        "lat": "43.8222138",
+        "lon": "-79.4253882028629",
+        "display_name": "TD Canada Trust, Yonge Street, Thornhill, Vaughan, York Region, Ontario, L4J 4E5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "23757150",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2346822340",
+        "boundingbox": [
+            "43.8430057",
+            "43.8431057",
+            "-79.3854961",
+            "-79.3853961"
+        ],
+        "polygonpoints": [
+            [
+                -79.3854461,
+                43.8431057
+            ],
+            [
+                -79.38541074466093,
+                43.84309105533906
+            ],
+            [
+                -79.3853961,
+                43.8430557
+            ],
+            [
+                -79.38541074466093,
+                43.84302034466094
+            ],
+            [
+                -79.3854461,
+                43.8430057
+            ],
+            [
+                -79.38548145533906,
+                43.84302034466094
+            ],
+            [
+                -79.3854961,
+                43.8430557
+            ],
+            [
+                -79.38548145533906,
+                43.84309105533906
+            ]
+        ],
+        "lat": "43.8430557",
+        "lon": "-79.3854461",
+        "display_name": "TD Canada Trust, 220, Commerce Valley Drive West, Markham, York Region, Ontario, L3T 7M8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "15070655",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1324407431",
+        "boundingbox": [
+            "43.845611",
+            "43.845711",
+            "-79.383358",
+            "-79.383258"
+        ],
+        "polygonpoints": [
+            [
+                -79.383308,
+                43.845711
+            ],
+            [
+                -79.38327264466093,
+                43.84569635533906
+            ],
+            [
+                -79.383258,
+                43.845661
+            ],
+            [
+                -79.38327264466093,
+                43.84562564466094
+            ],
+            [
+                -79.383308,
+                43.845611
+            ],
+            [
+                -79.38334335533906,
+                43.84562564466094
+            ],
+            [
+                -79.383358,
+                43.845661
+            ],
+            [
+                -79.38334335533906,
+                43.84569635533906
+            ]
+        ],
+        "lat": "43.845661",
+        "lon": "-79.383308",
+        "display_name": "TD Canada Trust, Lake to Lake Trail, Richmond Hill, York Region, Ontario, L3T 7M8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3578444",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "380298695",
+        "boundingbox": [
+            "43.9134263",
+            "43.9135263",
+            "-79.4476815",
+            "-79.4475815"
+        ],
+        "polygonpoints": [
+            [
+                -79.4476315,
+                43.9135263
+            ],
+            [
+                -79.44759614466093,
+                43.91351165533906
+            ],
+            [
+                -79.4475815,
+                43.9134763
+            ],
+            [
+                -79.44759614466093,
+                43.91344094466094
+            ],
+            [
+                -79.4476315,
+                43.9134263
+            ],
+            [
+                -79.44766685533907,
+                43.91344094466094
+            ],
+            [
+                -79.4476815,
+                43.9134763
+            ],
+            [
+                -79.44766685533907,
+                43.91351165533906
+            ]
+        ],
+        "lat": "43.9134763",
+        "lon": "-79.4476315",
+        "display_name": "TD Canada Trust, Yonge Street, Jefferson, Wilcox Lake, Richmond Hill, York Region, Ontario, L4E 4Z1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "11480253",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1071835929",
+        "boundingbox": [
+            "43.8466825",
+            "43.8467825",
+            "-79.4614628",
+            "-79.4613628"
+        ],
+        "polygonpoints": [
+            [
+                -79.4614128,
+                43.8467825
+            ],
+            [
+                -79.46137744466094,
+                43.84676785533906
+            ],
+            [
+                -79.4613628,
+                43.8467325
+            ],
+            [
+                -79.46137744466094,
+                43.84669714466094
+            ],
+            [
+                -79.4614128,
+                43.8466825
+            ],
+            [
+                -79.46144815533907,
+                43.84669714466094
+            ],
+            [
+                -79.4614628,
+                43.8467325
+            ],
+            [
+                -79.46144815533907,
+                43.84676785533906
+            ]
+        ],
+        "lat": "43.8467325",
+        "lon": "-79.4614128",
+        "display_name": "TD Canada Trust, Rutherford Road, Carrville, Richmond Hill, York Region, Ontario, L6A 4N7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "119942615",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "186688874",
+        "boundingbox": [
+            "43.8807918",
+            "43.8809582",
+            "-79.4392562",
+            "-79.4389371"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4392562",
+                "43.8808991"
+            ],
+            [
+                "-79.4392117",
+                "43.8807918"
+            ],
+            [
+                "-79.4389371",
+                "43.8808509"
+            ],
+            [
+                "-79.4389816",
+                "43.8809582"
+            ],
+            [
+                "-79.4392562",
+                "43.8808991"
+            ]
+        ],
+        "lat": "43.880875",
+        "lon": "-79.43909665",
+        "display_name": "TD Canada Trust, Yonge Street, Elgin Mills, Richmond Hill, York Region, Ontario, L4C 3B9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "114014680",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "165120597",
+        "boundingbox": [
+            "43.9528763",
+            "43.9530868",
+            "-79.4562119",
+            "-79.4558134"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4562119",
+                "43.9530169"
+            ],
+            [
+                "-79.4561567",
+                "43.9528763"
+            ],
+            [
+                "-79.4558134",
+                "43.9529462"
+            ],
+            [
+                "-79.4558686",
+                "43.9530868"
+            ],
+            [
+                "-79.4562119",
+                "43.9530169"
+            ]
+        ],
+        "lat": "43.95298155",
+        "lon": "-79.45601265",
+        "display_name": "TD Canada Trust, 13337, Yonge Street, Oak Ridges, Richmond Hill, York Region, Ontario, L4E 0L2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "16224440",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1444717103",
+        "boundingbox": [
+            "43.850711",
+            "43.850811",
+            "-79.4080728",
+            "-79.4079728"
+        ],
+        "polygonpoints": [
+            [
+                -79.4080228,
+                43.850811
+            ],
+            [
+                -79.40798744466093,
+                43.85079635533906
+            ],
+            [
+                -79.4079728,
+                43.850761
+            ],
+            [
+                -79.40798744466093,
+                43.85072564466094
+            ],
+            [
+                -79.4080228,
+                43.850711
+            ],
+            [
+                -79.40805815533906,
+                43.85072564466094
+            ],
+            [
+                -79.4080728,
+                43.850761
+            ],
+            [
+                -79.40805815533906,
+                43.85079635533906
+            ]
+        ],
+        "lat": "43.850761",
+        "lon": "-79.4080228",
+        "display_name": "TD Canada Trust, Highbridge Road, Richmond Hill, York Region, Ontario, L4B 3M6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "47366205",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3599602623",
+        "boundingbox": [
+            "43.8932829",
+            "43.8933829",
+            "-79.4395847",
+            "-79.4394847"
+        ],
+        "polygonpoints": [
+            [
+                -79.4395347,
+                43.8933829
+            ],
+            [
+                -79.43949934466093,
+                43.893368255339055
+            ],
+            [
+                -79.4394847,
+                43.8933329
+            ],
+            [
+                -79.43949934466093,
+                43.89329754466094
+            ],
+            [
+                -79.4395347,
+                43.893282899999996
+            ],
+            [
+                -79.43957005533906,
+                43.89329754466094
+            ],
+            [
+                -79.4395847,
+                43.8933329
+            ],
+            [
+                -79.43957005533906,
+                43.893368255339055
+            ]
+        ],
+        "lat": "43.8933329",
+        "lon": "-79.4395347",
+        "display_name": "TD Canada Trust, Yorkland Street, Elgin Mills, Richmond Hill, York Region, Ontario, L4C 3E3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "55331378",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4457372289",
+        "boundingbox": [
+            "43.8847969",
+            "43.8848969",
+            "-79.4171266",
+            "-79.4170266"
+        ],
+        "polygonpoints": [
+            [
+                -79.4170766,
+                43.8848969
+            ],
+            [
+                -79.41704124466094,
+                43.88488225533906
+            ],
+            [
+                -79.4170266,
+                43.8848469
+            ],
+            [
+                -79.41704124466094,
+                43.88481154466094
+            ],
+            [
+                -79.4170766,
+                43.8847969
+            ],
+            [
+                -79.41711195533907,
+                43.88481154466094
+            ],
+            [
+                -79.4171266,
+                43.8848469
+            ],
+            [
+                -79.41711195533907,
+                43.88488225533906
+            ]
+        ],
+        "lat": "43.8848469",
+        "lon": "-79.4170766",
+        "display_name": "TD Canada Trust, 10381, Bayview Avenue, Beverley Acres, Richmond Hill, York Region, Ontario, L4C 0R9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "45876702",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3368309773",
+        "boundingbox": [
+            "43.8536808",
+            "43.8537808",
+            "-79.4359641",
+            "-79.4358641"
+        ],
+        "polygonpoints": [
+            [
+                -79.4359141,
+                43.8537808
+            ],
+            [
+                -79.43587874466094,
+                43.85376615533906
+            ],
+            [
+                -79.4358641,
+                43.8537308
+            ],
+            [
+                -79.43587874466094,
+                43.85369544466094
+            ],
+            [
+                -79.4359141,
+                43.8536808
+            ],
+            [
+                -79.43594945533907,
+                43.85369544466094
+            ],
+            [
+                -79.4359641,
+                43.8537308
+            ],
+            [
+                -79.43594945533907,
+                43.85376615533906
+            ]
+        ],
+        "lat": "43.8537308",
+        "lon": "-79.4359141",
+        "display_name": "TD Canada Trust, Carrville Road, Richvale, Richmond Hill, York Region, Ontario, L4C 5G2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "42999102",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3126895673",
+        "boundingbox": [
+            "43.899326",
+            "43.899426",
+            "-79.3943375",
+            "-79.3942375"
+        ],
+        "polygonpoints": [
+            [
+                -79.3942875,
+                43.899426
+            ],
+            [
+                -79.39425214466094,
+                43.899411355339055
+            ],
+            [
+                -79.3942375,
+                43.899376
+            ],
+            [
+                -79.39425214466094,
+                43.89934064466094
+            ],
+            [
+                -79.3942875,
+                43.899325999999995
+            ],
+            [
+                -79.39432285533907,
+                43.89934064466094
+            ],
+            [
+                -79.3943375,
+                43.899376
+            ],
+            [
+                -79.39432285533907,
+                43.899411355339055
+            ]
+        ],
+        "lat": "43.899376",
+        "lon": "-79.3942875",
+        "display_name": "TD Canada Trust, Elgin Mills Road East, Headford, Richmond Hill, York Region, Ontario, L4S 0B2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "38254933",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2923867753",
+        "boundingbox": [
+            "43.9139835",
+            "43.9140835",
+            "-79.474298",
+            "-79.474198"
+        ],
+        "polygonpoints": [
+            [
+                -79.474248,
+                43.914083500000004
+            ],
+            [
+                -79.47421264466094,
+                43.91406885533906
+            ],
+            [
+                -79.474198,
+                43.9140335
+            ],
+            [
+                -79.47421264466094,
+                43.913998144660944
+            ],
+            [
+                -79.474248,
+                43.9139835
+            ],
+            [
+                -79.47428335533907,
+                43.913998144660944
+            ],
+            [
+                -79.474298,
+                43.9140335
+            ],
+            [
+                -79.47428335533907,
+                43.91406885533906
+            ]
+        ],
+        "lat": "43.9140335",
+        "lon": "-79.474248",
+        "display_name": "TD Canada Trust, Bathurst Street, Richmond Hill, York Region, Ontario, L4E 0A3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3655648",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383400245",
+        "boundingbox": [
+            "43.8090342",
+            "43.8091342",
+            "-79.4606257",
+            "-79.4605257"
+        ],
+        "polygonpoints": [
+            [
+                -79.4605757,
+                43.8091342
+            ],
+            [
+                -79.46054034466094,
+                43.80911955533906
+            ],
+            [
+                -79.4605257,
+                43.8090842
+            ],
+            [
+                -79.46054034466094,
+                43.80904884466094
+            ],
+            [
+                -79.4605757,
+                43.8090342
+            ],
+            [
+                -79.46061105533907,
+                43.80904884466094
+            ],
+            [
+                -79.46062570000001,
+                43.8090842
+            ],
+            [
+                -79.46061105533907,
+                43.80911955533906
+            ]
+        ],
+        "lat": "43.8090842",
+        "lon": "-79.4605757",
+        "display_name": "TD Canada Trust, 1054, Centre Street, Vaughan, York Region, Ontario, L4J 0A7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "89418029",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "55055632",
+        "boundingbox": [
+            "43.849623",
+            "43.8498483",
+            "-79.5349408",
+            "-79.5345953"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5349408",
+                "43.8497871"
+            ],
+            [
+                "-79.5348707",
+                "43.849623"
+            ],
+            [
+                "-79.5345953",
+                "43.8496842"
+            ],
+            [
+                "-79.5346654",
+                "43.8498483"
+            ],
+            [
+                "-79.5349408",
+                "43.8497871"
+            ]
+        ],
+        "lat": "43.84973565",
+        "lon": "-79.53476805",
+        "display_name": "TD Canada Trust, Major Mackenzie Drive West, Teston, Vaughan, York Region, Ontario, L6A 1Y3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3655242",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383405976",
+        "boundingbox": [
+            "43.7818596",
+            "43.7819596",
+            "-79.4954424",
+            "-79.4953424"
+        ],
+        "polygonpoints": [
+            [
+                -79.4953924,
+                43.7819596
+            ],
+            [
+                -79.49535704466093,
+                43.78194495533906
+            ],
+            [
+                -79.4953424,
+                43.7819096
+            ],
+            [
+                -79.49535704466093,
+                43.78187424466094
+            ],
+            [
+                -79.4953924,
+                43.7818596
+            ],
+            [
+                -79.49542775533907,
+                43.78187424466094
+            ],
+            [
+                -79.4954424,
+                43.7819096
+            ],
+            [
+                -79.49542775533907,
+                43.78194495533906
+            ]
+        ],
+        "lat": "43.7819096",
+        "lon": "-79.4953924",
+        "display_name": "TD Canada Trust, 2300, Steeles Avenue West, Vaughan, York Region, Ontario, L4K 2Z5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "121719403",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "197174568",
+        "boundingbox": [
+            "43.8283099",
+            "43.8285916",
+            "-79.541709",
+            "-79.5414031"
+        ],
+        "polygonpoints": [
+            [
+                "-79.541709",
+                "43.8283548"
+            ],
+            [
+                "-79.541695",
+                "43.8283099"
+            ],
+            [
+                "-79.5416604",
+                "43.8283155"
+            ],
+            [
+                "-79.5414031",
+                "43.8283572"
+            ],
+            [
+                "-79.5414761",
+                "43.8285916"
+            ],
+            [
+                "-79.5416767",
+                "43.8285591"
+            ],
+            [
+                "-79.5416178",
+                "43.8283696"
+            ],
+            [
+                "-79.5416752",
+                "43.8283603"
+            ],
+            [
+                "-79.541709",
+                "43.8283548"
+            ]
+        ],
+        "lat": "43.82846435",
+        "lon": "-79.5415418600469",
+        "display_name": "TD Canada Trust, Rutherford Road, Vellore, Vaughan, York Region, Ontario, L4K 2M9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "123504086",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "198086493",
+        "boundingbox": [
+            "43.9295076",
+            "43.9298718",
+            "-79.5262064",
+            "-79.5259157"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5262064",
+                "43.929845"
+            ],
+            [
+                "-79.5261218",
+                "43.9295076"
+            ],
+            [
+                "-79.5259157",
+                "43.9295345"
+            ],
+            [
+                "-79.5260003",
+                "43.9298718"
+            ],
+            [
+                "-79.5262064",
+                "43.929845"
+            ]
+        ],
+        "lat": "43.92968975",
+        "lon": "-79.5260610557705",
+        "display_name": "TD Canada Trust, King Road, Clearview Heights, Temperanceville, King, York Region, Ontario, L7B 1A2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3628264",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "380284450",
+        "boundingbox": [
+            "43.9901992",
+            "43.9902992",
+            "-79.4647184",
+            "-79.4646184"
+        ],
+        "polygonpoints": [
+            [
+                -79.4646684,
+                43.9902992
+            ],
+            [
+                -79.46463304466093,
+                43.99028455533906
+            ],
+            [
+                -79.46461839999999,
+                43.9902492
+            ],
+            [
+                -79.46463304466093,
+                43.99021384466094
+            ],
+            [
+                -79.4646684,
+                43.9901992
+            ],
+            [
+                -79.46470375533906,
+                43.99021384466094
+            ],
+            [
+                -79.4647184,
+                43.9902492
+            ],
+            [
+                -79.46470375533906,
+                43.99028455533906
+            ]
+        ],
+        "lat": "43.9902492",
+        "lon": "-79.4646684",
+        "display_name": "TD Canada Trust, 14845, Yonge Street, Cherry, Aurora, York Region, Ontario, L4G 1M7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    }
+]
