@@ -11,6 +11,36 @@ model TD_dwellTimeOSM
 
 global {
 	
+	// not sure how it works yet. But I think I can import an OSM map, parse it and take the banks and coffee shops out of it.
+
+	//map filtering <- map(["amenity"::["bank", "ATM","cafe"]]);
+	
+	// OSM file to load
+
+	//file<geometry> osmfile <-  file<geometry>(osm_file("../includes/rouen.gz", filtering))  ;
+	//geometry shape <- envelope(osmfile);	
+
+	// Then in init function I can do something like this. I still need to know how to get the name of amenity.
+	/*
+		loop geom over: osmfile {
+			if (shape covers geom) {
+				string place_str <- string(geom get("amenity"));
+				write place_str;
+				if (length(geom.points) = 1 and ( place_str = "bank" or place_str = "cafe")) {
+					create road with:[shape::geom, type::place_str]{
+						nodes_map[location] <- self;
+					}
+					
+				}
+				if (length(geom.points) != 1 and (place_str = "bank" or place_str = "bank")){
+					create road with:[shape::geom, type::place_str]{
+						nodes_map[location] <- self;
+					}					
+				}
+	*/
+
+
+
 	shape_file shape_city <- shape_file("../includes/Buildings_TO_WGS84.shp");//shape_file("../includes/Route_Regional_Road.shp");//shape_file("../includes/2018_Vacant_Lands_with_PropertyPINS.shp");//
     geometry shape <- envelope(shape_city);
 
