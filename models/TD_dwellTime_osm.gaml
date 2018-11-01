@@ -189,12 +189,9 @@ global {
 						userDate <- [];
 						userTime <- [];
 						user_td <- [];
-// Mississauga
-//						if ( point(to_GAMA_CRS({lng, lat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.809754,43.499743}, "EPSG:4326")), point(to_GAMA_CRS({-79.550151,43.673014}, "EPSG:4326")))){//(lng between (-79.405138,-79.370119) and lat between (43.644856,43.659994)){
-// York Region
-//						if ( point(to_GAMA_CRS({plng, plat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.544849,43.751927}, "EPSG:4326")), point(to_GAMA_CRS({-79.3719,43.998826}, "EPSG:4326")))){
+
 						// Only create the agents which are inside a specific boundary (like downtown Toronto or Richmond Hill or .....) 
-						if ( point(to_GAMA_CRS({lng, lat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.435067,43.644925}, "EPSG:4326")), point(to_GAMA_CRS({-79.359908,43.669973}, "EPSG:4326")))){//(lng between (-79.405138,-79.370119) and lat between (43.644856,43.659994)){
+						if ( point(to_GAMA_CRS({plng, plat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.435067,43.644925}, "EPSG:4326")), point(to_GAMA_CRS({-79.359908,43.669973}, "EPSG:4326")))){//(lng between (-79.405138,-79.370119) and lat between (43.644856,43.659994)){
 							user <+ point(to_GAMA_CRS({plng, plat}, "EPSG:4326"));
 							user_td <+ {plng, plat};
 							DateTime <- location_data[2,r];
@@ -209,7 +206,7 @@ global {
 
 				else{
 
-						if ( point(to_GAMA_CRS({lng, lat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.435067,43.644925}, "EPSG:4326")), point(to_GAMA_CRS({-79.359908,43.669973}, "EPSG:4326")))){//(lng between (-79.405138,-79.370119) and lat between (43.644856,43.659994)){
+						if ( point(to_GAMA_CRS({plng, plat}, "EPSG:4326")) overlaps rectangle(point(to_GAMA_CRS({-79.435067,43.644925}, "EPSG:4326")), point(to_GAMA_CRS({-79.359908,43.669973}, "EPSG:4326")))){//(lng between (-79.405138,-79.370119) and lat between (43.644856,43.659994)){
 						user <+ point(to_GAMA_CRS({plng, plat}, "EPSG:4326"));
 						user_td <+ {plng, plat};
 						DateTime <- location_data[2,r];
