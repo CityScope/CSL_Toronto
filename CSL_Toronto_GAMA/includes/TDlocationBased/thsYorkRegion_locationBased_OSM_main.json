@@ -1,0 +1,2500 @@
+[
+    {
+        "place_id": "17912249",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1696929321",
+        "boundingbox": [
+            "43.812951",
+            "43.813051",
+            "-79.3441095",
+            "-79.3440095"
+        ],
+        "polygonpoints": [
+            [
+                -79.3440595,
+                43.813051
+            ],
+            [
+                -79.34402414466093,
+                43.81303635533906
+            ],
+            [
+                -79.3440095,
+                43.813001
+            ],
+            [
+                -79.34402414466093,
+                43.81296564466094
+            ],
+            [
+                -79.3440595,
+                43.812951
+            ],
+            [
+                -79.34409485533907,
+                43.81296564466094
+            ],
+            [
+                -79.3441095,
+                43.813001
+            ],
+            [
+                -79.34409485533907,
+                43.81303635533906
+            ]
+        ],
+        "lat": "43.813001",
+        "lon": "-79.3440595",
+        "display_name": "Tim Hortons, 3381, Steeles Avenue East, North York, Markham, York Region, Ontario, M2H 3S7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.8730077606805751,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "140166633",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "271775947",
+        "boundingbox": [
+            "43.7955865",
+            "43.7957993",
+            "-79.4335664",
+            "-79.4333113"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4335664",
+                "43.7957011"
+            ],
+            [
+                "-79.433504",
+                "43.7955865"
+            ],
+            [
+                "-79.4333113",
+                "43.7956356"
+            ],
+            [
+                "-79.4333906",
+                "43.7957993"
+            ],
+            [
+                "-79.4335267",
+                "43.7957665"
+            ],
+            [
+                "-79.4335664",
+                "43.7957011"
+            ]
+        ],
+        "lat": "43.79566835",
+        "lon": "-79.4334378661918",
+        "display_name": "Tim Hortons, Steeles Avenue West, North York, Toronto, York Region, Ontario, L4J 6X3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6754678",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "686704698",
+        "boundingbox": [
+            "43.8149438",
+            "43.8150438",
+            "-79.4237461",
+            "-79.4236461"
+        ],
+        "polygonpoints": [
+            [
+                -79.4236961,
+                43.815043800000005
+            ],
+            [
+                -79.42366074466094,
+                43.81502915533906
+            ],
+            [
+                -79.4236461,
+                43.8149938
+            ],
+            [
+                -79.42366074466094,
+                43.814958444660945
+            ],
+            [
+                -79.4236961,
+                43.8149438
+            ],
+            [
+                -79.42373145533907,
+                43.814958444660945
+            ],
+            [
+                -79.4237461,
+                43.8149938
+            ],
+            [
+                -79.42373145533907,
+                43.81502915533906
+            ]
+        ],
+        "lat": "43.8149938",
+        "lon": "-79.4236961",
+        "display_name": "Tim Hortons, Yonge Street, Thornhill, Vaughan, York Region, Ontario, L4J 4E5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "56551721",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4549754251",
+        "boundingbox": [
+            "43.8305296",
+            "43.8306296",
+            "-79.3536234",
+            "-79.3535234"
+        ],
+        "polygonpoints": [
+            [
+                -79.3535734,
+                43.8306296
+            ],
+            [
+                -79.35353804466094,
+                43.83061495533906
+            ],
+            [
+                -79.3535234,
+                43.8305796
+            ],
+            [
+                -79.35353804466094,
+                43.83054424466094
+            ],
+            [
+                -79.3535734,
+                43.8305296
+            ],
+            [
+                -79.35360875533907,
+                43.83054424466094
+            ],
+            [
+                -79.3536234,
+                43.8305796
+            ],
+            [
+                -79.35360875533907,
+                43.83061495533906
+            ]
+        ],
+        "lat": "43.8305796",
+        "lon": "-79.3535734",
+        "display_name": "Tim Hortons, 7690, Woodbine Avenue, German Mills, Markham, York Region, Ontario, M5H 2V5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "48643480",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3718745054",
+        "boundingbox": [
+            "43.8245319",
+            "43.8246319",
+            "-79.3530132",
+            "-79.3529132"
+        ],
+        "polygonpoints": [
+            [
+                -79.3529632,
+                43.8246319
+            ],
+            [
+                -79.35292784466094,
+                43.82461725533906
+            ],
+            [
+                -79.3529132,
+                43.8245819
+            ],
+            [
+                -79.35292784466094,
+                43.82454654466094
+            ],
+            [
+                -79.3529632,
+                43.8245319
+            ],
+            [
+                -79.35299855533907,
+                43.82454654466094
+            ],
+            [
+                -79.3530132,
+                43.8245819
+            ],
+            [
+                -79.35299855533907,
+                43.82461725533906
+            ]
+        ],
+        "lat": "43.8245819",
+        "lon": "-79.3529632",
+        "display_name": "Tim Hortons, 2851, John Street, German Mills, Markham, York Region, Ontario, L3T 6G7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "47486100",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3620992884",
+        "boundingbox": [
+            "43.7987798",
+            "43.7988798",
+            "-79.4199305",
+            "-79.4198305"
+        ],
+        "polygonpoints": [
+            [
+                -79.4198805,
+                43.7988798
+            ],
+            [
+                -79.41984514466094,
+                43.79886515533906
+            ],
+            [
+                -79.4198305,
+                43.7988298
+            ],
+            [
+                -79.41984514466094,
+                43.79879444466094
+            ],
+            [
+                -79.4198805,
+                43.7987798
+            ],
+            [
+                -79.41991585533907,
+                43.79879444466094
+            ],
+            [
+                -79.4199305,
+                43.7988298
+            ],
+            [
+                -79.41991585533907,
+                43.79886515533906
+            ]
+        ],
+        "lat": "43.7988298",
+        "lon": "-79.4198805",
+        "display_name": "Tim Hortons, Highland Park Boulevard, Steeles Corners, Markham, York Region, Ontario, L3T 2A5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7339691",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "777804064",
+        "boundingbox": [
+            "43.8117691",
+            "43.8118691",
+            "-79.3595621",
+            "-79.3594621"
+        ],
+        "polygonpoints": [
+            [
+                -79.3595121,
+                43.8118691
+            ],
+            [
+                -79.35947674466094,
+                43.81185445533906
+            ],
+            [
+                -79.3594621,
+                43.8118191
+            ],
+            [
+                -79.35947674466094,
+                43.81178374466094
+            ],
+            [
+                -79.3595121,
+                43.8117691
+            ],
+            [
+                -79.35954745533907,
+                43.81178374466094
+            ],
+            [
+                -79.3595621,
+                43.8118191
+            ],
+            [
+                -79.35954745533907,
+                43.81185445533906
+            ]
+        ],
+        "lat": "43.8118191",
+        "lon": "-79.3595121",
+        "display_name": "Tim Hortons, Steeles Avenue East, German Mills, Markham, York Region, Ontario, L3T 4X1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6073664",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "617329856",
+        "boundingbox": [
+            "43.8358726",
+            "43.8359726",
+            "-79.507259",
+            "-79.507159"
+        ],
+        "polygonpoints": [
+            [
+                -79.507209,
+                43.835972600000005
+            ],
+            [
+                -79.50717364466094,
+                43.83595795533906
+            ],
+            [
+                -79.507159,
+                43.8359226
+            ],
+            [
+                -79.50717364466094,
+                43.835887244660945
+            ],
+            [
+                -79.507209,
+                43.8358726
+            ],
+            [
+                -79.50724435533907,
+                43.835887244660945
+            ],
+            [
+                -79.507259,
+                43.8359226
+            ],
+            [
+                -79.50724435533907,
+                43.83595795533906
+            ]
+        ],
+        "lat": "43.8359226",
+        "lon": "-79.507209",
+        "display_name": "Tim Hortons, 9151, Rutherford Road, Maple, Vaughan, York Region, Ontario, L4K 2N8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51292647",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4030059075",
+        "boundingbox": [
+            "43.833892",
+            "43.833992",
+            "-79.5210904",
+            "-79.5209904"
+        ],
+        "polygonpoints": [
+            [
+                -79.5210404,
+                43.833992
+            ],
+            [
+                -79.52100504466094,
+                43.83397735533906
+            ],
+            [
+                -79.5209904,
+                43.833942
+            ],
+            [
+                -79.52100504466094,
+                43.83390664466094
+            ],
+            [
+                -79.5210404,
+                43.833892
+            ],
+            [
+                -79.52107575533907,
+                43.83390664466094
+            ],
+            [
+                -79.5210904,
+                43.833942
+            ],
+            [
+                -79.52107575533907,
+                43.83397735533906
+            ]
+        ],
+        "lat": "43.833942",
+        "lon": "-79.5210404",
+        "display_name": "Tim Hortons, Rutherford Road, Vaughan, York Region, Ontario, L4K 2N6, Canada",
+        "class": "amenity",
+        "type": "fast_food",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
+    },
+    {
+        "place_id": "143923582",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "297253798",
+        "boundingbox": [
+            "43.7740435",
+            "43.774277",
+            "-79.5305443",
+            "-79.5302619"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5305443",
+                "43.774201"
+            ],
+            [
+                "-79.5304819",
+                "43.7740473"
+            ],
+            [
+                "-79.530419",
+                "43.7740606"
+            ],
+            [
+                "-79.530412",
+                "43.7740435"
+            ],
+            [
+                "-79.5302619",
+                "43.7740753"
+            ],
+            [
+                "-79.5303114",
+                "43.7741972"
+            ],
+            [
+                "-79.5303402",
+                "43.7741911"
+            ],
+            [
+                "-79.5303616",
+                "43.7742439"
+            ],
+            [
+                "-79.5304754",
+                "43.7742198"
+            ],
+            [
+                "-79.5304986",
+                "43.774277"
+            ],
+            [
+                "-79.5305374",
+                "43.7742688"
+            ],
+            [
+                "-79.5305126",
+                "43.7742077"
+            ],
+            [
+                "-79.5305443",
+                "43.774201"
+            ]
+        ],
+        "lat": "43.7741332",
+        "lon": "-79.5304010928276",
+        "display_name": "Tim Hortons, 3310, Steeles Avenue West, Vaughan Corporate Centre, Vaughan, York Region, Ontario, M3N 1V9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "130721273",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "231980574",
+        "boundingbox": [
+            "43.8290482",
+            "43.8291991",
+            "-79.5331587",
+            "-79.5327885"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5331587",
+                "43.829114"
+            ],
+            [
+                "-79.5331426",
+                "43.8290714"
+            ],
+            [
+                "-79.5330782",
+                "43.8290482"
+            ],
+            [
+                "-79.5328744",
+                "43.8290985"
+            ],
+            [
+                "-79.5327885",
+                "43.8291217"
+            ],
+            [
+                "-79.5328261",
+                "43.8291798"
+            ],
+            [
+                "-79.5328851",
+                "43.8291991"
+            ],
+            [
+                "-79.5331426",
+                "43.829145"
+            ],
+            [
+                "-79.5331587",
+                "43.829114"
+            ]
+        ],
+        "lat": "43.82913335",
+        "lon": "-79.5329723449493",
+        "display_name": "Tim Hortons, Jane Street, Vaughan, York Region, Ontario, L4K 0B1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "54546804",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4415114188",
+        "boundingbox": [
+            "43.8267527",
+            "43.8268527",
+            "-79.4639615",
+            "-79.4638615"
+        ],
+        "polygonpoints": [
+            [
+                -79.4639115,
+                43.8268527
+            ],
+            [
+                -79.46387614466093,
+                43.82683805533906
+            ],
+            [
+                -79.4638615,
+                43.8268027
+            ],
+            [
+                -79.46387614466093,
+                43.826767344660944
+            ],
+            [
+                -79.4639115,
+                43.8267527
+            ],
+            [
+                -79.46394685533906,
+                43.826767344660944
+            ],
+            [
+                -79.4639615,
+                43.8268027
+            ],
+            [
+                -79.46394685533906,
+                43.82683805533906
+            ]
+        ],
+        "lat": "43.8268027",
+        "lon": "-79.4639115",
+        "display_name": "Tim Hortons, 1, Thornhill Woods Drive, Vaughan, York Region, Ontario, L4J 8V3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "52545988",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4158223408",
+        "boundingbox": [
+            "43.7885613",
+            "43.7886613",
+            "-79.4959592",
+            "-79.4958592"
+        ],
+        "polygonpoints": [
+            [
+                -79.4959092,
+                43.7886613
+            ],
+            [
+                -79.49587384466093,
+                43.78864665533906
+            ],
+            [
+                -79.4958592,
+                43.7886113
+            ],
+            [
+                -79.49587384466093,
+                43.78857594466094
+            ],
+            [
+                -79.4959092,
+                43.7885613
+            ],
+            [
+                -79.49594455533907,
+                43.78857594466094
+            ],
+            [
+                -79.4959592,
+                43.7886113
+            ],
+            [
+                -79.49594455533907,
+                43.78864665533906
+            ]
+        ],
+        "lat": "43.7886113",
+        "lon": "-79.4959092",
+        "display_name": "Tim Hortons, Great Gulf Drive, Concord, Vaughan, York Region, Ontario, L4K 2T7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "44962683",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3301702815",
+        "boundingbox": [
+            "43.787343",
+            "43.787443",
+            "-79.4726351",
+            "-79.4725351"
+        ],
+        "polygonpoints": [
+            [
+                -79.4725851,
+                43.787443
+            ],
+            [
+                -79.47254974466094,
+                43.78742835533906
+            ],
+            [
+                -79.4725351,
+                43.787393
+            ],
+            [
+                -79.47254974466094,
+                43.78735764466094
+            ],
+            [
+                -79.4725851,
+                43.787343
+            ],
+            [
+                -79.47262045533907,
+                43.78735764466094
+            ],
+            [
+                -79.4726351,
+                43.787393
+            ],
+            [
+                -79.47262045533907,
+                43.78742835533906
+            ]
+        ],
+        "lat": "43.787393",
+        "lon": "-79.4725851",
+        "display_name": "Tim Hortons, 1600, Steeles Avenue West, Fisherville, North York, Vaughan, York Region, Ontario, M3J 3N3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3587414",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383400268",
+        "boundingbox": [
+            "43.8065166",
+            "43.8066166",
+            "-79.474195",
+            "-79.474095"
+        ],
+        "polygonpoints": [
+            [
+                -79.474145,
+                43.8066166
+            ],
+            [
+                -79.47410964466093,
+                43.806601955339055
+            ],
+            [
+                -79.47409499999999,
+                43.8065666
+            ],
+            [
+                -79.47410964466093,
+                43.80653124466094
+            ],
+            [
+                -79.474145,
+                43.806516599999995
+            ],
+            [
+                -79.47418035533906,
+                43.80653124466094
+            ],
+            [
+                -79.474195,
+                43.8065666
+            ],
+            [
+                -79.47418035533906,
+                43.806601955339055
+            ]
+        ],
+        "lat": "43.8065666",
+        "lon": "-79.474145",
+        "display_name": "Tim Hortons, Dufferin Street, Vaughan, York Region, Ontario, L4J 7R4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+    {
+        "place_id": "6754678",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "686704698",
+        "boundingbox": [
+            "43.8149438",
+            "43.8150438",
+            "-79.4237461",
+            "-79.4236461"
+        ],
+        "polygonpoints": [
+            [
+                -79.4236961,
+                43.815043800000005
+            ],
+            [
+                -79.42366074466094,
+                43.81502915533906
+            ],
+            [
+                -79.4236461,
+                43.8149938
+            ],
+            [
+                -79.42366074466094,
+                43.814958444660945
+            ],
+            [
+                -79.4236961,
+                43.8149438
+            ],
+            [
+                -79.42373145533907,
+                43.814958444660945
+            ],
+            [
+                -79.4237461,
+                43.8149938
+            ],
+            [
+                -79.42373145533907,
+                43.81502915533906
+            ]
+        ],
+        "lat": "43.8149938",
+        "lon": "-79.4236961",
+        "display_name": "Tim Hortons, Yonge Street, Thornhill, Vaughan, York Region, Ontario, L4J 4E5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3655061",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383282552",
+        "boundingbox": [
+            "43.8420776",
+            "43.8421776",
+            "-79.3905624",
+            "-79.3904624"
+        ],
+        "polygonpoints": [
+            [
+                -79.3905124,
+                43.8421776
+            ],
+            [
+                -79.39047704466094,
+                43.842162955339056
+            ],
+            [
+                -79.3904624,
+                43.8421276
+            ],
+            [
+                -79.39047704466094,
+                43.84209224466094
+            ],
+            [
+                -79.3905124,
+                43.842077599999996
+            ],
+            [
+                -79.39054775533907,
+                43.84209224466094
+            ],
+            [
+                -79.39056240000001,
+                43.8421276
+            ],
+            [
+                -79.39054775533907,
+                43.842162955339056
+            ]
+        ],
+        "lat": "43.8421276",
+        "lon": "-79.3905124",
+        "display_name": "Tim Hortons, Highway 7, Thornlea, Markham, York Region, Ontario, L3T 0A5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6073664",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "617329856",
+        "boundingbox": [
+            "43.8358726",
+            "43.8359726",
+            "-79.507259",
+            "-79.507159"
+        ],
+        "polygonpoints": [
+            [
+                -79.507209,
+                43.835972600000005
+            ],
+            [
+                -79.50717364466094,
+                43.83595795533906
+            ],
+            [
+                -79.507159,
+                43.8359226
+            ],
+            [
+                -79.50717364466094,
+                43.835887244660945
+            ],
+            [
+                -79.507209,
+                43.8358726
+            ],
+            [
+                -79.50724435533907,
+                43.835887244660945
+            ],
+            [
+                -79.507259,
+                43.8359226
+            ],
+            [
+                -79.50724435533907,
+                43.83595795533906
+            ]
+        ],
+        "lat": "43.8359226",
+        "lon": "-79.507209",
+        "display_name": "Tim Hortons, 9151, Rutherford Road, Maple, Vaughan, York Region, Ontario, L4K 2N8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4384011",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "473507783",
+        "boundingbox": [
+            "43.8428748",
+            "43.8429748",
+            "-79.4079983",
+            "-79.4078983"
+        ],
+        "polygonpoints": [
+            [
+                -79.4079483,
+                43.8429748
+            ],
+            [
+                -79.40791294466094,
+                43.84296015533906
+            ],
+            [
+                -79.4078983,
+                43.8429248
+            ],
+            [
+                -79.40791294466094,
+                43.84288944466094
+            ],
+            [
+                -79.4079483,
+                43.8428748
+            ],
+            [
+                -79.40798365533907,
+                43.84288944466094
+            ],
+            [
+                -79.4079983,
+                43.8429248
+            ],
+            [
+                -79.40798365533907,
+                43.84296015533906
+            ]
+        ],
+        "lat": "43.8429248",
+        "lon": "-79.4079483",
+        "display_name": "Tim Hortons, Creswick Road, Richmond Hill, York Region, Ontario, L4B 4V9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "15070273",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1324395811",
+        "boundingbox": [
+            "43.86106",
+            "43.86116",
+            "-79.387472",
+            "-79.387372"
+        ],
+        "polygonpoints": [
+            [
+                -79.387422,
+                43.86116
+            ],
+            [
+                -79.38738664466094,
+                43.861145355339055
+            ],
+            [
+                -79.387372,
+                43.86111
+            ],
+            [
+                -79.38738664466094,
+                43.86107464466094
+            ],
+            [
+                -79.387422,
+                43.861059999999995
+            ],
+            [
+                -79.38745735533907,
+                43.86107464466094
+            ],
+            [
+                -79.387472,
+                43.86111
+            ],
+            [
+                -79.38745735533907,
+                43.861145355339055
+            ]
+        ],
+        "lat": "43.86111",
+        "lon": "-79.387422",
+        "display_name": "Tim Hortons, Lake to Lake Trail, Headford, Richmond Hill, York Region, Ontario, L4B 1L1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "174608848",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "456237727",
+        "boundingbox": [
+            "43.8951559",
+            "43.8953164",
+            "-79.4208907",
+            "-79.4205325"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4208907",
+                "43.8951787"
+            ],
+            [
+                "-79.4208815",
+                "43.8951592"
+            ],
+            [
+                "-79.420815",
+                "43.8951754"
+            ],
+            [
+                "-79.4208059",
+                "43.8951559"
+            ],
+            [
+                "-79.4205617",
+                "43.8952155"
+            ],
+            [
+                "-79.4205737",
+                "43.8952411"
+            ],
+            [
+                "-79.4205325",
+                "43.8952511"
+            ],
+            [
+                "-79.4205632",
+                "43.8953164"
+            ],
+            [
+                "-79.4206738",
+                "43.8952894"
+            ],
+            [
+                "-79.4206668",
+                "43.8952745"
+            ],
+            [
+                "-79.420827",
+                "43.8952354"
+            ],
+            [
+                "-79.4208096",
+                "43.8951985"
+            ],
+            [
+                "-79.4208907",
+                "43.8951787"
+            ]
+        ],
+        "lat": "43.89523825",
+        "lon": "-79.4206938435402",
+        "display_name": "Tim Hortons, Bayview Avenue, Richmond Hill, York Region, Ontario, L4C 3L3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "112164516",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "157753521",
+        "boundingbox": [
+            "43.8403337",
+            "43.8406021",
+            "-79.4225218",
+            "-79.422235"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4225218",
+                "43.8404793"
+            ],
+            [
+                "-79.4224005",
+                "43.8403337"
+            ],
+            [
+                "-79.422235",
+                "43.8404054"
+            ],
+            [
+                "-79.4223988",
+                "43.8406021"
+            ],
+            [
+                "-79.4224292",
+                "43.8405889"
+            ],
+            [
+                "-79.4223866",
+                "43.8405379"
+            ],
+            [
+                "-79.4225218",
+                "43.8404793"
+            ]
+        ],
+        "lat": "43.84044235",
+        "lon": "-79.4223783932717",
+        "display_name": "Tim Hortons, Red Maple Road, Richmond Hill, York Region, Ontario, L4B, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "15047097",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1324372756",
+        "boundingbox": [
+            "43.863796",
+            "43.863896",
+            "-79.383204",
+            "-79.383104"
+        ],
+        "polygonpoints": [
+            [
+                -79.383154,
+                43.863896000000004
+            ],
+            [
+                -79.38311864466094,
+                43.86388135533906
+            ],
+            [
+                -79.383104,
+                43.863846
+            ],
+            [
+                -79.38311864466094,
+                43.863810644660944
+            ],
+            [
+                -79.383154,
+                43.863796
+            ],
+            [
+                -79.38318935533907,
+                43.863810644660944
+            ],
+            [
+                -79.383204,
+                43.863846
+            ],
+            [
+                -79.38318935533907,
+                43.86388135533906
+            ]
+        ],
+        "lat": "43.863846",
+        "lon": "-79.383154",
+        "display_name": "Tim Hortons, 16th Avenue, Headford, Richmond Hill, York Region, Ontario, L3R 5Y8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "109163471",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "145337603",
+        "boundingbox": [
+            "43.8797075",
+            "43.8798872",
+            "-79.3954608",
+            "-79.3951436"
+        ],
+        "polygonpoints": [
+            [
+                "-79.3954608",
+                "43.8797399"
+            ],
+            [
+                "-79.3954494",
+                "43.8797126"
+            ],
+            [
+                "-79.3953845",
+                "43.8797266"
+            ],
+            [
+                "-79.3953765",
+                "43.8797075"
+            ],
+            [
+                "-79.3951436",
+                "43.879758"
+            ],
+            [
+                "-79.3951975",
+                "43.8798872"
+            ],
+            [
+                "-79.3954233",
+                "43.8798383"
+            ],
+            [
+                "-79.3953888",
+                "43.8797556"
+            ],
+            [
+                "-79.3954608",
+                "43.8797399"
+            ]
+        ],
+        "lat": "43.87979815",
+        "lon": "-79.3952834502442",
+        "display_name": "Tim Hortons, Major Mackenzie Drive East, Headford, Richmond Hill, York Region, Ontario, L4S 2K9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3584755",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383238087",
+        "boundingbox": [
+            "43.8452573",
+            "43.8453573",
+            "-79.382081",
+            "-79.381981"
+        ],
+        "polygonpoints": [
+            [
+                -79.382031,
+                43.8453573
+            ],
+            [
+                -79.38199564466093,
+                43.84534265533906
+            ],
+            [
+                -79.381981,
+                43.8453073
+            ],
+            [
+                -79.38199564466093,
+                43.845271944660944
+            ],
+            [
+                -79.382031,
+                43.8452573
+            ],
+            [
+                -79.38206635533906,
+                43.845271944660944
+            ],
+            [
+                -79.382081,
+                43.8453073
+            ],
+            [
+                -79.38206635533906,
+                43.84534265533906
+            ]
+        ],
+        "lat": "43.8453073",
+        "lon": "-79.382031",
+        "display_name": "Tim Hortons, 9005, Leslie Street, Richmond Hill, York Region, Ontario, L3T 7M8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "11283874",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1071862457",
+        "boundingbox": [
+            "43.8464612",
+            "43.8465612",
+            "-79.4589993",
+            "-79.4588993"
+        ],
+        "polygonpoints": [
+            [
+                -79.4589493,
+                43.846561200000004
+            ],
+            [
+                -79.45891394466094,
+                43.84654655533906
+            ],
+            [
+                -79.4588993,
+                43.8465112
+            ],
+            [
+                -79.45891394466094,
+                43.846475844660944
+            ],
+            [
+                -79.4589493,
+                43.8464612
+            ],
+            [
+                -79.45898465533907,
+                43.846475844660944
+            ],
+            [
+                -79.4589993,
+                43.8465112
+            ],
+            [
+                -79.45898465533907,
+                43.84654655533906
+            ]
+        ],
+        "lat": "43.8465112",
+        "lon": "-79.4589493",
+        "display_name": "Tim Hortons, Bathurst Street, Carrville, Richmond Hill, York Region, Ontario, L4J 8C7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7848487",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "835013072",
+        "boundingbox": [
+            "43.8961222",
+            "43.8962222",
+            "-79.4423544",
+            "-79.4422544"
+        ],
+        "polygonpoints": [
+            [
+                -79.4423044,
+                43.896222200000004
+            ],
+            [
+                -79.44226904466093,
+                43.89620755533906
+            ],
+            [
+                -79.4422544,
+                43.8961722
+            ],
+            [
+                -79.44226904466093,
+                43.896136844660944
+            ],
+            [
+                -79.4423044,
+                43.8961222
+            ],
+            [
+                -79.44233975533906,
+                43.896136844660944
+            ],
+            [
+                -79.4423544,
+                43.8961722
+            ],
+            [
+                -79.44233975533906,
+                43.89620755533906
+            ]
+        ],
+        "lat": "43.8961722",
+        "lon": "-79.4423044",
+        "display_name": "Tim Hortons, 11005, Yonge Street, Elgin Mills, Richmond Hill, York Region, Ontario, L4C 3E3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7201015",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "766954741",
+        "boundingbox": [
+            "43.8570563",
+            "43.8571563",
+            "-79.409869",
+            "-79.409769"
+        ],
+        "polygonpoints": [
+            [
+                -79.409819,
+                43.8571563
+            ],
+            [
+                -79.40978364466093,
+                43.857141655339056
+            ],
+            [
+                -79.409769,
+                43.8571063
+            ],
+            [
+                -79.40978364466093,
+                43.85707094466094
+            ],
+            [
+                -79.409819,
+                43.857056299999996
+            ],
+            [
+                -79.40985435533906,
+                43.85707094466094
+            ],
+            [
+                -79.409869,
+                43.8571063
+            ],
+            [
+                -79.40985435533906,
+                43.857141655339056
+            ]
+        ],
+        "lat": "43.8571063",
+        "lon": "-79.409819",
+        "display_name": "Tim Hortons, Old 16th Avenue, Beverley Acres, Richmond Hill, York Region, Ontario, L4B 3M6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3647180",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "380338249",
+        "boundingbox": [
+            "43.8509263",
+            "43.8510263",
+            "-79.433169",
+            "-79.433069"
+        ],
+        "polygonpoints": [
+            [
+                -79.433119,
+                43.8510263
+            ],
+            [
+                -79.43308364466094,
+                43.85101165533906
+            ],
+            [
+                -79.433069,
+                43.8509763
+            ],
+            [
+                -79.43308364466094,
+                43.85094094466094
+            ],
+            [
+                -79.433119,
+                43.8509263
+            ],
+            [
+                -79.43315435533907,
+                43.85094094466094
+            ],
+            [
+                -79.433169,
+                43.8509763
+            ],
+            [
+                -79.43315435533907,
+                43.85101165533906
+            ]
+        ],
+        "lat": "43.8509763",
+        "lon": "-79.433119",
+        "display_name": "Tim Hortons, Spruce Avenue, Richvale, Richmond Hill, York Region, Ontario, L4C 7A1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "62306755",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "5127180393",
+        "boundingbox": [
+            "43.8427941",
+            "43.8428941",
+            "-79.5414358",
+            "-79.5413358"
+        ],
+        "polygonpoints": [
+            [
+                -79.5413858,
+                43.8428941
+            ],
+            [
+                -79.54135044466094,
+                43.84287945533906
+            ],
+            [
+                -79.5413358,
+                43.8428441
+            ],
+            [
+                -79.54135044466094,
+                43.84280874466094
+            ],
+            [
+                -79.5413858,
+                43.8427941
+            ],
+            [
+                -79.54142115533907,
+                43.84280874466094
+            ],
+            [
+                -79.5414358,
+                43.8428441
+            ],
+            [
+                -79.54142115533907,
+                43.84287945533906
+            ]
+        ],
+        "lat": "43.8428441",
+        "lon": "-79.5413858",
+        "display_name": "Tim Hortons, Slingshot QUE, Vellore, Vaughan, York Region, Ontario, L4K 5R3, Canada",
+        "class": "amenity",
+        "type": "restaurant",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
+    },
+    {
+        "place_id": "51292647",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4030059075",
+        "boundingbox": [
+            "43.833892",
+            "43.833992",
+            "-79.5210904",
+            "-79.5209904"
+        ],
+        "polygonpoints": [
+            [
+                -79.5210404,
+                43.833992
+            ],
+            [
+                -79.52100504466094,
+                43.83397735533906
+            ],
+            [
+                -79.5209904,
+                43.833942
+            ],
+            [
+                -79.52100504466094,
+                43.83390664466094
+            ],
+            [
+                -79.5210404,
+                43.833892
+            ],
+            [
+                -79.52107575533907,
+                43.83390664466094
+            ],
+            [
+                -79.5210904,
+                43.833942
+            ],
+            [
+                -79.52107575533907,
+                43.83397735533906
+            ]
+        ],
+        "lat": "43.833942",
+        "lon": "-79.5210404",
+        "display_name": "Tim Hortons, Rutherford Road, Vaughan, York Region, Ontario, L4K 2N6, Canada",
+        "class": "amenity",
+        "type": "fast_food",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
+    },
+    {
+        "place_id": "130721273",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "231980574",
+        "boundingbox": [
+            "43.8290482",
+            "43.8291991",
+            "-79.5331587",
+            "-79.5327885"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5331587",
+                "43.829114"
+            ],
+            [
+                "-79.5331426",
+                "43.8290714"
+            ],
+            [
+                "-79.5330782",
+                "43.8290482"
+            ],
+            [
+                "-79.5328744",
+                "43.8290985"
+            ],
+            [
+                "-79.5327885",
+                "43.8291217"
+            ],
+            [
+                "-79.5328261",
+                "43.8291798"
+            ],
+            [
+                "-79.5328851",
+                "43.8291991"
+            ],
+            [
+                "-79.5331426",
+                "43.829145"
+            ],
+            [
+                "-79.5331587",
+                "43.829114"
+            ]
+        ],
+        "lat": "43.82913335",
+        "lon": "-79.5329723449493",
+        "display_name": "Tim Hortons, Jane Street, Vaughan, York Region, Ontario, L4K 0B1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "115542534",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "172283234",
+        "boundingbox": [
+            "43.8640636",
+            "43.8642493",
+            "-79.4704593",
+            "-79.4701322"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4704593",
+                "43.86416"
+            ],
+            [
+                "-79.4704495",
+                "43.8641373"
+            ],
+            [
+                "-79.4703968",
+                "43.8641491"
+            ],
+            [
+                "-79.4703598",
+                "43.8640636"
+            ],
+            [
+                "-79.4701322",
+                "43.8641148"
+            ],
+            [
+                "-79.4701905",
+                "43.8642493"
+            ],
+            [
+                "-79.4704058",
+                "43.8642009"
+            ],
+            [
+                "-79.4703945",
+                "43.8641746"
+            ],
+            [
+                "-79.4704593",
+                "43.86416"
+            ]
+        ],
+        "lat": "43.86415455",
+        "lon": "-79.4703031885311",
+        "display_name": "Tim Hortons, Major Mackenzie Drive West, Patterson, Vaughan, York Region, Ontario, L6A 1S2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "54546804",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4415114188",
+        "boundingbox": [
+            "43.8267527",
+            "43.8268527",
+            "-79.4639615",
+            "-79.4638615"
+        ],
+        "polygonpoints": [
+            [
+                -79.4639115,
+                43.8268527
+            ],
+            [
+                -79.46387614466093,
+                43.82683805533906
+            ],
+            [
+                -79.4638615,
+                43.8268027
+            ],
+            [
+                -79.46387614466093,
+                43.826767344660944
+            ],
+            [
+                -79.4639115,
+                43.8267527
+            ],
+            [
+                -79.46394685533906,
+                43.826767344660944
+            ],
+            [
+                -79.4639615,
+                43.8268027
+            ],
+            [
+                -79.46394685533906,
+                43.82683805533906
+            ]
+        ],
+        "lat": "43.8268027",
+        "lon": "-79.4639115",
+        "display_name": "Tim Hortons, 1, Thornhill Woods Drive, Vaughan, York Region, Ontario, L4J 8V3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3587414",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "383400268",
+        "boundingbox": [
+            "43.8065166",
+            "43.8066166",
+            "-79.474195",
+            "-79.474095"
+        ],
+        "polygonpoints": [
+            [
+                -79.474145,
+                43.8066166
+            ],
+            [
+                -79.47410964466093,
+                43.806601955339055
+            ],
+            [
+                -79.47409499999999,
+                43.8065666
+            ],
+            [
+                -79.47410964466093,
+                43.80653124466094
+            ],
+            [
+                -79.474145,
+                43.806516599999995
+            ],
+            [
+                -79.47418035533906,
+                43.80653124466094
+            ],
+            [
+                -79.474195,
+                43.8065666
+            ],
+            [
+                -79.47418035533906,
+                43.806601955339055
+            ]
+        ],
+        "lat": "43.8065666",
+        "lon": "-79.474145",
+        "display_name": "Tim Hortons, Dufferin Street, Vaughan, York Region, Ontario, L4J 7R4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "50756564",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3904977244",
+        "boundingbox": [
+            "43.8618251",
+            "43.8619251",
+            "-79.4883826",
+            "-79.4882826"
+        ],
+        "polygonpoints": [
+            [
+                -79.4883326,
+                43.8619251
+            ],
+            [
+                -79.48829724466094,
+                43.86191045533906
+            ],
+            [
+                -79.4882826,
+                43.8618751
+            ],
+            [
+                -79.48829724466094,
+                43.86183974466094
+            ],
+            [
+                -79.4883326,
+                43.8618251
+            ],
+            [
+                -79.48836795533907,
+                43.86183974466094
+            ],
+            [
+                -79.48838260000001,
+                43.8618751
+            ],
+            [
+                -79.48836795533907,
+                43.86191045533906
+            ]
+        ],
+        "lat": "43.8618751",
+        "lon": "-79.4883326",
+        "display_name": "Tim Hortons, Dufferin Street, Patterson, Vaughan, York Region, Ontario, L6A 4K5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "144929541",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "291845655",
+        "boundingbox": [
+            "43.8923869",
+            "43.8925187",
+            "-79.5219905",
+            "-79.5216247"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5219905",
+                "43.8924285"
+            ],
+            [
+                "-79.5219847",
+                "43.8924022"
+            ],
+            [
+                "-79.5219019",
+                "43.8924133"
+            ],
+            [
+                "-79.5218904",
+                "43.8923869"
+            ],
+            [
+                "-79.5216728",
+                "43.8924174"
+            ],
+            [
+                "-79.5216247",
+                "43.8924424"
+            ],
+            [
+                "-79.5216382",
+                "43.8925062"
+            ],
+            [
+                "-79.5216632",
+                "43.8925187"
+            ],
+            [
+                "-79.5217421",
+                "43.8925076"
+            ],
+            [
+                "-79.5217652",
+                "43.8925187"
+            ],
+            [
+                "-79.5219212",
+                "43.8924951"
+            ],
+            [
+                "-79.5219077",
+                "43.8924396"
+            ],
+            [
+                "-79.5219905",
+                "43.8924285"
+            ]
+        ],
+        "lat": "43.89246875",
+        "lon": "-79.5217725330837",
+        "display_name": "Tim Hortons, Keele Street, Hope, Vaughan, York Region, Ontario, L7B 1H5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "54573218",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4398348042",
+        "boundingbox": [
+            "43.8257211",
+            "43.8258211",
+            "-79.5423156",
+            "-79.5422156"
+        ],
+        "polygonpoints": [
+            [
+                -79.5422656,
+                43.8258211
+            ],
+            [
+                -79.54223024466093,
+                43.825806455339055
+            ],
+            [
+                -79.54221559999999,
+                43.8257711
+            ],
+            [
+                -79.54223024466093,
+                43.82573574466094
+            ],
+            [
+                -79.5422656,
+                43.825721099999996
+            ],
+            [
+                -79.54230095533906,
+                43.82573574466094
+            ],
+            [
+                -79.5423156,
+                43.8257711
+            ],
+            [
+                -79.54230095533906,
+                43.825806455339055
+            ]
+        ],
+        "lat": "43.8257711",
+        "lon": "-79.5422656",
+        "display_name": "Tim Hortons, 1, Bass Pro Mills Drive, Vellore, Vaughan, York Region, Ontario, L4K 0A2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "5950569",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "599897457",
+        "boundingbox": [
+            "43.848331",
+            "43.848431",
+            "-79.5358391",
+            "-79.5357391"
+        ],
+        "polygonpoints": [
+            [
+                -79.5357891,
+                43.848431000000005
+            ],
+            [
+                -79.53575374466094,
+                43.84841635533906
+            ],
+            [
+                -79.5357391,
+                43.848381
+            ],
+            [
+                -79.53575374466094,
+                43.848345644660945
+            ],
+            [
+                -79.5357891,
+                43.848331
+            ],
+            [
+                -79.53582445533907,
+                43.848345644660945
+            ],
+            [
+                -79.5358391,
+                43.848381
+            ],
+            [
+                -79.53582445533907,
+                43.84841635533906
+            ]
+        ],
+        "lat": "43.848381",
+        "lon": "-79.5357891",
+        "display_name": "Tim Hortons, Jane Street, Teston, Vaughan, York Region, Ontario, L6A 1Y3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+    {
+        "place_id": "160334484",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "374998422",
+        "boundingbox": [
+            "43.9536765",
+            "43.9538502",
+            "-79.4576931",
+            "-79.4573033"
+        ],
+        "polygonpoints": [
+            [
+                "-79.4576931",
+                "43.9537257"
+            ],
+            [
+                "-79.4576718",
+                "43.9536765"
+            ],
+            [
+                "-79.4573033",
+                "43.9537591"
+            ],
+            [
+                "-79.4573427",
+                "43.9538502"
+            ],
+            [
+                "-79.4575994",
+                "43.9537927"
+            ],
+            [
+                "-79.4575813",
+                "43.9537508"
+            ],
+            [
+                "-79.4576931",
+                "43.9537257"
+            ]
+        ],
+        "lat": "43.9537759",
+        "lon": "-79.4574513542912",
+        "display_name": "Tim Hortons, Yonge Street, Oak Ridges, Richmond Hill, York Region, Ontario, L4E 0L2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "59600841",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4829357318",
+        "boundingbox": [
+            "43.9985151",
+            "43.9986151",
+            "-79.4758207",
+            "-79.4757207"
+        ],
+        "polygonpoints": [
+            [
+                -79.4757707,
+                43.9986151
+            ],
+            [
+                -79.47573534466093,
+                43.99860045533906
+            ],
+            [
+                -79.4757207,
+                43.9985651
+            ],
+            [
+                -79.47573534466093,
+                43.99852974466094
+            ],
+            [
+                -79.4757707,
+                43.9985151
+            ],
+            [
+                -79.47580605533906,
+                43.99852974466094
+            ],
+            [
+                -79.4758207,
+                43.9985651
+            ],
+            [
+                -79.47580605533906,
+                43.99860045533906
+            ]
+        ],
+        "lat": "43.9985651",
+        "lon": "-79.4757707",
+        "display_name": "Tim Hortons, 126, Wellington Street West, Aurora, York Region, Ontario, L4G 2N9, Canada",
+        "class": "amenity",
+        "type": "fast_food",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
+    },
+    {
+        "place_id": "57013922",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4599062590",
+        "boundingbox": [
+            "43.9428877",
+            "43.9429877",
+            "-79.3795873",
+            "-79.3794873"
+        ],
+        "polygonpoints": [
+            [
+                -79.3795373,
+                43.9429877
+            ],
+            [
+                -79.37950194466093,
+                43.94297305533906
+            ],
+            [
+                -79.3794873,
+                43.9429377
+            ],
+            [
+                -79.37950194466093,
+                43.94290234466094
+            ],
+            [
+                -79.3795373,
+                43.9428877
+            ],
+            [
+                -79.37957265533906,
+                43.94290234466094
+            ],
+            [
+                -79.3795873,
+                43.9429377
+            ],
+            [
+                -79.37957265533906,
+                43.94297305533906
+            ]
+        ],
+        "lat": "43.9429377",
+        "lon": "-79.3795373",
+        "display_name": "Tim Hortons, 12332, Woodbine Avenue, Whitchurch-Stouffville, York Region, Ontario, L4A 2J4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "46581676",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3464500066",
+        "boundingbox": [
+            "43.9340137",
+            "43.9341137",
+            "-79.5080923",
+            "-79.5079923"
+        ],
+        "polygonpoints": [
+            [
+                -79.5080423,
+                43.934113700000005
+            ],
+            [
+                -79.50800694466093,
+                43.93409905533906
+            ],
+            [
+                -79.5079923,
+                43.9340637
+            ],
+            [
+                -79.50800694466093,
+                43.934028344660945
+            ],
+            [
+                -79.5080423,
+                43.9340137
+            ],
+            [
+                -79.50807765533906,
+                43.934028344660945
+            ],
+            [
+                -79.5080923,
+                43.9340637
+            ],
+            [
+                -79.50807765533906,
+                43.93409905533906
+            ]
+        ],
+        "lat": "43.9340637",
+        "lon": "-79.5080423",
+        "display_name": "Tim Hortons, King Road, King's Ridge, Temperanceville, King, York Region, Ontario, L7B 0N1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "31454533",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2767280140",
+        "boundingbox": [
+            "43.956994",
+            "43.957094",
+            "-79.4846452",
+            "-79.4845452"
+        ],
+        "polygonpoints": [
+            [
+                -79.4845952,
+                43.957094000000005
+            ],
+            [
+                -79.48455984466094,
+                43.95707935533906
+            ],
+            [
+                -79.4845452,
+                43.957044
+            ],
+            [
+                -79.48455984466094,
+                43.957008644660945
+            ],
+            [
+                -79.4845952,
+                43.956994
+            ],
+            [
+                -79.48463055533907,
+                43.957008644660945
+            ],
+            [
+                -79.4846452,
+                43.957044
+            ],
+            [
+                -79.48463055533907,
+                43.95707935533906
+            ]
+        ],
+        "lat": "43.957044",
+        "lon": "-79.4845952",
+        "display_name": "Tim Hortons, Bloomington Road, Cherry, Aurora, York Region, Ontario, L4G 0E1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "31248573",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2760748946",
+        "boundingbox": [
+            "43.9553484",
+            "43.9554484",
+            "-79.5197865",
+            "-79.5196865"
+        ],
+        "polygonpoints": [
+            [
+                -79.5197365,
+                43.9554484
+            ],
+            [
+                -79.51970114466093,
+                43.95543375533906
+            ],
+            [
+                -79.51968649999999,
+                43.9553984
+            ],
+            [
+                -79.51970114466093,
+                43.95536304466094
+            ],
+            [
+                -79.5197365,
+                43.9553484
+            ],
+            [
+                -79.51977185533906,
+                43.95536304466094
+            ],
+            [
+                -79.5197865,
+                43.9553984
+            ],
+            [
+                -79.51977185533906,
+                43.95543375533906
+            ]
+        ],
+        "lat": "43.9553984",
+        "lon": "-79.5197365",
+        "display_name": "Tim Hortons, 15th Sideroad, King's Ridge, Temperanceville, King, York Region, Ontario, L7B 1K5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3612121",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "380284449",
+        "boundingbox": [
+            "43.9906828",
+            "43.9907828",
+            "-79.4659336",
+            "-79.4658336"
+        ],
+        "polygonpoints": [
+            [
+                -79.4658836,
+                43.990782800000005
+            ],
+            [
+                -79.46584824466093,
+                43.99076815533906
+            ],
+            [
+                -79.4658336,
+                43.9907328
+            ],
+            [
+                -79.46584824466093,
+                43.990697444660945
+            ],
+            [
+                -79.4658836,
+                43.9906828
+            ],
+            [
+                -79.46591895533906,
+                43.990697444660945
+            ],
+            [
+                -79.4659336,
+                43.9907328
+            ],
+            [
+                -79.46591895533906,
+                43.99076815533906
+            ]
+        ],
+        "lat": "43.9907328",
+        "lon": "-79.4658836",
+        "display_name": "Tim Hortons, Golf Links Drive, Cherry, Aurora, York Region, Ontario, L4G 1N2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+]

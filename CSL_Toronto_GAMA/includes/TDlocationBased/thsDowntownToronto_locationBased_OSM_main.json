@@ -1,0 +1,2545 @@
+[
+    {
+        "place_id": "2622789",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "356321644",
+        "boundingbox": [
+            "43.6609656",
+            "43.6610656",
+            "-79.3939383",
+            "-79.3938383"
+        ],
+        "polygonpoints": [
+            [
+                -79.3938883,
+                43.6610656
+            ],
+            [
+                -79.39385294466094,
+                43.66105095533906
+            ],
+            [
+                -79.3938383,
+                43.6610156
+            ],
+            [
+                -79.39385294466094,
+                43.66098024466094
+            ],
+            [
+                -79.3938883,
+                43.6609656
+            ],
+            [
+                -79.39392365533907,
+                43.66098024466094
+            ],
+            [
+                -79.3939383,
+                43.6610156
+            ],
+            [
+                -79.39392365533907,
+                43.66105095533906
+            ]
+        ],
+        "lat": "43.6610156",
+        "lon": "-79.3938883",
+        "display_name": "Tim Hortons, 1, King's College Circle, Discovery District, Old Toronto, Toronto, Ontario, M5S 3K9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "252306",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "60930953",
+        "boundingbox": [
+            "43.6680871",
+            "43.6681871",
+            "-79.3976593",
+            "-79.3975593"
+        ],
+        "polygonpoints": [
+            [
+                -79.3976093,
+                43.668187100000004
+            ],
+            [
+                -79.39757394466093,
+                43.66817245533906
+            ],
+            [
+                -79.3975593,
+                43.6681371
+            ],
+            [
+                -79.39757394466093,
+                43.668101744660945
+            ],
+            [
+                -79.3976093,
+                43.6680871
+            ],
+            [
+                -79.39764465533906,
+                43.668101744660945
+            ],
+            [
+                -79.3976593,
+                43.6681371
+            ],
+            [
+                -79.39764465533906,
+                43.66817245533906
+            ]
+        ],
+        "lat": "43.6681371",
+        "lon": "-79.3976093",
+        "display_name": "Tim Hortons, 246, Bloor Street West, Bloor Street Culture Corridor, Old Toronto, Toronto, Ontario, M5S 1V4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "5974297",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "605209089",
+        "boundingbox": [
+            "43.6512461",
+            "43.6513461",
+            "-79.379972",
+            "-79.379872"
+        ],
+        "polygonpoints": [
+            [
+                -79.379922,
+                43.651346100000005
+            ],
+            [
+                -79.37988664466093,
+                43.65133145533906
+            ],
+            [
+                -79.37987199999999,
+                43.6512961
+            ],
+            [
+                -79.37988664466093,
+                43.651260744660945
+            ],
+            [
+                -79.379922,
+                43.6512461
+            ],
+            [
+                -79.37995735533906,
+                43.651260744660945
+            ],
+            [
+                -79.379972,
+                43.6512961
+            ],
+            [
+                -79.37995735533906,
+                43.65133145533906
+            ]
+        ],
+        "lat": "43.6512961",
+        "lon": "-79.379922",
+        "display_name": "Tim Hortons, 1, Yonge Street, Financial District, Old Toronto, Toronto, Ontario, M5C 3G7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "5147801",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "575209692",
+        "boundingbox": [
+            "43.6544729",
+            "43.6545729",
+            "-79.3890263",
+            "-79.3889263"
+        ],
+        "polygonpoints": [
+            [
+                -79.3889763,
+                43.654572900000005
+            ],
+            [
+                -79.38894094466093,
+                43.65455825533906
+            ],
+            [
+                -79.3889263,
+                43.6545229
+            ],
+            [
+                -79.38894094466093,
+                43.654487544660945
+            ],
+            [
+                -79.3889763,
+                43.6544729
+            ],
+            [
+                -79.38901165533906,
+                43.654487544660945
+            ],
+            [
+                -79.3890263,
+                43.6545229
+            ],
+            [
+                -79.38901165533906,
+                43.65455825533906
+            ]
+        ],
+        "lat": "43.6545229",
+        "lon": "-79.3889763",
+        "display_name": "Tim Hortons, 1, Yonge Street, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 2R8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4793661",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "524150960",
+        "boundingbox": [
+            "43.6529116",
+            "43.6530116",
+            "-79.3971217",
+            "-79.3970217"
+        ],
+        "polygonpoints": [
+            [
+                -79.3970717,
+                43.6530116
+            ],
+            [
+                -79.39703634466093,
+                43.652996955339056
+            ],
+            [
+                -79.3970217,
+                43.6529616
+            ],
+            [
+                -79.39703634466093,
+                43.65292624466094
+            ],
+            [
+                -79.3970717,
+                43.652911599999996
+            ],
+            [
+                -79.39710705533906,
+                43.65292624466094
+            ],
+            [
+                -79.3971217,
+                43.6529616
+            ],
+            [
+                -79.39710705533906,
+                43.652996955339056
+            ]
+        ],
+        "lat": "43.6529616",
+        "lon": "-79.3970717",
+        "display_name": "Tim Hortons, 1, Dundas Street West, Chinatown, Old Toronto, Toronto, Ontario, M5T 1H1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4512735",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "491800237",
+        "boundingbox": [
+            "43.6460443",
+            "43.6461443",
+            "-79.3826105",
+            "-79.3825105"
+        ],
+        "polygonpoints": [
+            [
+                -79.3825605,
+                43.6461443
+            ],
+            [
+                -79.38252514466093,
+                43.64612965533906
+            ],
+            [
+                -79.3825105,
+                43.6460943
+            ],
+            [
+                -79.38252514466093,
+                43.64605894466094
+            ],
+            [
+                -79.3825605,
+                43.6460443
+            ],
+            [
+                -79.38259585533906,
+                43.64605894466094
+            ],
+            [
+                -79.3826105,
+                43.6460943
+            ],
+            [
+                -79.38259585533906,
+                43.64612965533906
+            ]
+        ],
+        "lat": "43.6460943",
+        "lon": "-79.3825605",
+        "display_name": "Tim Hortons, 55, Piper Street, RBC Plaza, Old Toronto, Toronto, Ontario, M5J 1E3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3749213",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "412330549",
+        "boundingbox": [
+            "43.6569176",
+            "43.6570176",
+            "-79.3743269",
+            "-79.3742269"
+        ],
+        "polygonpoints": [
+            [
+                -79.3742769,
+                43.6570176
+            ],
+            [
+                -79.37424154466093,
+                43.65700295533906
+            ],
+            [
+                -79.3742269,
+                43.6569676
+            ],
+            [
+                -79.37424154466093,
+                43.65693224466094
+            ],
+            [
+                -79.3742769,
+                43.6569176
+            ],
+            [
+                -79.37431225533906,
+                43.65693224466094
+            ],
+            [
+                -79.3743269,
+                43.6569676
+            ],
+            [
+                -79.37431225533906,
+                43.65700295533906
+            ]
+        ],
+        "lat": "43.6569676",
+        "lon": "-79.3742769",
+        "display_name": "Tim Hortons, 175, Dundas Street East, Garden District, Old Toronto, Toronto, Ontario, M5A 4R6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3628745",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "391177053",
+        "boundingbox": [
+            "43.6477809",
+            "43.6478809",
+            "-79.3845714",
+            "-79.3844714"
+        ],
+        "polygonpoints": [
+            [
+                -79.3845214,
+                43.647880900000004
+            ],
+            [
+                -79.38448604466093,
+                43.64786625533906
+            ],
+            [
+                -79.3844714,
+                43.6478309
+            ],
+            [
+                -79.38448604466093,
+                43.647795544660944
+            ],
+            [
+                -79.3845214,
+                43.6477809
+            ],
+            [
+                -79.38455675533906,
+                43.647795544660944
+            ],
+            [
+                -79.3845714,
+                43.6478309
+            ],
+            [
+                -79.38455675533906,
+                43.64786625533906
+            ]
+        ],
+        "lat": "43.6478309",
+        "lon": "-79.3845214",
+        "display_name": "Tim Hortons, 150, King Street West, Financial District, Old Toronto, Toronto, Ontario, M5H 1J9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "846675",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "280889469",
+        "boundingbox": [
+            "43.6594483",
+            "43.6595483",
+            "-79.390995",
+            "-79.390895"
+        ],
+        "polygonpoints": [
+            [
+                -79.390945,
+                43.659548300000004
+            ],
+            [
+                -79.39090964466094,
+                43.65953365533906
+            ],
+            [
+                -79.390895,
+                43.6594983
+            ],
+            [
+                -79.39090964466094,
+                43.659462944660945
+            ],
+            [
+                -79.390945,
+                43.6594483
+            ],
+            [
+                -79.39098035533907,
+                43.659462944660945
+            ],
+            [
+                -79.390995,
+                43.6594983
+            ],
+            [
+                -79.39098035533907,
+                43.65953365533906
+            ]
+        ],
+        "lat": "43.6594983",
+        "lon": "-79.390945",
+        "display_name": "Tim Hortons, 1, Yonge Street, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M4Y 1X5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "680497",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "253433635",
+        "boundingbox": [
+            "43.6566859",
+            "43.6567859",
+            "-79.3799473",
+            "-79.3798473"
+        ],
+        "polygonpoints": [
+            [
+                -79.3798973,
+                43.6567859
+            ],
+            [
+                -79.37986194466093,
+                43.65677125533906
+            ],
+            [
+                -79.3798473,
+                43.6567359
+            ],
+            [
+                -79.37986194466093,
+                43.65670054466094
+            ],
+            [
+                -79.3798973,
+                43.6566859
+            ],
+            [
+                -79.37993265533906,
+                43.65670054466094
+            ],
+            [
+                -79.3799473,
+                43.6567359
+            ],
+            [
+                -79.37993265533906,
+                43.65677125533906
+            ]
+        ],
+        "lat": "43.6567359",
+        "lon": "-79.3798973",
+        "display_name": "Tim Hortons, 10, Victoria Street, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 2G9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "663097",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "249298895",
+        "boundingbox": [
+            "43.6466927",
+            "43.6467927",
+            "-79.3896278",
+            "-79.3895278"
+        ],
+        "polygonpoints": [
+            [
+                -79.3895778,
+                43.6467927
+            ],
+            [
+                -79.38954244466093,
+                43.646778055339055
+            ],
+            [
+                -79.3895278,
+                43.6467427
+            ],
+            [
+                -79.38954244466093,
+                43.64670734466094
+            ],
+            [
+                -79.3895778,
+                43.646692699999996
+            ],
+            [
+                -79.38961315533906,
+                43.64670734466094
+            ],
+            [
+                -79.3896278,
+                43.6467427
+            ],
+            [
+                -79.38961315533906,
+                43.646778055339055
+            ]
+        ],
+        "lat": "43.6467427",
+        "lon": "-79.3895778",
+        "display_name": "Tim Hortons, 322, King Street West, Entertainment District, Old Toronto, Toronto, Ontario, M5V 1J5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "664730",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "246694096",
+        "boundingbox": [
+            "43.6610944",
+            "43.6611944",
+            "-79.383339",
+            "-79.383239"
+        ],
+        "polygonpoints": [
+            [
+                -79.383289,
+                43.6611944
+            ],
+            [
+                -79.38325364466094,
+                43.661179755339056
+            ],
+            [
+                -79.383239,
+                43.6611444
+            ],
+            [
+                -79.38325364466094,
+                43.66110904466094
+            ],
+            [
+                -79.383289,
+                43.661094399999996
+            ],
+            [
+                -79.38332435533907,
+                43.66110904466094
+            ],
+            [
+                -79.383339,
+                43.6611444
+            ],
+            [
+                -79.38332435533907,
+                43.661179755339056
+            ]
+        ],
+        "lat": "43.6611444",
+        "lon": "-79.383289",
+        "display_name": "Tim Hortons, 1, Yonge Street, Downtown Yonge, Old Toronto, Toronto, Ontario, M4Y 1X4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "511767",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "176544089",
+        "boundingbox": [
+            "43.6581172",
+            "43.6582172",
+            "-79.3996643",
+            "-79.3995643"
+        ],
+        "polygonpoints": [
+            [
+                -79.3996143,
+                43.6582172
+            ],
+            [
+                -79.39957894466093,
+                43.65820255533906
+            ],
+            [
+                -79.3995643,
+                43.6581672
+            ],
+            [
+                -79.39957894466093,
+                43.65813184466094
+            ],
+            [
+                -79.3996143,
+                43.6581172
+            ],
+            [
+                -79.39964965533906,
+                43.65813184466094
+            ],
+            [
+                -79.3996643,
+                43.6581672
+            ],
+            [
+                -79.39964965533906,
+                43.65820255533906
+            ]
+        ],
+        "lat": "43.6581672",
+        "lon": "-79.3996143",
+        "display_name": "Tim Hortons, 455, College Street, Kensington Market, Old Toronto, Toronto, Ontario, M5T 3A1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "292465",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "95378352",
+        "boundingbox": [
+            "43.6646002",
+            "43.6647002",
+            "-79.3842206",
+            "-79.3841206"
+        ],
+        "polygonpoints": [
+            [
+                -79.3841706,
+                43.6647002
+            ],
+            [
+                -79.38413524466094,
+                43.664685555339055
+            ],
+            [
+                -79.3841206,
+                43.6646502
+            ],
+            [
+                -79.38413524466094,
+                43.66461484466094
+            ],
+            [
+                -79.3841706,
+                43.664600199999995
+            ],
+            [
+                -79.38420595533907,
+                43.66461484466094
+            ],
+            [
+                -79.3842206,
+                43.6646502
+            ],
+            [
+                -79.38420595533907,
+                43.664685555339055
+            ]
+        ],
+        "lat": "43.6646502",
+        "lon": "-79.3841706",
+        "display_name": "Tim Hortons, 555, Yonge Street, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M4Y 1Y9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7215866",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "766943193",
+        "boundingbox": [
+            "43.6463098",
+            "43.6464098",
+            "-79.3836845",
+            "-79.3835845"
+        ],
+        "polygonpoints": [
+            [
+                -79.3836345,
+                43.6464098
+            ],
+            [
+                -79.38359914466093,
+                43.64639515533906
+            ],
+            [
+                -79.3835845,
+                43.6463598
+            ],
+            [
+                -79.38359914466093,
+                43.64632444466094
+            ],
+            [
+                -79.3836345,
+                43.6463098
+            ],
+            [
+                -79.38366985533906,
+                43.64632444466094
+            ],
+            [
+                -79.3836845,
+                43.6463598
+            ],
+            [
+                -79.38366985533906,
+                43.64639515533906
+            ]
+        ],
+        "lat": "43.6463598",
+        "lon": "-79.3836345",
+        "display_name": "Tim Hortons, 33, Wellington Street West, Toronto-Dominion Centre, Old Toronto, Toronto, Ontario, M5J 1S9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7721121",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "821376469",
+        "boundingbox": [
+            "43.6599802",
+            "43.6600802",
+            "-79.3660622",
+            "-79.3659622"
+        ],
+        "polygonpoints": [
+            [
+                -79.3660122,
+                43.6600802
+            ],
+            [
+                -79.36597684466093,
+                43.66006555533906
+            ],
+            [
+                -79.3659622,
+                43.6600302
+            ],
+            [
+                -79.36597684466093,
+                43.65999484466094
+            ],
+            [
+                -79.3660122,
+                43.6599802
+            ],
+            [
+                -79.36604755533907,
+                43.65999484466094
+            ],
+            [
+                -79.3660622,
+                43.6600302
+            ],
+            [
+                -79.36604755533907,
+                43.66006555533906
+            ]
+        ],
+        "lat": "43.6600302",
+        "lon": "-79.3660122",
+        "display_name": "Tim Hortons, 1, Cole Street, One Cole/Toronto Community Housing Corporation, Old Toronto, Toronto, Ontario, M5A 2Z7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "865550",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "281664356",
+        "boundingbox": [
+            "43.6494549",
+            "43.6495549",
+            "-79.3769421",
+            "-79.3768421"
+        ],
+        "polygonpoints": [
+            [
+                -79.3768921,
+                43.6495549
+            ],
+            [
+                -79.37685674466094,
+                43.649540255339055
+            ],
+            [
+                -79.3768421,
+                43.6495049
+            ],
+            [
+                -79.37685674466094,
+                43.64946954466094
+            ],
+            [
+                -79.3768921,
+                43.649454899999995
+            ],
+            [
+                -79.37692745533907,
+                43.64946954466094
+            ],
+            [
+                -79.37694210000001,
+                43.6495049
+            ],
+            [
+                -79.37692745533907,
+                43.649540255339055
+            ]
+        ],
+        "lat": "43.6495049",
+        "lon": "-79.3768921",
+        "display_name": "Tim Hortons, 18, King Street East, King East, Old Toronto, Toronto, Ontario, M5E 1K3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3661761",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "400705355",
+        "boundingbox": [
+            "43.6657325",
+            "43.6658325",
+            "-79.3684164",
+            "-79.3683164"
+        ],
+        "polygonpoints": [
+            [
+                -79.3683664,
+                43.6658325
+            ],
+            [
+                -79.36833104466093,
+                43.66581785533906
+            ],
+            [
+                -79.3683164,
+                43.6657825
+            ],
+            [
+                -79.36833104466093,
+                43.66574714466094
+            ],
+            [
+                -79.3683664,
+                43.6657325
+            ],
+            [
+                -79.36840175533906,
+                43.66574714466094
+            ],
+            [
+                -79.3684164,
+                43.6657825
+            ],
+            [
+                -79.36840175533906,
+                43.66581785533906
+            ]
+        ],
+        "lat": "43.6657825",
+        "lon": "-79.3683664",
+        "display_name": "Tim Hortons, 1, Winchester Street, Don Vale, Old Toronto, Toronto, Ontario, M4X 1A8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "851806",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "281669476",
+        "boundingbox": [
+            "43.6513899",
+            "43.6514899",
+            "-79.379054",
+            "-79.378954"
+        ],
+        "polygonpoints": [
+            [
+                -79.379004,
+                43.6514899
+            ],
+            [
+                -79.37896864466093,
+                43.65147525533906
+            ],
+            [
+                -79.378954,
+                43.6514399
+            ],
+            [
+                -79.37896864466093,
+                43.65140454466094
+            ],
+            [
+                -79.379004,
+                43.6513899
+            ],
+            [
+                -79.37903935533906,
+                43.65140454466094
+            ],
+            [
+                -79.379054,
+                43.6514399
+            ],
+            [
+                -79.37903935533906,
+                43.65147525533906
+            ]
+        ],
+        "lat": "43.6514399",
+        "lon": "-79.379004",
+        "display_name": "Tim Hortons, 1, Richmond Street West, Financial District, Old Toronto, Toronto, Ontario, M5H 3W4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3917555",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "416731442",
+        "boundingbox": [
+            "43.6496893",
+            "43.6497893",
+            "-79.3873182",
+            "-79.3872182"
+        ],
+        "polygonpoints": [
+            [
+                -79.3872682,
+                43.6497893
+            ],
+            [
+                -79.38723284466093,
+                43.64977465533906
+            ],
+            [
+                -79.38721819999999,
+                43.6497393
+            ],
+            [
+                -79.38723284466093,
+                43.64970394466094
+            ],
+            [
+                -79.3872682,
+                43.6496893
+            ],
+            [
+                -79.38730355533906,
+                43.64970394466094
+            ],
+            [
+                -79.3873182,
+                43.6497393
+            ],
+            [
+                -79.38730355533906,
+                43.64977465533906
+            ]
+        ],
+        "lat": "43.6497393",
+        "lon": "-79.3872682",
+        "display_name": "Tim Hortons, 1, Yonge Street, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 1M4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "1270774",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "304899718",
+        "boundingbox": [
+            "43.666666",
+            "43.666766",
+            "-79.4042302",
+            "-79.4041302"
+        ],
+        "polygonpoints": [
+            [
+                -79.4041802,
+                43.666766
+            ],
+            [
+                -79.40414484466093,
+                43.66675135533906
+            ],
+            [
+                -79.4041302,
+                43.666716
+            ],
+            [
+                -79.40414484466093,
+                43.66668064466094
+            ],
+            [
+                -79.4041802,
+                43.666666
+            ],
+            [
+                -79.40421555533906,
+                43.66668064466094
+            ],
+            [
+                -79.4042302,
+                43.666716
+            ],
+            [
+                -79.40421555533906,
+                43.66675135533906
+            ]
+        ],
+        "lat": "43.666716",
+        "lon": "-79.4041802",
+        "display_name": "Tim Hortons, 334, Bloor Street West, Mirvish Village, Old Toronto, Toronto, Ontario, M5S 1W5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4812496",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "524141354",
+        "boundingbox": [
+            "43.6516191",
+            "43.6517191",
+            "-79.3822006",
+            "-79.3821006"
+        ],
+        "polygonpoints": [
+            [
+                -79.3821506,
+                43.6517191
+            ],
+            [
+                -79.38211524466094,
+                43.65170445533906
+            ],
+            [
+                -79.3821006,
+                43.6516691
+            ],
+            [
+                -79.38211524466094,
+                43.65163374466094
+            ],
+            [
+                -79.3821506,
+                43.6516191
+            ],
+            [
+                -79.38218595533907,
+                43.65163374466094
+            ],
+            [
+                -79.3822006,
+                43.6516691
+            ],
+            [
+                -79.38218595533907,
+                43.65170445533906
+            ]
+        ],
+        "lat": "43.6516691",
+        "lon": "-79.3821506",
+        "display_name": "Tim Hortons, 65, Queen Street West, Financial District, Old Toronto, Toronto, Ontario, M5H 3M9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "1479334",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "332338882",
+        "boundingbox": [
+            "43.6689641",
+            "43.6690641",
+            "-79.389439",
+            "-79.389339"
+        ],
+        "polygonpoints": [
+            [
+                -79.389389,
+                43.6690641
+            ],
+            [
+                -79.38935364466093,
+                43.66904945533906
+            ],
+            [
+                -79.38933899999999,
+                43.6690141
+            ],
+            [
+                -79.38935364466093,
+                43.66897874466094
+            ],
+            [
+                -79.389389,
+                43.6689641
+            ],
+            [
+                -79.38942435533906,
+                43.66897874466094
+            ],
+            [
+                -79.389439,
+                43.6690141
+            ],
+            [
+                -79.38942435533906,
+                43.66904945533906
+            ]
+        ],
+        "lat": "43.6690141",
+        "lon": "-79.389389",
+        "display_name": "Tim Hortons, 1170, Bay Street, Yorkville, Old Toronto, Toronto, Ontario, M4Y 2T1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4761056",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "527229212",
+        "boundingbox": [
+            "43.6469499",
+            "43.6470499",
+            "-79.4044192",
+            "-79.4043192"
+        ],
+        "polygonpoints": [
+            [
+                -79.4043692,
+                43.6470499
+            ],
+            [
+                -79.40433384466094,
+                43.647035255339055
+            ],
+            [
+                -79.4043192,
+                43.6469999
+            ],
+            [
+                -79.40433384466094,
+                43.64696454466094
+            ],
+            [
+                -79.4043692,
+                43.646949899999996
+            ],
+            [
+                -79.40440455533907,
+                43.64696454466094
+            ],
+            [
+                -79.4044192,
+                43.6469999
+            ],
+            [
+                -79.40440455533907,
+                43.647035255339055
+            ]
+        ],
+        "lat": "43.6469999",
+        "lon": "-79.4043692",
+        "display_name": "Tim Hortons, 659, Queen Street West, King West, Old Toronto, Toronto, Ontario, M6J 1E3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "2626780",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "356321730",
+        "boundingbox": [
+            "43.6621048",
+            "43.6622048",
+            "-79.3985754",
+            "-79.3984754"
+        ],
+        "polygonpoints": [
+            [
+                -79.3985254,
+                43.662204800000005
+            ],
+            [
+                -79.39849004466093,
+                43.66219015533906
+            ],
+            [
+                -79.3984754,
+                43.6621548
+            ],
+            [
+                -79.39849004466093,
+                43.662119444660945
+            ],
+            [
+                -79.3985254,
+                43.6621048
+            ],
+            [
+                -79.39856075533906,
+                43.662119444660945
+            ],
+            [
+                -79.3985754,
+                43.6621548
+            ],
+            [
+                -79.39856075533906,
+                43.66219015533906
+            ]
+        ],
+        "lat": "43.6621548",
+        "lon": "-79.3985254",
+        "display_name": "Tim Hortons, 100, St. George Street, Bloor Street Culture Corridor, Old Toronto, Toronto, Ontario, M5S 3J6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "5147830",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "575245014",
+        "boundingbox": [
+            "43.6637764",
+            "43.6638764",
+            "-79.4184013",
+            "-79.4183013"
+        ],
+        "polygonpoints": [
+            [
+                -79.4183513,
+                43.6638764
+            ],
+            [
+                -79.41831594466093,
+                43.663861755339056
+            ],
+            [
+                -79.4183013,
+                43.6638264
+            ],
+            [
+                -79.41831594466093,
+                43.66379104466094
+            ],
+            [
+                -79.4183513,
+                43.663776399999996
+            ],
+            [
+                -79.41838665533906,
+                43.66379104466094
+            ],
+            [
+                -79.4184013,
+                43.6638264
+            ],
+            [
+                -79.41838665533906,
+                43.663861755339056
+            ]
+        ],
+        "lat": "43.6638264",
+        "lon": "-79.4183513",
+        "display_name": "Tim Hortons, 726, Bloor Street West, Koreatown, Old Toronto, Toronto, Ontario, M6G 4B9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3627990",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "380039980",
+        "boundingbox": [
+            "43.6531304",
+            "43.6532304",
+            "-79.368893",
+            "-79.368793"
+        ],
+        "polygonpoints": [
+            [
+                -79.368843,
+                43.6532304
+            ],
+            [
+                -79.36880764466093,
+                43.653215755339055
+            ],
+            [
+                -79.368793,
+                43.6531804
+            ],
+            [
+                -79.36880764466093,
+                43.65314504466094
+            ],
+            [
+                -79.368843,
+                43.653130399999995
+            ],
+            [
+                -79.36887835533906,
+                43.65314504466094
+            ],
+            [
+                -79.368893,
+                43.6531804
+            ],
+            [
+                -79.36887835533906,
+                43.653215755339055
+            ]
+        ],
+        "lat": "43.6531804",
+        "lon": "-79.368843",
+        "display_name": "Tim Hortons, 1, Yonge Street, Financial District, Old Toronto, Toronto, Ontario, M5C 1B5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6956179",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "709877859",
+        "boundingbox": [
+            "43.6485107",
+            "43.6486107",
+            "-79.3856316",
+            "-79.3855316"
+        ],
+        "polygonpoints": [
+            [
+                -79.3855816,
+                43.6486107
+            ],
+            [
+                -79.38554624466093,
+                43.648596055339056
+            ],
+            [
+                -79.3855316,
+                43.6485607
+            ],
+            [
+                -79.38554624466093,
+                43.64852534466094
+            ],
+            [
+                -79.3855816,
+                43.648510699999996
+            ],
+            [
+                -79.38561695533906,
+                43.64852534466094
+            ],
+            [
+                -79.3856316,
+                43.6485607
+            ],
+            [
+                -79.38561695533906,
+                43.648596055339056
+            ]
+        ],
+        "lat": "43.6485607",
+        "lon": "-79.3855816",
+        "display_name": "Tim Hortons, 1, Yonge Street, Financial District, Old Toronto, Toronto, Ontario, M5C 1X6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3629754",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "391090202",
+        "boundingbox": [
+            "43.6645714",
+            "43.6646714",
+            "-79.3875464",
+            "-79.3874464"
+        ],
+        "polygonpoints": [
+            [
+                -79.3874964,
+                43.6646714
+            ],
+            [
+                -79.38746104466094,
+                43.66465675533906
+            ],
+            [
+                -79.3874464,
+                43.6646214
+            ],
+            [
+                -79.38746104466094,
+                43.66458604466094
+            ],
+            [
+                -79.3874964,
+                43.6645714
+            ],
+            [
+                -79.38753175533907,
+                43.66458604466094
+            ],
+            [
+                -79.3875464,
+                43.6646214
+            ],
+            [
+                -79.38753175533907,
+                43.66465675533906
+            ]
+        ],
+        "lat": "43.6646214",
+        "lon": "-79.3874964",
+        "display_name": "Tim Hortons, 56, Wellesley Street West, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M5S 2S3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "7319565",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "773490272",
+        "boundingbox": [
+            "43.6497367",
+            "43.6498367",
+            "-79.3820788",
+            "-79.3819788"
+        ],
+        "polygonpoints": [
+            [
+                -79.3820288,
+                43.6498367
+            ],
+            [
+                -79.38199344466094,
+                43.64982205533906
+            ],
+            [
+                -79.3819788,
+                43.6497867
+            ],
+            [
+                -79.38199344466094,
+                43.64975134466094
+            ],
+            [
+                -79.3820288,
+                43.6497367
+            ],
+            [
+                -79.38206415533907,
+                43.64975134466094
+            ],
+            [
+                -79.3820788,
+                43.6497867
+            ],
+            [
+                -79.38206415533907,
+                43.64982205533906
+            ]
+        ],
+        "lat": "43.6497867",
+        "lon": "-79.3820288",
+        "display_name": "Tim Hortons, 90, Adelaide Street West, Richmond-Adelaide Centre, Old Toronto, Toronto, Ontario, M5X 1A6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6747806",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "689654097",
+        "boundingbox": [
+            "43.656428",
+            "43.656528",
+            "-79.3816468",
+            "-79.3815468"
+        ],
+        "polygonpoints": [
+            [
+                -79.3815968,
+                43.656528
+            ],
+            [
+                -79.38156144466093,
+                43.65651335533906
+            ],
+            [
+                -79.3815468,
+                43.656478
+            ],
+            [
+                -79.38156144466093,
+                43.65644264466094
+            ],
+            [
+                -79.3815968,
+                43.656428
+            ],
+            [
+                -79.38163215533906,
+                43.65644264466094
+            ],
+            [
+                -79.3816468,
+                43.656478
+            ],
+            [
+                -79.38163215533906,
+                43.65651335533906
+            ]
+        ],
+        "lat": "43.656478",
+        "lon": "-79.3815968",
+        "display_name": "Tim Hortons, 595, Bay Street, Little Tokyo, Old Toronto, Toronto, Ontario, M5G 2C2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "61465594",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "5053722221",
+        "boundingbox": [
+            "43.6461264",
+            "43.6462264",
+            "-79.382585",
+            "-79.382485"
+        ],
+        "polygonpoints": [
+            [
+                -79.382535,
+                43.6462264
+            ],
+            [
+                -79.38249964466094,
+                43.64621175533906
+            ],
+            [
+                -79.382485,
+                43.6461764
+            ],
+            [
+                -79.38249964466094,
+                43.64614104466094
+            ],
+            [
+                -79.382535,
+                43.6461264
+            ],
+            [
+                -79.38257035533907,
+                43.64614104466094
+            ],
+            [
+                -79.382585,
+                43.6461764
+            ],
+            [
+                -79.38257035533907,
+                43.64621175533906
+            ]
+        ],
+        "lat": "43.6461764",
+        "lon": "-79.382535",
+        "display_name": "Tim Hortons, 55, York Street, Toronto-Dominion Centre, Old Toronto, Toronto, Ontario, M5J 1S9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "22472631",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2201111009",
+        "boundingbox": [
+            "43.6601527",
+            "43.6602527",
+            "-79.4344273",
+            "-79.4343273"
+        ],
+        "polygonpoints": [
+            [
+                -79.4343773,
+                43.6602527
+            ],
+            [
+                -79.43434194466093,
+                43.66023805533906
+            ],
+            [
+                -79.43432729999999,
+                43.6602027
+            ],
+            [
+                -79.43434194466093,
+                43.66016734466094
+            ],
+            [
+                -79.4343773,
+                43.6601527
+            ],
+            [
+                -79.43441265533906,
+                43.66016734466094
+            ],
+            [
+                -79.4344273,
+                43.6602027
+            ],
+            [
+                -79.43441265533906,
+                43.66023805533906
+            ]
+        ],
+        "lat": "43.6602027",
+        "lon": "-79.4343773",
+        "display_name": "Tim Hortons, 1094, Bloor Street West, Dovercourt, Old Toronto, Toronto, Ontario, M6H 1M7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "20658411",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2052131145",
+        "boundingbox": [
+            "43.646788",
+            "43.646888",
+            "-79.3800658",
+            "-79.3799658"
+        ],
+        "polygonpoints": [
+            [
+                -79.3800158,
+                43.646888000000004
+            ],
+            [
+                -79.37998044466093,
+                43.64687335533906
+            ],
+            [
+                -79.3799658,
+                43.646838
+            ],
+            [
+                -79.37998044466093,
+                43.646802644660944
+            ],
+            [
+                -79.3800158,
+                43.646788
+            ],
+            [
+                -79.38005115533906,
+                43.646802644660944
+            ],
+            [
+                -79.3800658,
+                43.646838
+            ],
+            [
+                -79.38005115533906,
+                43.64687335533906
+            ]
+        ],
+        "lat": "43.646838",
+        "lon": "-79.3800158",
+        "display_name": "Tim Hortons, 200, Bay Street, Commerce Court, Old Toronto, Toronto, Ontario, M5K 1B2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "16993345",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1562050612",
+        "boundingbox": [
+            "43.6551296",
+            "43.6552296",
+            "-79.3802955",
+            "-79.3801955"
+        ],
+        "polygonpoints": [
+            [
+                -79.3802455,
+                43.6552296
+            ],
+            [
+                -79.38021014466094,
+                43.655214955339055
+            ],
+            [
+                -79.3801955,
+                43.6551796
+            ],
+            [
+                -79.38021014466094,
+                43.65514424466094
+            ],
+            [
+                -79.3802455,
+                43.655129599999995
+            ],
+            [
+                -79.38028085533907,
+                43.65514424466094
+            ],
+            [
+                -79.3802955,
+                43.6551796
+            ],
+            [
+                -79.38028085533907,
+                43.655214955339055
+            ]
+        ],
+        "lat": "43.6551796",
+        "lon": "-79.3802455",
+        "display_name": "Tim Hortons, 1, Yonge Street, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 1N8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "28637975",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2689727197",
+        "boundingbox": [
+            "43.6575109",
+            "43.6576109",
+            "-79.3879015",
+            "-79.3878015"
+        ],
+        "polygonpoints": [
+            [
+                -79.3878515,
+                43.6576109
+            ],
+            [
+                -79.38781614466093,
+                43.65759625533906
+            ],
+            [
+                -79.3878015,
+                43.6575609
+            ],
+            [
+                -79.38781614466093,
+                43.65752554466094
+            ],
+            [
+                -79.3878515,
+                43.6575109
+            ],
+            [
+                -79.38788685533906,
+                43.65752554466094
+            ],
+            [
+                -79.3879015,
+                43.6575609
+            ],
+            [
+                -79.38788685533906,
+                43.65759625533906
+            ]
+        ],
+        "lat": "43.6575609",
+        "lon": "-79.3878515",
+        "display_name": "Tim Hortons, 555, Gerrard Street West, Discovery District, Old Toronto, Toronto, Ontario, M5G 1X8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "242459",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "54965507",
+        "boundingbox": [
+            "43.6523476",
+            "43.6524476",
+            "-79.4063153",
+            "-79.4062153"
+        ],
+        "polygonpoints": [
+            [
+                -79.4062653,
+                43.6524476
+            ],
+            [
+                -79.40622994466094,
+                43.65243295533906
+            ],
+            [
+                -79.4062153,
+                43.6523976
+            ],
+            [
+                -79.40622994466094,
+                43.65236224466094
+            ],
+            [
+                -79.4062653,
+                43.6523476
+            ],
+            [
+                -79.40630065533907,
+                43.65236224466094
+            ],
+            [
+                -79.4063153,
+                43.6523976
+            ],
+            [
+                -79.40630065533907,
+                43.65243295533906
+            ]
+        ],
+        "lat": "43.6523976",
+        "lon": "-79.4062653",
+        "display_name": "Tim Hortons, 1, Dundas Street West, Alexandra Park, Old Toronto, Toronto, Ontario, M6J 1W3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "48492688",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3700500418",
+        "boundingbox": [
+            "43.6479215",
+            "43.6480215",
+            "-79.3820584",
+            "-79.3819584"
+        ],
+        "polygonpoints": [
+            [
+                -79.3820084,
+                43.6480215
+            ],
+            [
+                -79.38197304466094,
+                43.648006855339055
+            ],
+            [
+                -79.3819584,
+                43.6479715
+            ],
+            [
+                -79.38197304466094,
+                43.64793614466094
+            ],
+            [
+                -79.3820084,
+                43.647921499999995
+            ],
+            [
+                -79.38204375533907,
+                43.64793614466094
+            ],
+            [
+                -79.3820584,
+                43.6479715
+            ],
+            [
+                -79.38204375533907,
+                43.648006855339055
+            ]
+        ],
+        "lat": "43.6479715",
+        "lon": "-79.3820084",
+        "display_name": "Tim Hortons, 77, PATH, Toronto-Dominion Centre, Old Toronto, Toronto, Ontario, M5H 3T9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "50595185",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3928028041",
+        "boundingbox": [
+            "43.6598084",
+            "43.6599084",
+            "-79.3881789",
+            "-79.3880789"
+        ],
+        "polygonpoints": [
+            [
+                -79.3881289,
+                43.6599084
+            ],
+            [
+                -79.38809354466093,
+                43.659893755339056
+            ],
+            [
+                -79.3880789,
+                43.6598584
+            ],
+            [
+                -79.38809354466093,
+                43.65982304466094
+            ],
+            [
+                -79.3881289,
+                43.659808399999996
+            ],
+            [
+                -79.38816425533906,
+                43.65982304466094
+            ],
+            [
+                -79.3881789,
+                43.6598584
+            ],
+            [
+                -79.38816425533906,
+                43.659893755339056
+            ]
+        ],
+        "lat": "43.6598584",
+        "lon": "-79.3881289",
+        "display_name": "Tim Hortons, 101, College Street, Discovery District, Old Toronto, Toronto, Ontario, M5S 3M2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "43714600",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3206983509",
+        "boundingbox": [
+            "43.6469291",
+            "43.6470291",
+            "-79.3950815",
+            "-79.3949815"
+        ],
+        "polygonpoints": [
+            [
+                -79.3950315,
+                43.647029100000005
+            ],
+            [
+                -79.39499614466094,
+                43.64701445533906
+            ],
+            [
+                -79.3949815,
+                43.6469791
+            ],
+            [
+                -79.39499614466094,
+                43.646943744660945
+            ],
+            [
+                -79.3950315,
+                43.6469291
+            ],
+            [
+                -79.39506685533907,
+                43.646943744660945
+            ],
+            [
+                -79.3950815,
+                43.6469791
+            ],
+            [
+                -79.39506685533907,
+                43.64701445533906
+            ]
+        ],
+        "lat": "43.6469791",
+        "lon": "-79.3950315",
+        "display_name": "Tim Hortons, 117, Spadina Avenue, Queen West, Old Toronto, Toronto, Ontario, M5V 2K8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "28739001",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2705018173",
+        "boundingbox": [
+            "43.6553382",
+            "43.6554382",
+            "-79.3832856",
+            "-79.3831856"
+        ],
+        "polygonpoints": [
+            [
+                -79.3832356,
+                43.6554382
+            ],
+            [
+                -79.38320024466094,
+                43.655423555339055
+            ],
+            [
+                -79.3831856,
+                43.6553882
+            ],
+            [
+                -79.38320024466094,
+                43.65535284466094
+            ],
+            [
+                -79.3832356,
+                43.655338199999996
+            ],
+            [
+                -79.38327095533907,
+                43.65535284466094
+            ],
+            [
+                -79.38328560000001,
+                43.6553882
+            ],
+            [
+                -79.38327095533907,
+                43.655423555339055
+            ]
+        ],
+        "lat": "43.6553882",
+        "lon": "-79.3832356",
+        "display_name": "Tim Hortons, 575, PATH, Downtown Yonge, Old Toronto, Toronto, Ontario, M5C 2C3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "40160261",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3007603744",
+        "boundingbox": [
+            "43.6477223",
+            "43.6478223",
+            "-79.3705638",
+            "-79.3704638"
+        ],
+        "polygonpoints": [
+            [
+                -79.3705138,
+                43.6478223
+            ],
+            [
+                -79.37047844466093,
+                43.64780765533906
+            ],
+            [
+                -79.3704638,
+                43.6477723
+            ],
+            [
+                -79.37047844466093,
+                43.64773694466094
+            ],
+            [
+                -79.3705138,
+                43.6477223
+            ],
+            [
+                -79.37054915533906,
+                43.64773694466094
+            ],
+            [
+                -79.3705638,
+                43.6477723
+            ],
+            [
+                -79.37054915533906,
+                43.64780765533906
+            ]
+        ],
+        "lat": "43.6477723",
+        "lon": "-79.3705138",
+        "display_name": "Tim Hortons, 77, Lower Jarvis Street, St. Lawrence, Old Toronto, Toronto, Ontario, M5E 1R8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "11898461",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1125689244",
+        "boundingbox": [
+            "43.646919",
+            "43.647019",
+            "-79.382733",
+            "-79.382633"
+        ],
+        "polygonpoints": [
+            [
+                -79.382683,
+                43.647019
+            ],
+            [
+                -79.38264764466093,
+                43.64700435533906
+            ],
+            [
+                -79.382633,
+                43.646969
+            ],
+            [
+                -79.38264764466093,
+                43.64693364466094
+            ],
+            [
+                -79.382683,
+                43.646919
+            ],
+            [
+                -79.38271835533907,
+                43.64693364466094
+            ],
+            [
+                -79.382733,
+                43.646969
+            ],
+            [
+                -79.38271835533907,
+                43.64700435533906
+            ]
+        ],
+        "lat": "43.646969",
+        "lon": "-79.382683",
+        "display_name": "Tim Hortons, 100, Wellington Street West, Toronto-Dominion Centre, Old Toronto, Toronto, Ontario, M5K 1H6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "28221642",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2674074228",
+        "boundingbox": [
+            "43.6565421",
+            "43.6566421",
+            "-79.3808396",
+            "-79.3807396"
+        ],
+        "polygonpoints": [
+            [
+                -79.3807896,
+                43.6566421
+            ],
+            [
+                -79.38075424466093,
+                43.656627455339056
+            ],
+            [
+                -79.3807396,
+                43.6565921
+            ],
+            [
+                -79.38075424466093,
+                43.65655674466094
+            ],
+            [
+                -79.3807896,
+                43.656542099999996
+            ],
+            [
+                -79.38082495533907,
+                43.65655674466094
+            ],
+            [
+                -79.3808396,
+                43.6565921
+            ],
+            [
+                -79.38082495533907,
+                43.656627455339056
+            ]
+        ],
+        "lat": "43.6565921",
+        "lon": "-79.3807896",
+        "display_name": "Tim Hortons, 10, PATH, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 0A1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51385836",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4015549355",
+        "boundingbox": [
+            "43.6671291",
+            "43.6672291",
+            "-79.3688974",
+            "-79.3687974"
+        ],
+        "polygonpoints": [
+            [
+                -79.3688474,
+                43.6672291
+            ],
+            [
+                -79.36881204466094,
+                43.66721445533906
+            ],
+            [
+                -79.3687974,
+                43.6671791
+            ],
+            [
+                -79.36881204466094,
+                43.66714374466094
+            ],
+            [
+                -79.3688474,
+                43.6671291
+            ],
+            [
+                -79.36888275533907,
+                43.66714374466094
+            ],
+            [
+                -79.36889740000001,
+                43.6671791
+            ],
+            [
+                -79.36888275533907,
+                43.66721445533906
+            ]
+        ],
+        "lat": "43.6671791",
+        "lon": "-79.3688474",
+        "display_name": "Tim Hortons, 581, Parliament Street, Cabbagetown, Old Toronto, Toronto, Ontario, M4X 1P7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "45364486",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3333046455",
+        "boundingbox": [
+            "43.6479096",
+            "43.6480096",
+            "-79.3738163",
+            "-79.3737163"
+        ],
+        "polygonpoints": [
+            [
+                -79.3737663,
+                43.6480096
+            ],
+            [
+                -79.37373094466093,
+                43.64799495533906
+            ],
+            [
+                -79.3737163,
+                43.6479596
+            ],
+            [
+                -79.37373094466093,
+                43.64792424466094
+            ],
+            [
+                -79.3737663,
+                43.6479096
+            ],
+            [
+                -79.37380165533907,
+                43.64792424466094
+            ],
+            [
+                -79.3738163,
+                43.6479596
+            ],
+            [
+                -79.37380165533907,
+                43.64799495533906
+            ]
+        ],
+        "lat": "43.6479596",
+        "lon": "-79.3737663",
+        "display_name": "Tim Hortons, 18, Church Street, King East, Old Toronto, Toronto, Ontario, M5E 1M2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.401,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "25683366",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2480731355",
+        "boundingbox": [
+            "43.6594244",
+            "43.6595244",
+            "-79.3909232",
+            "-79.3908232"
+        ],
+        "polygonpoints": [
+            [
+                -79.3908732,
+                43.6595244
+            ],
+            [
+                -79.39083784466094,
+                43.65950975533906
+            ],
+            [
+                -79.3908232,
+                43.6594744
+            ],
+            [
+                -79.39083784466094,
+                43.65943904466094
+            ],
+            [
+                -79.3908732,
+                43.6594244
+            ],
+            [
+                -79.39090855533907,
+                43.65943904466094
+            ],
+            [
+                -79.3909232,
+                43.6594744
+            ],
+            [
+                -79.39090855533907,
+                43.65950975533906
+            ]
+        ],
+        "lat": "43.6594744",
+        "lon": "-79.3908732",
+        "display_name": "Tim Hortons, 1, Yonge Street, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M4Y 1X5, Canada",
+        "class": "amenity",
+        "type": "waste_basket;recycling",
+        "importance": 0.401
+    },
+    {
+        "place_id": "11670479",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1122176091",
+        "boundingbox": [
+            "43.656276",
+            "43.656376",
+            "-79.383275",
+            "-79.383175"
+        ],
+        "polygonpoints": [
+            [
+                -79.383225,
+                43.656376
+            ],
+            [
+                -79.38318964466093,
+                43.65636135533906
+            ],
+            [
+                -79.383175,
+                43.656326
+            ],
+            [
+                -79.38318964466093,
+                43.65629064466094
+            ],
+            [
+                -79.383225,
+                43.656276
+            ],
+            [
+                -79.38326035533906,
+                43.65629064466094
+            ],
+            [
+                -79.383275,
+                43.656326
+            ],
+            [
+                -79.38326035533906,
+                43.65636135533906
+            ]
+        ],
+        "lat": "43.656326",
+        "lon": "-79.383225",
+        "display_name": "Tims Express, 595, Bay Street, Little Tokyo, Old Toronto, Toronto, Ontario, M5G 2C3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+]

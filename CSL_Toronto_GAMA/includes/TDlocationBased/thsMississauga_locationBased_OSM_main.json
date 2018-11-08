@@ -1,0 +1,3583 @@
+[
+    {
+        "place_id": "90111725",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "55352259",
+        "boundingbox": [
+            "43.5969474",
+            "43.5973289",
+            "-79.5982606",
+            "-79.5978237"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5980891",
+                "43.5973289"
+            ],
+            [
+                "-79.5982339",
+                "43.5971935"
+            ],
+            [
+                "-79.5982606",
+                "43.5971658"
+            ],
+            [
+                "-79.5982454",
+                "43.5971382"
+            ],
+            [
+                "-79.5982186",
+                "43.597116"
+            ],
+            [
+                "-79.5981773",
+                "43.5970927"
+            ],
+            [
+                "-79.5980287",
+                "43.5970091"
+            ],
+            [
+                "-79.5979437",
+                "43.5969612"
+            ],
+            [
+                "-79.5979093",
+                "43.5969474"
+            ],
+            [
+                "-79.597875",
+                "43.5969474"
+            ],
+            [
+                "-79.5978237",
+                "43.5969538"
+            ]
+        ],
+        "lat": "43.5970927",
+        "lon": "-79.5981773",
+        "display_name": "Tim Hortons, Dixie, Lakeview, Ont., Peel Region, Ontario, L4Y 4B2, Canada",
+        "class": "highway",
+        "type": "service",
+        "importance": 0.275
+    },
+    {
+        "place_id": "181912712",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "498412092",
+        "boundingbox": [
+            "43.6202345",
+            "43.6204651",
+            "-79.5547542",
+            "-79.554443"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5547542",
+                "43.6202672"
+            ],
+            [
+                "-79.5547196",
+                "43.6202435"
+            ],
+            [
+                "-79.5546925",
+                "43.6202643"
+            ],
+            [
+                "-79.554649",
+                "43.6202345"
+            ],
+            [
+                "-79.554443",
+                "43.620392"
+            ],
+            [
+                "-79.5545496",
+                "43.6204651"
+            ],
+            [
+                "-79.5547303",
+                "43.620327"
+            ],
+            [
+                "-79.5547017",
+                "43.6203074"
+            ],
+            [
+                "-79.5547542",
+                "43.6202672"
+            ]
+        ],
+        "lat": "43.6203595",
+        "lon": "-79.5545866412963",
+        "display_name": "Tim Hortons, 152, North Queen Street, Cloverdale, Etobicoke, Toronto, Ontario, M9C 1A8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84556588",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "34081979",
+        "boundingbox": [
+            "43.6090243",
+            "43.609184",
+            "-79.560203",
+            "-79.5599085"
+        ],
+        "polygonpoints": [
+            [
+                "-79.560203",
+                "43.6091365"
+            ],
+            [
+                "-79.5601898",
+                "43.6091298"
+            ],
+            [
+                "-79.5601929",
+                "43.6091229"
+            ],
+            [
+                "-79.5601369",
+                "43.6091013"
+            ],
+            [
+                "-79.5601433",
+                "43.609091"
+            ],
+            [
+                "-79.5600689",
+                "43.6090586"
+            ],
+            [
+                "-79.5600613",
+                "43.6090657"
+            ],
+            [
+                "-79.5599697",
+                "43.6090243"
+            ],
+            [
+                "-79.5599629",
+                "43.6090355"
+            ],
+            [
+                "-79.559946",
+                "43.6090294"
+            ],
+            [
+                "-79.5599265",
+                "43.6090497"
+            ],
+            [
+                "-79.5599085",
+                "43.6090683"
+            ],
+            [
+                "-79.5599256",
+                "43.6090762"
+            ],
+            [
+                "-79.5599144",
+                "43.6090829"
+            ],
+            [
+                "-79.5600351",
+                "43.6091383"
+            ],
+            [
+                "-79.5600302",
+                "43.6091446"
+            ],
+            [
+                "-79.5600811",
+                "43.6091662"
+            ],
+            [
+                "-79.5600863",
+                "43.6091591"
+            ],
+            [
+                "-79.5601423",
+                "43.609184"
+            ],
+            [
+                "-79.560147",
+                "43.6091784"
+            ],
+            [
+                "-79.5601592",
+                "43.6091834"
+            ],
+            [
+                "-79.560203",
+                "43.6091365"
+            ]
+        ],
+        "lat": "43.6091121",
+        "lon": "-79.5600714590253",
+        "display_name": "Tim Hortons, The West Mall, Etobicoke, Toronto, Ontario, M9C 1B8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84291041",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "34582600",
+        "boundingbox": [
+            "43.6484598",
+            "43.6486974",
+            "-79.6057866",
+            "-79.6054455"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6057866",
+                "43.6485779"
+            ],
+            [
+                "-79.6055699",
+                "43.6484598"
+            ],
+            [
+                "-79.6054455",
+                "43.6485794"
+            ],
+            [
+                "-79.6056622",
+                "43.6486974"
+            ],
+            [
+                "-79.6057866",
+                "43.6485779"
+            ]
+        ],
+        "lat": "43.64857865",
+        "lon": "-79.6056160496736",
+        "display_name": "Tim Hortons, Rakely Court, Etobicoke, Toronto, Ontario, L4W 5N6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51811750",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4030020002",
+        "boundingbox": [
+            "43.6446713",
+            "43.6447713",
+            "-79.5677272",
+            "-79.5676272"
+        ],
+        "polygonpoints": [
+            [
+                -79.5676772,
+                43.6447713
+            ],
+            [
+                -79.56764184466094,
+                43.64475665533906
+            ],
+            [
+                -79.5676272,
+                43.6447213
+            ],
+            [
+                -79.56764184466094,
+                43.64468594466094
+            ],
+            [
+                -79.5676772,
+                43.6446713
+            ],
+            [
+                -79.56771255533907,
+                43.64468594466094
+            ],
+            [
+                -79.56772720000001,
+                43.6447213
+            ],
+            [
+                -79.56771255533907,
+                43.64475665533906
+            ]
+        ],
+        "lat": "43.6447213",
+        "lon": "-79.5676772",
+        "display_name": "Tim Hortons, 555, Burnhamthorpe Road, Eatonville, Etobicoke, Toronto, Ontario, M9C 3G6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "82295289",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "28252329",
+        "boundingbox": [
+            "43.6603467",
+            "43.6605212",
+            "-79.5831629",
+            "-79.5828896"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5831629",
+                "43.6604686"
+            ],
+            [
+                "-79.5831064",
+                "43.6603467"
+            ],
+            [
+                "-79.5828896",
+                "43.6603993"
+            ],
+            [
+                "-79.5829461",
+                "43.6605212"
+            ],
+            [
+                "-79.5831629",
+                "43.6604686"
+            ]
+        ],
+        "lat": "43.66043395",
+        "lon": "-79.58302625",
+        "display_name": "Tim Hortons, Ramage Lane, Eringate, Etobicoke, Toronto, Ontario, M9C 2N6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "65475409",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "5531936321",
+        "boundingbox": [
+            "43.6100035",
+            "43.6101035",
+            "-79.5531591",
+            "-79.5530591"
+        ],
+        "polygonpoints": [
+            [
+                -79.5531091,
+                43.6101035
+            ],
+            [
+                -79.55307374466094,
+                43.61008885533906
+            ],
+            [
+                -79.5530591,
+                43.6100535
+            ],
+            [
+                -79.55307374466094,
+                43.61001814466094
+            ],
+            [
+                -79.5531091,
+                43.6100035
+            ],
+            [
+                -79.55314445533907,
+                43.61001814466094
+            ],
+            [
+                -79.5531591,
+                43.6100535
+            ],
+            [
+                -79.55314445533907,
+                43.61008885533906
+            ]
+        ],
+        "lat": "43.6100535",
+        "lon": "-79.5531091",
+        "display_name": "Tim Hortons, Evans Avenue, Alderwood, Etobicoke, Toronto, Ontario, M8W 2W6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "83697688",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "32845054",
+        "boundingbox": [
+            "43.528162",
+            "43.528378",
+            "-79.6530043",
+            "-79.6526937"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6530043",
+                "43.5282554"
+            ],
+            [
+                "-79.6528976",
+                "43.5281835"
+            ],
+            [
+                "-79.6528799",
+                "43.5281808"
+            ],
+            [
+                "-79.6528474",
+                "43.528162"
+            ],
+            [
+                "-79.6526937",
+                "43.5282837"
+            ],
+            [
+                "-79.6528333",
+                "43.528378"
+            ],
+            [
+                "-79.6528521",
+                "43.5283633"
+            ],
+            [
+                "-79.6528593",
+                "43.5283667"
+            ],
+            [
+                "-79.6529366",
+                "43.5283073"
+            ],
+            [
+                "-79.6529293",
+                "43.5282999"
+            ],
+            [
+                "-79.6529617",
+                "43.5282749"
+            ],
+            [
+                "-79.652969",
+                "43.5282793"
+            ],
+            [
+                "-79.6530043",
+                "43.5282554"
+            ]
+        ],
+        "lat": "43.52826515",
+        "lon": "-79.6528535134701",
+        "display_name": "Tim Hortons, 2215, Erin Mills Parkway, Sherwood Forrest, Erindale, Ont., Peel Region, Ontario, L5K 1T9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "8666608",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "910381087",
+        "boundingbox": [
+            "43.618408",
+            "43.618508",
+            "-79.5746381",
+            "-79.5745381"
+        ],
+        "polygonpoints": [
+            [
+                -79.5745881,
+                43.618508
+            ],
+            [
+                -79.57455274466093,
+                43.618493355339055
+            ],
+            [
+                -79.5745381,
+                43.618458
+            ],
+            [
+                -79.57455274466093,
+                43.61842264466094
+            ],
+            [
+                -79.5745881,
+                43.618407999999995
+            ],
+            [
+                -79.57462345533907,
+                43.61842264466094
+            ],
+            [
+                -79.5746381,
+                43.618458
+            ],
+            [
+                -79.57462345533907,
+                43.618493355339055
+            ]
+        ],
+        "lat": "43.618458",
+        "lon": "-79.5745881",
+        "display_name": "Tim Hortons, Dundas Street East, Summerville, Lakeview, Ont., Peel Region, Ontario, L4X 2Z3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "50929165",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4004435213",
+        "boundingbox": [
+            "43.6355691",
+            "43.6356691",
+            "-79.6218403",
+            "-79.6217403"
+        ],
+        "polygonpoints": [
+            [
+                -79.6217903,
+                43.6356691
+            ],
+            [
+                -79.62175494466094,
+                43.63565445533906
+            ],
+            [
+                -79.6217403,
+                43.6356191
+            ],
+            [
+                -79.62175494466094,
+                43.63558374466094
+            ],
+            [
+                -79.6217903,
+                43.6355691
+            ],
+            [
+                -79.62182565533907,
+                43.63558374466094
+            ],
+            [
+                -79.6218403,
+                43.6356191
+            ],
+            [
+                -79.62182565533907,
+                43.63565445533906
+            ]
+        ],
+        "lat": "43.6356191",
+        "lon": "-79.6217903",
+        "display_name": "Tim Hortons, Eglinton Avenue East, Rathwood, Ont., Peel Region, Ontario, L4W 2R1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "50743999",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3975023789",
+        "boundingbox": [
+            "43.6255625",
+            "43.6256625",
+            "-79.6795877",
+            "-79.6794877"
+        ],
+        "polygonpoints": [
+            [
+                -79.6795377,
+                43.625662500000004
+            ],
+            [
+                -79.67950234466093,
+                43.62564785533906
+            ],
+            [
+                -79.6794877,
+                43.6256125
+            ],
+            [
+                -79.67950234466093,
+                43.625577144660944
+            ],
+            [
+                -79.6795377,
+                43.6255625
+            ],
+            [
+                -79.67957305533906,
+                43.625577144660944
+            ],
+            [
+                -79.6795877,
+                43.6256125
+            ],
+            [
+                -79.67957305533906,
+                43.62564785533906
+            ]
+        ],
+        "lat": "43.6256125",
+        "lon": "-79.6795377",
+        "display_name": "Tim Hortons, Britannia Road West, Britannia East Business Park, Meadowvale South, Ont., Peel Region, Ontario, L4Z 2G2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "49076122",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3754727521",
+        "boundingbox": [
+            "43.5747304",
+            "43.5748304",
+            "-79.644932",
+            "-79.644832"
+        ],
+        "polygonpoints": [
+            [
+                -79.644882,
+                43.5748304
+            ],
+            [
+                -79.64484664466093,
+                43.57481575533906
+            ],
+            [
+                -79.644832,
+                43.5747804
+            ],
+            [
+                -79.64484664466093,
+                43.57474504466094
+            ],
+            [
+                -79.644882,
+                43.5747304
+            ],
+            [
+                -79.64491735533906,
+                43.57474504466094
+            ],
+            [
+                -79.644932,
+                43.5747804
+            ],
+            [
+                -79.64491735533906,
+                43.57481575533906
+            ]
+        ],
+        "lat": "43.5747804",
+        "lon": "-79.644882",
+        "display_name": "Tim Hortons, 3411, Mavis Road, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 4L1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3857253",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "414941746",
+        "boundingbox": [
+            "43.5594035",
+            "43.5595035",
+            "-79.5869775",
+            "-79.5868775"
+        ],
+        "polygonpoints": [
+            [
+                -79.5869275,
+                43.5595035
+            ],
+            [
+                -79.58689214466094,
+                43.559488855339055
+            ],
+            [
+                -79.5868775,
+                43.5594535
+            ],
+            [
+                -79.58689214466094,
+                43.55941814466094
+            ],
+            [
+                -79.5869275,
+                43.559403499999995
+            ],
+            [
+                -79.58696285533907,
+                43.55941814466094
+            ],
+            [
+                -79.5869775,
+                43.5594535
+            ],
+            [
+                -79.58696285533907,
+                43.559488855339055
+            ]
+        ],
+        "lat": "43.5594535",
+        "lon": "-79.5869275",
+        "display_name": "Tim Hortons, 1211, Hurontario Street, Port Credit, Ont., Peel Region, Ontario, L5G 3H2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3987715",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "421904486",
+        "boundingbox": [
+            "43.667327",
+            "43.667427",
+            "-79.665071",
+            "-79.664971"
+        ],
+        "polygonpoints": [
+            [
+                -79.665021,
+                43.667427
+            ],
+            [
+                -79.66498564466093,
+                43.66741235533906
+            ],
+            [
+                -79.664971,
+                43.667377
+            ],
+            [
+                -79.66498564466093,
+                43.667341644660944
+            ],
+            [
+                -79.665021,
+                43.667327
+            ],
+            [
+                -79.66505635533906,
+                43.667341644660944
+            ],
+            [
+                -79.665071,
+                43.667377
+            ],
+            [
+                -79.66505635533906,
+                43.66741235533906
+            ]
+        ],
+        "lat": "43.667377",
+        "lon": "-79.665021",
+        "display_name": "Tim Hortons, 1420, Mid-Way Boulevard, Mount Charles, Ont., Peel Region, Ontario, L5T 2K7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "17697482",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1679224322",
+        "boundingbox": [
+            "43.6243955",
+            "43.6244955",
+            "-79.6057304",
+            "-79.6056304"
+        ],
+        "polygonpoints": [
+            [
+                -79.6056804,
+                43.6244955
+            ],
+            [
+                -79.60564504466093,
+                43.62448085533906
+            ],
+            [
+                -79.6056304,
+                43.6244455
+            ],
+            [
+                -79.60564504466093,
+                43.62441014466094
+            ],
+            [
+                -79.6056804,
+                43.6243955
+            ],
+            [
+                -79.60571575533906,
+                43.62441014466094
+            ],
+            [
+                -79.6057304,
+                43.6244455
+            ],
+            [
+                -79.60571575533906,
+                43.62448085533906
+            ]
+        ],
+        "lat": "43.6244455",
+        "lon": "-79.6056804",
+        "display_name": "Tim Hortons, 4120, Dixie Road, Burnhamthorpe, Ont., Peel Region, Ontario, L4W 1V5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "17368294",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1621863680",
+        "boundingbox": [
+            "43.5714652",
+            "43.5715652",
+            "-79.6083619",
+            "-79.6082619"
+        ],
+        "polygonpoints": [
+            [
+                -79.6083119,
+                43.5715652
+            ],
+            [
+                -79.60827654466094,
+                43.57155055533906
+            ],
+            [
+                -79.6082619,
+                43.5715152
+            ],
+            [
+                -79.60827654466094,
+                43.57147984466094
+            ],
+            [
+                -79.6083119,
+                43.5714652
+            ],
+            [
+                -79.60834725533907,
+                43.57147984466094
+            ],
+            [
+                -79.6083619,
+                43.5715152
+            ],
+            [
+                -79.60834725533907,
+                43.57155055533906
+            ]
+        ],
+        "lat": "43.5715152",
+        "lon": "-79.6083119",
+        "display_name": "Tim Hortons, 100, Queensway West, Cooksville, Ont., Peel Region, Ontario, L5B 1B5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "17343126",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1618092696",
+        "boundingbox": [
+            "43.5683638",
+            "43.5684638",
+            "-79.6633803",
+            "-79.6632803"
+        ],
+        "polygonpoints": [
+            [
+                -79.6633303,
+                43.5684638
+            ],
+            [
+                -79.66329494466093,
+                43.56844915533906
+            ],
+            [
+                -79.6632803,
+                43.5684138
+            ],
+            [
+                -79.66329494466093,
+                43.568378444660944
+            ],
+            [
+                -79.6633303,
+                43.5683638
+            ],
+            [
+                -79.66336565533906,
+                43.568378444660944
+            ],
+            [
+                -79.6633803,
+                43.5684138
+            ],
+            [
+                -79.66336565533906,
+                43.56844915533906
+            ]
+        ],
+        "lat": "43.5684138",
+        "lon": "-79.6633303",
+        "display_name": "Tim Hortons, 1170, Burnhamthorpe Road West, Erindale Woodlands, Erindale, Ont., Peel Region, Ontario, L5C 3Y8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "17190013",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1597547048",
+        "boundingbox": [
+            "43.6232499",
+            "43.6233499",
+            "-79.6027827",
+            "-79.6026827"
+        ],
+        "polygonpoints": [
+            [
+                -79.6027327,
+                43.6233499
+            ],
+            [
+                -79.60269734466094,
+                43.62333525533906
+            ],
+            [
+                -79.6026827,
+                43.6232999
+            ],
+            [
+                -79.60269734466094,
+                43.62326454466094
+            ],
+            [
+                -79.6027327,
+                43.6232499
+            ],
+            [
+                -79.60276805533907,
+                43.62326454466094
+            ],
+            [
+                -79.6027827,
+                43.6232999
+            ],
+            [
+                -79.60276805533907,
+                43.62333525533906
+            ]
+        ],
+        "lat": "43.6232999",
+        "lon": "-79.6027327",
+        "display_name": "Tim Hortons, 4011, Dixie Road, Burnhamthorpe, Lakeview, Ont., Peel Region, Ontario, L4W 1V5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "16371829",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1468158948",
+        "boundingbox": [
+            "43.6108909",
+            "43.6109909",
+            "-79.6006839",
+            "-79.6005839"
+        ],
+        "polygonpoints": [
+            [
+                -79.6006339,
+                43.610990900000004
+            ],
+            [
+                -79.60059854466094,
+                43.61097625533906
+            ],
+            [
+                -79.6005839,
+                43.6109409
+            ],
+            [
+                -79.60059854466094,
+                43.610905544660945
+            ],
+            [
+                -79.6006339,
+                43.6108909
+            ],
+            [
+                -79.60066925533907,
+                43.610905544660945
+            ],
+            [
+                -79.6006839,
+                43.6109409
+            ],
+            [
+                -79.60066925533907,
+                43.61097625533906
+            ]
+        ],
+        "lat": "43.6109409",
+        "lon": "-79.6006339",
+        "display_name": "Tim Hortons, 1125, Bloor Street, Applewood Heights, Lakeview, Ont., Peel Region, Ontario, L4Y 2N6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "14668466",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1311360710",
+        "boundingbox": [
+            "43.5186478",
+            "43.5187478",
+            "-79.6395125",
+            "-79.6394125"
+        ],
+        "polygonpoints": [
+            [
+                -79.6394625,
+                43.5187478
+            ],
+            [
+                -79.63942714466093,
+                43.518733155339056
+            ],
+            [
+                -79.63941249999999,
+                43.5186978
+            ],
+            [
+                -79.63942714466093,
+                43.51866244466094
+            ],
+            [
+                -79.6394625,
+                43.5186478
+            ],
+            [
+                -79.63949785533906,
+                43.51866244466094
+            ],
+            [
+                -79.6395125,
+                43.5186978
+            ],
+            [
+                -79.63949785533906,
+                43.518733155339056
+            ]
+        ],
+        "lat": "43.5186978",
+        "lon": "-79.6394625",
+        "display_name": "Tim Hortons, 1375, Southdown Road, Sheridan Park, Clarkson, Ont., Peel Region, Ontario, L5J 2Z1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84374586",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "33600197",
+        "boundingbox": [
+            "43.5167622",
+            "43.5169899",
+            "-79.6243032",
+            "-79.6239909"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6243032",
+                "43.516863"
+            ],
+            [
+                "-79.6241327",
+                "43.5167622"
+            ],
+            [
+                "-79.6241051",
+                "43.5167885"
+            ],
+            [
+                "-79.6240958",
+                "43.5167848"
+            ],
+            [
+                "-79.6240355",
+                "43.5168324"
+            ],
+            [
+                "-79.6239909",
+                "43.5168869"
+            ],
+            [
+                "-79.6241757",
+                "43.5169899"
+            ],
+            [
+                "-79.6243032",
+                "43.516863"
+            ]
+        ],
+        "lat": "43.51687495",
+        "lon": "-79.6241459363824",
+        "display_name": "Tim Hortons, 1785, Lakeshore Road West, Glen Leven, Clarkson, Ont., Peel Region, Ontario, L5J 1J7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6817603",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "702516072",
+        "boundingbox": [
+            "43.5891911",
+            "43.5892911",
+            "-79.6282583",
+            "-79.6281583"
+        ],
+        "polygonpoints": [
+            [
+                -79.6282083,
+                43.589291100000004
+            ],
+            [
+                -79.62817294466093,
+                43.58927645533906
+            ],
+            [
+                -79.6281583,
+                43.5892411
+            ],
+            [
+                -79.62817294466093,
+                43.589205744660944
+            ],
+            [
+                -79.6282083,
+                43.5891911
+            ],
+            [
+                -79.62824365533906,
+                43.589205744660944
+            ],
+            [
+                -79.6282583,
+                43.5892411
+            ],
+            [
+                -79.62824365533906,
+                43.58927645533906
+            ]
+        ],
+        "lat": "43.5892411",
+        "lon": "-79.6282083",
+        "display_name": "Tim Hortons, 3445, Hurontario Street, Fairview, Erindale, Ont., Peel Region, Ontario, L5A3W9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "19873886",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1906029303",
+        "boundingbox": [
+            "43.5942904",
+            "43.5943904",
+            "-79.5668109",
+            "-79.5667109"
+        ],
+        "polygonpoints": [
+            [
+                -79.5667609,
+                43.5943904
+            ],
+            [
+                -79.56672554466094,
+                43.59437575533906
+            ],
+            [
+                -79.5667109,
+                43.5943404
+            ],
+            [
+                -79.56672554466094,
+                43.59430504466094
+            ],
+            [
+                -79.5667609,
+                43.5942904
+            ],
+            [
+                -79.56679625533907,
+                43.59430504466094
+            ],
+            [
+                -79.56681090000001,
+                43.5943404
+            ],
+            [
+                -79.56679625533907,
+                43.59437575533906
+            ]
+        ],
+        "lat": "43.5943404",
+        "lon": "-79.5667609",
+        "display_name": "Tim Hortons, Dixie Road, Orchard Heights, Lakeview, Ont., Peel Region, Ontario, L5E 2P8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "156316723",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "358212379",
+        "boundingbox": [
+            "43.5684092",
+            "43.5685125",
+            "-79.6658114",
+            "-79.6656429"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6658114",
+                "43.568437"
+            ],
+            [
+                "-79.6657738",
+                "43.5684092"
+            ],
+            [
+                "-79.6657276",
+                "43.5684419"
+            ],
+            [
+                "-79.6656865",
+                "43.5684115"
+            ],
+            [
+                "-79.6656429",
+                "43.5684424"
+            ],
+            [
+                "-79.6656763",
+                "43.5684672"
+            ],
+            [
+                "-79.6656596",
+                "43.568479"
+            ],
+            [
+                "-79.6657049",
+                "43.5685125"
+            ],
+            [
+                "-79.6658114",
+                "43.568437"
+            ]
+        ],
+        "lat": "43.5684548",
+        "lon": "-79.6657229456954",
+        "display_name": "Tim Hortons, 4040, Creditview Road, Erindale Woodlands, Erindale, Ont., Peel Region, Ontario, L5C 3Y8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "19578326",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1907752621",
+        "boundingbox": [
+            "43.6089045",
+            "43.6090045",
+            "-79.5782102",
+            "-79.5781102"
+        ],
+        "polygonpoints": [
+            [
+                -79.5781602,
+                43.609004500000005
+            ],
+            [
+                -79.57812484466093,
+                43.60898985533906
+            ],
+            [
+                -79.5781102,
+                43.6089545
+            ],
+            [
+                -79.57812484466093,
+                43.608919144660945
+            ],
+            [
+                -79.5781602,
+                43.6089045
+            ],
+            [
+                -79.57819555533906,
+                43.608919144660945
+            ],
+            [
+                -79.5782102,
+                43.6089545
+            ],
+            [
+                -79.57819555533906,
+                43.60898985533906
+            ]
+        ],
+        "lat": "43.6089545",
+        "lon": "-79.5781602",
+        "display_name": "Tim Hortons, 1500, Dundas Street East, Dixie, Lakeview, Ont., Peel Region, Ontario, L4X 1L4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "49318415",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3748566508",
+        "boundingbox": [
+            "43.5793813",
+            "43.5794813",
+            "-79.6505362",
+            "-79.6504362"
+        ],
+        "polygonpoints": [
+            [
+                -79.6504862,
+                43.579481300000005
+            ],
+            [
+                -79.65045084466094,
+                43.57946665533906
+            ],
+            [
+                -79.6504362,
+                43.5794313
+            ],
+            [
+                -79.65045084466094,
+                43.579395944660945
+            ],
+            [
+                -79.6504862,
+                43.5793813
+            ],
+            [
+                -79.65052155533907,
+                43.579395944660945
+            ],
+            [
+                -79.6505362,
+                43.5794313
+            ],
+            [
+                -79.65052155533907,
+                43.57946665533906
+            ]
+        ],
+        "lat": "43.5794313",
+        "lon": "-79.6504862",
+        "display_name": "Tim Hortons, Mavis Road, City Centre, Erindale, Ont., Peel Region, Ontario, L5C 3G1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "19949906",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1916534763",
+        "boundingbox": [
+            "43.527017",
+            "43.527117",
+            "-79.6761039",
+            "-79.6760039"
+        ],
+        "polygonpoints": [
+            [
+                -79.6760539,
+                43.527117000000004
+            ],
+            [
+                -79.67601854466093,
+                43.52710235533906
+            ],
+            [
+                -79.6760039,
+                43.527067
+            ],
+            [
+                -79.67601854466093,
+                43.527031644660944
+            ],
+            [
+                -79.6760539,
+                43.527017
+            ],
+            [
+                -79.67608925533906,
+                43.527031644660944
+            ],
+            [
+                -79.6761039,
+                43.527067
+            ],
+            [
+                -79.67608925533906,
+                43.52710235533906
+            ]
+        ],
+        "lat": "43.527067",
+        "lon": "-79.6760539",
+        "display_name": "Tim Hortons, 2458, Dundas Street West, Sheridan Homelands, Erin Mills, Ont., Peel Region, Ontario, L5K 1R8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "50628875",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3925813291",
+        "boundingbox": [
+            "43.6238773",
+            "43.6239773",
+            "-79.5878062",
+            "-79.5877062"
+        ],
+        "polygonpoints": [
+            [
+                -79.5877562,
+                43.6239773
+            ],
+            [
+                -79.58772084466094,
+                43.62396265533906
+            ],
+            [
+                -79.5877062,
+                43.6239273
+            ],
+            [
+                -79.58772084466094,
+                43.62389194466094
+            ],
+            [
+                -79.5877562,
+                43.6238773
+            ],
+            [
+                -79.58779155533907,
+                43.62389194466094
+            ],
+            [
+                -79.5878062,
+                43.6239273
+            ],
+            [
+                -79.58779155533907,
+                43.62396265533906
+            ]
+        ],
+        "lat": "43.6239273",
+        "lon": "-79.5877562",
+        "display_name": "Tim Hortons, 1715, Bloor Street, Burnhamthorpe, Ont., Peel Region, Ontario, L4X 1S5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "20515568",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2013812686",
+        "boundingbox": [
+            "43.5561653",
+            "43.5562653",
+            "-79.5813337",
+            "-79.5812337"
+        ],
+        "polygonpoints": [
+            [
+                -79.5812837,
+                43.5562653
+            ],
+            [
+                -79.58124834466093,
+                43.556250655339056
+            ],
+            [
+                -79.5812337,
+                43.5562153
+            ],
+            [
+                -79.58124834466093,
+                43.55617994466094
+            ],
+            [
+                -79.5812837,
+                43.556165299999996
+            ],
+            [
+                -79.58131905533907,
+                43.55617994466094
+            ],
+            [
+                -79.5813337,
+                43.5562153
+            ],
+            [
+                -79.58131905533907,
+                43.556250655339056
+            ]
+        ],
+        "lat": "43.5562153",
+        "lon": "-79.5812837",
+        "display_name": "Tim Hortons, 150, Lakeshore Road East, Port Credit, Ont., Peel Region, Ontario, L5G 1H2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51070637",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3975023790",
+        "boundingbox": [
+            "43.6264767",
+            "43.6265767",
+            "-79.6789009",
+            "-79.6788009"
+        ],
+        "polygonpoints": [
+            [
+                -79.6788509,
+                43.6265767
+            ],
+            [
+                -79.67881554466094,
+                43.62656205533906
+            ],
+            [
+                -79.6788009,
+                43.6265267
+            ],
+            [
+                -79.67881554466094,
+                43.62649134466094
+            ],
+            [
+                -79.6788509,
+                43.6264767
+            ],
+            [
+                -79.67888625533907,
+                43.62649134466094
+            ],
+            [
+                -79.6789009,
+                43.6265267
+            ],
+            [
+                -79.67888625533907,
+                43.62656205533906
+            ]
+        ],
+        "lat": "43.6265267",
+        "lon": "-79.6788509",
+        "display_name": "Tim Hortons, 44, Britannia Road East, Britannia East Business Park, Meadowvale South, Ont., Peel Region, Ontario, L4Z 2G2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "54631830",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4423107509",
+        "boundingbox": [
+            "43.6566118",
+            "43.6567118",
+            "-79.6507463",
+            "-79.6506463"
+        ],
+        "polygonpoints": [
+            [
+                -79.6506963,
+                43.656711800000004
+            ],
+            [
+                -79.65066094466094,
+                43.65669715533906
+            ],
+            [
+                -79.6506463,
+                43.6566618
+            ],
+            [
+                -79.65066094466094,
+                43.656626444660944
+            ],
+            [
+                -79.6506963,
+                43.6566118
+            ],
+            [
+                -79.65073165533907,
+                43.656626444660944
+            ],
+            [
+                -79.65074630000001,
+                43.6566618
+            ],
+            [
+                -79.65073165533907,
+                43.65669715533906
+            ]
+        ],
+        "lat": "43.6566618",
+        "lon": "-79.6506963",
+        "display_name": "Tim Hortons, Dixie Road, Hanlan, Ont., Peel Region, Ontario, L5T 1L6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "23433036",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2313507300",
+        "boundingbox": [
+            "43.5148183",
+            "43.5149183",
+            "-79.6359886",
+            "-79.6358886"
+        ],
+        "polygonpoints": [
+            [
+                -79.6359386,
+                43.514918300000005
+            ],
+            [
+                -79.63590324466094,
+                43.51490365533906
+            ],
+            [
+                -79.6358886,
+                43.5148683
+            ],
+            [
+                -79.63590324466094,
+                43.514832944660945
+            ],
+            [
+                -79.6359386,
+                43.5148183
+            ],
+            [
+                -79.63597395533907,
+                43.514832944660945
+            ],
+            [
+                -79.6359886,
+                43.5148683
+            ],
+            [
+                -79.63597395533907,
+                43.51490365533906
+            ]
+        ],
+        "lat": "43.5148683",
+        "lon": "-79.6359386",
+        "display_name": "Tim Hortons, Bromsgrove Road, Clarkson, Ont., Peel Region, Ontario, L5J 2Z1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "8490577",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "898454123",
+        "boundingbox": [
+            "43.5500017",
+            "43.5501017",
+            "-79.6158808",
+            "-79.6157808"
+        ],
+        "polygonpoints": [
+            [
+                -79.6158308,
+                43.5501017
+            ],
+            [
+                -79.61579544466093,
+                43.550087055339056
+            ],
+            [
+                -79.6157808,
+                43.5500517
+            ],
+            [
+                -79.61579544466093,
+                43.55001634466094
+            ],
+            [
+                -79.6158308,
+                43.550001699999996
+            ],
+            [
+                -79.61586615533906,
+                43.55001634466094
+            ],
+            [
+                -79.6158808,
+                43.5500517
+            ],
+            [
+                -79.61586615533906,
+                43.550087055339056
+            ]
+        ],
+        "lat": "43.5500517",
+        "lon": "-79.6158308",
+        "display_name": "Tim Hortons, 780, South Sheridan Way, Lorne Park, Port Credit, Ont., Peel Region, Ontario, L5H 2K4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "57574060",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4707639900",
+        "boundingbox": [
+            "43.5932697",
+            "43.5933697",
+            "-79.6444066",
+            "-79.6443066"
+        ],
+        "polygonpoints": [
+            [
+                -79.6443566,
+                43.593369700000004
+            ],
+            [
+                -79.64432124466093,
+                43.59335505533906
+            ],
+            [
+                -79.6443066,
+                43.5933197
+            ],
+            [
+                -79.64432124466093,
+                43.593284344660944
+            ],
+            [
+                -79.6443566,
+                43.5932697
+            ],
+            [
+                -79.64439195533906,
+                43.593284344660944
+            ],
+            [
+                -79.6444066,
+                43.5933197
+            ],
+            [
+                -79.64439195533906,
+                43.59335505533906
+            ]
+        ],
+        "lat": "43.5933197",
+        "lon": "-79.6443566",
+        "display_name": "Tim Hortons, 100, City Centre Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 2C9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "25268924",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2459875294",
+        "boundingbox": [
+            "43.6258826",
+            "43.6259826",
+            "-79.6307511",
+            "-79.6306511"
+        ],
+        "polygonpoints": [
+            [
+                -79.6307011,
+                43.6259826
+            ],
+            [
+                -79.63066574466093,
+                43.62596795533906
+            ],
+            [
+                -79.6306511,
+                43.6259326
+            ],
+            [
+                -79.63066574466093,
+                43.62589724466094
+            ],
+            [
+                -79.6307011,
+                43.6258826
+            ],
+            [
+                -79.63073645533906,
+                43.62589724466094
+            ],
+            [
+                -79.6307511,
+                43.6259326
+            ],
+            [
+                -79.63073645533906,
+                43.62596795533906
+            ]
+        ],
+        "lat": "43.6259326",
+        "lon": "-79.6307011",
+        "display_name": "Tim Hortons, 4920, Tomken Road, Rathwood, Ont., Peel Region, Ontario, L4W 1K3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "26737970",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2565818322",
+        "boundingbox": [
+            "43.5936539",
+            "43.5937539",
+            "-79.6413562",
+            "-79.6412562"
+        ],
+        "polygonpoints": [
+            [
+                -79.6413062,
+                43.5937539
+            ],
+            [
+                -79.64127084466094,
+                43.59373925533906
+            ],
+            [
+                -79.6412562,
+                43.5937039
+            ],
+            [
+                -79.64127084466094,
+                43.59366854466094
+            ],
+            [
+                -79.6413062,
+                43.5936539
+            ],
+            [
+                -79.64134155533907,
+                43.59366854466094
+            ],
+            [
+                -79.6413562,
+                43.5937039
+            ],
+            [
+                -79.64134155533907,
+                43.59373925533906
+            ]
+        ],
+        "lat": "43.5937039",
+        "lon": "-79.6413062",
+        "display_name": "Tim Hortons, 100, City Centre Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 2N5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84175767",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "34147460",
+        "boundingbox": [
+            "43.6476011",
+            "43.6478194",
+            "-79.6853844",
+            "-79.6850688"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6853844",
+                "43.6477251"
+            ],
+            [
+                "-79.6852235",
+                "43.6476011"
+            ],
+            [
+                "-79.6851768",
+                "43.64763"
+            ],
+            [
+                "-79.685168",
+                "43.6476276"
+            ],
+            [
+                "-79.6850688",
+                "43.6476965"
+            ],
+            [
+                "-79.6851759",
+                "43.6477759"
+            ],
+            [
+                "-79.6851916",
+                "43.6477756"
+            ],
+            [
+                "-79.6852505",
+                "43.6478194"
+            ],
+            [
+                "-79.6853844",
+                "43.6477251"
+            ]
+        ],
+        "lat": "43.6477108",
+        "lon": "-79.6852269666938",
+        "display_name": "Tim Hortons, 475, Courtneypark Drive East, Meadowvale Village, Ont., Peel Region, Ontario, L5T 2V8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84552259",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "33279581",
+        "boundingbox": [
+            "43.5365355",
+            "43.5367582",
+            "-79.6866737",
+            "-79.6863728"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6866737",
+                "43.5366032"
+            ],
+            [
+                "-79.6865723",
+                "43.5365355"
+            ],
+            [
+                "-79.6863967",
+                "43.5366692"
+            ],
+            [
+                "-79.6864074",
+                "43.536676"
+            ],
+            [
+                "-79.6863728",
+                "43.5367051"
+            ],
+            [
+                "-79.686375",
+                "43.5367175"
+            ],
+            [
+                "-79.6864408",
+                "43.5367582"
+            ],
+            [
+                "-79.6865555",
+                "43.5366698"
+            ],
+            [
+                "-79.6865701",
+                "43.5366804"
+            ],
+            [
+                "-79.6866737",
+                "43.5366032"
+            ]
+        ],
+        "lat": "43.5366362",
+        "lon": "-79.686534728418",
+        "display_name": "Tim Hortons, The Collegeway, Sheridan Homelands, Erin Mills, Ont., Peel Region, Ontario, L5L 3R4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "90221856",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "55352233",
+        "boundingbox": [
+            "43.5969765",
+            "43.5971631",
+            "-79.5981031",
+            "-79.5978338"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5981031",
+                "43.5970752"
+            ],
+            [
+                "-79.5979284",
+                "43.5969765"
+            ],
+            [
+                "-79.5978338",
+                "43.5970644"
+            ],
+            [
+                "-79.5980084",
+                "43.5971631"
+            ],
+            [
+                "-79.5981031",
+                "43.5970752"
+            ]
+        ],
+        "lat": "43.5970698",
+        "lon": "-79.5979684472644",
+        "display_name": "Tim Hortons, 799, Dundas Street East, Dixie, Lakeview, Ont., Peel Region, Ontario, L4Y 4E2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "26798108",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2575436932",
+        "boundingbox": [
+            "43.6094538",
+            "43.6095538",
+            "-79.583155",
+            "-79.583055"
+        ],
+        "polygonpoints": [
+            [
+                -79.583105,
+                43.6095538
+            ],
+            [
+                -79.58306964466094,
+                43.60953915533906
+            ],
+            [
+                -79.583055,
+                43.6095038
+            ],
+            [
+                -79.58306964466094,
+                43.60946844466094
+            ],
+            [
+                -79.583105,
+                43.6094538
+            ],
+            [
+                -79.58314035533907,
+                43.60946844466094
+            ],
+            [
+                -79.583155,
+                43.6095038
+            ],
+            [
+                -79.58314035533907,
+                43.60953915533906
+            ]
+        ],
+        "lat": "43.6095038",
+        "lon": "-79.583105",
+        "display_name": "Tim Hortons, Dundas Street East, Dixie, Lakeview, Ont., Peel Region, Ontario, L4X 1L4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "4075814",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "432783148",
+        "boundingbox": [
+            "43.5906855",
+            "43.5907855",
+            "-79.6399221",
+            "-79.6398221"
+        ],
+        "polygonpoints": [
+            [
+                -79.6398721,
+                43.5907855
+            ],
+            [
+                -79.63983674466094,
+                43.59077085533906
+            ],
+            [
+                -79.6398221,
+                43.5907355
+            ],
+            [
+                -79.63983674466094,
+                43.59070014466094
+            ],
+            [
+                -79.6398721,
+                43.5906855
+            ],
+            [
+                -79.63990745533907,
+                43.59070014466094
+            ],
+            [
+                -79.6399221,
+                43.5907355
+            ],
+            [
+                -79.63990745533907,
+                43.59077085533906
+            ]
+        ],
+        "lat": "43.5907355",
+        "lon": "-79.6398721",
+        "display_name": "Tim Hortons, 151, City Centre Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 2T4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "107934638",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "141171544",
+        "boundingbox": [
+            "43.5916834",
+            "43.5918419",
+            "-79.5952706",
+            "-79.5950268"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5952706",
+                "43.5917623"
+            ],
+            [
+                "-79.5952698",
+                "43.5917505"
+            ],
+            [
+                "-79.5951788",
+                "43.5916834"
+            ],
+            [
+                "-79.595123",
+                "43.5916858"
+            ],
+            [
+                "-79.5950268",
+                "43.5917567"
+            ],
+            [
+                "-79.5951376",
+                "43.5918413"
+            ],
+            [
+                "-79.595177",
+                "43.5918419"
+            ],
+            [
+                "-79.5952638",
+                "43.5917866"
+            ],
+            [
+                "-79.5952578",
+                "43.5917723"
+            ],
+            [
+                "-79.5952706",
+                "43.5917623"
+            ]
+        ],
+        "lat": "43.5917673",
+        "lon": "-79.5951524413712",
+        "display_name": "Tim Hortons, 2427, Cawthra Road, Dixie, Lakeview, Ont., Peel Region, Ontario, L5A 3K6, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "122596312",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "201842122",
+        "boundingbox": [
+            "43.6256957",
+            "43.6259186",
+            "-79.6278087",
+            "-79.6275064"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6278087",
+                "43.6257448"
+            ],
+            [
+                "-79.6278079",
+                "43.6257301"
+            ],
+            [
+                "-79.6277408",
+                "43.6256957"
+            ],
+            [
+                "-79.6276877",
+                "43.6256999"
+            ],
+            [
+                "-79.6275064",
+                "43.6258666"
+            ],
+            [
+                "-79.6275677",
+                "43.6259015"
+            ],
+            [
+                "-79.6275812",
+                "43.6258891"
+            ],
+            [
+                "-79.6276329",
+                "43.6259186"
+            ],
+            [
+                "-79.6277527",
+                "43.6258179"
+            ],
+            [
+                "-79.6277485",
+                "43.6258019"
+            ],
+            [
+                "-79.6278045",
+                "43.625754"
+            ],
+            [
+                "-79.6278036",
+                "43.6257473"
+            ],
+            [
+                "-79.6278087",
+                "43.6257448"
+            ]
+        ],
+        "lat": "43.6258099",
+        "lon": "-79.6276593329634",
+        "display_name": "Tim Hortons, 4595, Tomken Road, Rathwood, Ont., Peel Region, Ontario, L4W 1K3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "39291953",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2960534533",
+        "boundingbox": [
+            "43.5767996",
+            "43.5768996",
+            "-79.6197459",
+            "-79.6196459"
+        ],
+        "polygonpoints": [
+            [
+                -79.6196959,
+                43.576899600000004
+            ],
+            [
+                -79.61966054466093,
+                43.57688495533906
+            ],
+            [
+                -79.6196459,
+                43.5768496
+            ],
+            [
+                -79.61966054466093,
+                43.576814244660945
+            ],
+            [
+                -79.6196959,
+                43.5767996
+            ],
+            [
+                -79.61973125533906,
+                43.576814244660945
+            ],
+            [
+                -79.6197459,
+                43.5768496
+            ],
+            [
+                -79.61973125533906,
+                43.57688495533906
+            ]
+        ],
+        "lat": "43.5768496",
+        "lon": "-79.6196959",
+        "display_name": "Tim Hortons, 144, Dundas Street West, Cooksville, Ont., Peel Region, Ontario, L5B 1H9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "3838507",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "414966340",
+        "boundingbox": [
+            "43.6052131",
+            "43.6053131",
+            "-79.6535519",
+            "-79.6534519"
+        ],
+        "polygonpoints": [
+            [
+                -79.6535019,
+                43.605313100000004
+            ],
+            [
+                -79.65346654466093,
+                43.60529845533906
+            ],
+            [
+                -79.6534519,
+                43.6052631
+            ],
+            [
+                -79.65346654466093,
+                43.605227744660944
+            ],
+            [
+                -79.6535019,
+                43.6052131
+            ],
+            [
+                -79.65353725533906,
+                43.605227744660944
+            ],
+            [
+                -79.6535519,
+                43.6052631
+            ],
+            [
+                -79.65353725533906,
+                43.60529845533906
+            ]
+        ],
+        "lat": "43.6052631",
+        "lon": "-79.6535019",
+        "display_name": "Tim Hortons, 30, Eglinton Avenue West, City Centre, Ont., Peel Region, Ontario, L5R 3E7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "117080638",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "174574383",
+        "boundingbox": [
+            "43.5739438",
+            "43.5741485",
+            "-79.5609827",
+            "-79.5606984"
+        ],
+        "polygonpoints": [
+            [
+                "-79.5609827",
+                "43.5740808"
+            ],
+            [
+                "-79.5609811",
+                "43.5740521"
+            ],
+            [
+                "-79.5608953",
+                "43.5739899"
+            ],
+            [
+                "-79.5608692",
+                "43.5739895"
+            ],
+            [
+                "-79.560805",
+                "43.5739438"
+            ],
+            [
+                "-79.5606984",
+                "43.5740181"
+            ],
+            [
+                "-79.5607654",
+                "43.5740647"
+            ],
+            [
+                "-79.5607657",
+                "43.5740832"
+            ],
+            [
+                "-79.5608486",
+                "43.5741474"
+            ],
+            [
+                "-79.5608872",
+                "43.5741485"
+            ],
+            [
+                "-79.5609827",
+                "43.5740808"
+            ]
+        ],
+        "lat": "43.5740351",
+        "lon": "-79.5608402459497",
+        "display_name": "Tim Hortons, Lakeshore Road East, Lakeview, Ont., Peel Region, Ontario, L5E 1C8, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "45776582",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3380246866",
+        "boundingbox": [
+            "43.517203",
+            "43.517303",
+            "-79.6882817",
+            "-79.6881817"
+        ],
+        "polygonpoints": [
+            [
+                -79.6882317,
+                43.517303
+            ],
+            [
+                -79.68819634466094,
+                43.517288355339055
+            ],
+            [
+                -79.6881817,
+                43.517253
+            ],
+            [
+                -79.68819634466094,
+                43.51721764466094
+            ],
+            [
+                -79.6882317,
+                43.517202999999995
+            ],
+            [
+                -79.68826705533907,
+                43.51721764466094
+            ],
+            [
+                -79.6882817,
+                43.517253
+            ],
+            [
+                -79.68826705533907,
+                43.517288355339055
+            ]
+        ],
+        "lat": "43.517253",
+        "lon": "-79.6882317",
+        "display_name": "Tim Hortons, 3255, Dundas Street West, Erin Mills, Ont., Peel Region, Ontario, L5L 5Y3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "137506053",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "260087152",
+        "boundingbox": [
+            "43.508388",
+            "43.5085735",
+            "-79.6335824",
+            "-79.6333263"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6335824",
+                "43.5084919"
+            ],
+            [
+                "-79.6334382",
+                "43.508388"
+            ],
+            [
+                "-79.6333263",
+                "43.5084696"
+            ],
+            [
+                "-79.6334705",
+                "43.5085735"
+            ],
+            [
+                "-79.6335824",
+                "43.5084919"
+            ]
+        ],
+        "lat": "43.50848075",
+        "lon": "-79.63345435",
+        "display_name": "Tim Hortons, Royal Windsor Drive, Clarkson, Ont., Peel Region, Ontario, L5J 1K5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "45860648",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3409474825",
+        "boundingbox": [
+            "43.5922592",
+            "43.5923592",
+            "-79.6686499",
+            "-79.6685499"
+        ],
+        "polygonpoints": [
+            [
+                -79.6685999,
+                43.592359200000004
+            ],
+            [
+                -79.66856454466094,
+                43.59234455533906
+            ],
+            [
+                -79.6685499,
+                43.5923092
+            ],
+            [
+                -79.66856454466094,
+                43.592273844660944
+            ],
+            [
+                -79.6685999,
+                43.5922592
+            ],
+            [
+                -79.66863525533907,
+                43.592273844660944
+            ],
+            [
+                -79.6686499,
+                43.5923092
+            ],
+            [
+                -79.66863525533907,
+                43.59234455533906
+            ]
+        ],
+        "lat": "43.5923092",
+        "lon": "-79.6685999",
+        "display_name": "Tim Hortons, 4885, Mavis Road, Erindale, Ont., Peel Region, Ontario, L5R 3V2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "46758775",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3487819409",
+        "boundingbox": [
+            "43.6385824",
+            "43.6386824",
+            "-79.6237657",
+            "-79.6236657"
+        ],
+        "polygonpoints": [
+            [
+                -79.6237157,
+                43.6386824
+            ],
+            [
+                -79.62368034466094,
+                43.63866775533906
+            ],
+            [
+                -79.6236657,
+                43.6386324
+            ],
+            [
+                -79.62368034466094,
+                43.63859704466094
+            ],
+            [
+                -79.6237157,
+                43.6385824
+            ],
+            [
+                -79.62375105533907,
+                43.63859704466094
+            ],
+            [
+                -79.6237657,
+                43.6386324
+            ],
+            [
+                -79.62375105533907,
+                43.63866775533906
+            ]
+        ],
+        "lat": "43.6386324",
+        "lon": "-79.6237157",
+        "display_name": "Tim Hortons, Aimco Boulevard, Ont., Peel Region, Ontario, L4W 4G1, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+    {
+        "place_id": "15742741",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1408383476",
+        "boundingbox": [
+            "43.5943467",
+            "43.5944467",
+            "-79.730551",
+            "-79.730451"
+        ],
+        "polygonpoints": [
+            [
+                -79.730501,
+                43.5944467
+            ],
+            [
+                -79.73046564466094,
+                43.594432055339055
+            ],
+            [
+                -79.730451,
+                43.5943967
+            ],
+            [
+                -79.73046564466094,
+                43.59436134466094
+            ],
+            [
+                -79.730501,
+                43.594346699999996
+            ],
+            [
+                -79.73053635533907,
+                43.59436134466094
+            ],
+            [
+                -79.730551,
+                43.5943967
+            ],
+            [
+                -79.73053635533907,
+                43.594432055339055
+            ]
+        ],
+        "lat": "43.5943967",
+        "lon": "-79.730501",
+        "display_name": "Tim Hortons, Mississauga Road, Riverview, Meadowvale South, Ont., Peel Region, Ontario, L5N 1P9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51436800",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3976539736",
+        "boundingbox": [
+            "43.597558",
+            "43.597658",
+            "-79.78322",
+            "-79.78312"
+        ],
+        "polygonpoints": [
+            [
+                -79.78317,
+                43.597658
+            ],
+            [
+                -79.78313464466093,
+                43.59764335533906
+            ],
+            [
+                -79.78312,
+                43.597608
+            ],
+            [
+                -79.78313464466093,
+                43.59757264466094
+            ],
+            [
+                -79.78317,
+                43.597558
+            ],
+            [
+                -79.78320535533906,
+                43.59757264466094
+            ],
+            [
+                -79.78322,
+                43.597608
+            ],
+            [
+                -79.78320535533906,
+                43.59764335533906
+            ]
+        ],
+        "lat": "43.597608",
+        "lon": "-79.78317",
+        "display_name": "Tim Hortons, Argentia Road, Meadowvale, Ont., Peel Region, Ontario, L5N 8P7, Canada",
+        "class": "amenity",
+        "type": "fast_food",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
+    },
+    {
+        "place_id": "151876674",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "331382639",
+        "boundingbox": [
+            "43.594402",
+            "43.5945778",
+            "-79.7856735",
+            "-79.7854151"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7856735",
+                "43.5945148"
+            ],
+            [
+                "-79.7854882",
+                "43.594402"
+            ],
+            [
+                "-79.7854151",
+                "43.594465"
+            ],
+            [
+                "-79.7856005",
+                "43.5945778"
+            ],
+            [
+                "-79.7856735",
+                "43.5945148"
+            ]
+        ],
+        "lat": "43.5944899",
+        "lon": "-79.7855443110372",
+        "display_name": "Tim Hortons, Argentia Road, Meadowvale, Ont., Peel Region, Ontario, L5N 8P7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "135400066",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "245212061",
+        "boundingbox": [
+            "43.5833309",
+            "43.5835625",
+            "-79.7169837",
+            "-79.7166979"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7169837",
+                "43.5834285"
+            ],
+            [
+                "-79.7169246",
+                "43.5833869"
+            ],
+            [
+                "-79.7169704",
+                "43.5833527"
+            ],
+            [
+                "-79.7169394",
+                "43.5833309"
+            ],
+            [
+                "-79.7168607",
+                "43.5833897"
+            ],
+            [
+                "-79.7168446",
+                "43.5833784"
+            ],
+            [
+                "-79.7166979",
+                "43.5834879"
+            ],
+            [
+                "-79.7168041",
+                "43.5835625"
+            ],
+            [
+                "-79.7169837",
+                "43.5834285"
+            ]
+        ],
+        "lat": "43.5834582",
+        "lon": "-79.7168407914987",
+        "display_name": "Tim Hortons, 120, Queen Street South, Streetsville Junction, Vista Heights, Ont., Peel Region, Ontario, L5M 1J2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "107709277",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "140356004",
+        "boundingbox": [
+            "43.581243",
+            "43.581464",
+            "-79.7596169",
+            "-79.7593095"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7596169",
+                "43.5813635"
+            ],
+            [
+                "-79.7594397",
+                "43.581243"
+            ],
+            [
+                "-79.7593095",
+                "43.5813435"
+            ],
+            [
+                "-79.7594867",
+                "43.581464"
+            ],
+            [
+                "-79.7596169",
+                "43.5813635"
+            ]
+        ],
+        "lat": "43.5813535",
+        "lon": "-79.7594632",
+        "display_name": "Tim Hortons, Meadowvale Town Centre Circle, Meadowvale Town Centre, Meadowvale, Ont., Peel Region, Ontario, L5N 2R5, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "94358544",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "87240410",
+        "boundingbox": [
+            "43.5586402",
+            "43.5588912",
+            "-79.742324",
+            "-79.7420177"
+        ],
+        "polygonpoints": [
+            [
+                "-79.742324",
+                "43.5587609"
+            ],
+            [
+                "-79.7422262",
+                "43.5586927"
+            ],
+            [
+                "-79.7422732",
+                "43.5586573"
+            ],
+            [
+                "-79.7422486",
+                "43.5586402"
+            ],
+            [
+                "-79.7422016",
+                "43.5586756"
+            ],
+            [
+                "-79.7421907",
+                "43.558668"
+            ],
+            [
+                "-79.7421032",
+                "43.5587338"
+            ],
+            [
+                "-79.7420177",
+                "43.5587982"
+            ],
+            [
+                "-79.7420807",
+                "43.5588421"
+            ],
+            [
+                "-79.7421511",
+                "43.5588912"
+            ],
+            [
+                "-79.742324",
+                "43.5587609"
+            ]
+        ],
+        "lat": "43.55877955",
+        "lon": "-79.7421708565454",
+        "display_name": "Tim Hortons, Tenth Line West, Churchill Meadows, Ont., Peel Region, Ontario, L5M 0R4, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "90837429",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "59149630",
+        "boundingbox": [
+            "43.5984924",
+            "43.5987158",
+            "-79.7127391",
+            "-79.7124364"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7127391",
+                "43.5985802"
+            ],
+            [
+                "-79.7126024",
+                "43.5984924"
+            ],
+            [
+                "-79.7124364",
+                "43.598628"
+            ],
+            [
+                "-79.7125731",
+                "43.5987158"
+            ],
+            [
+                "-79.7127391",
+                "43.5985802"
+            ]
+        ],
+        "lat": "43.5986041",
+        "lon": "-79.71258775",
+        "display_name": "Tim Hortons, 6045, Creditview Road, Riverview, Meadowvale South, Ont., Peel Region, Ontario, L5M 4Z9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "84188747",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "33075364",
+        "boundingbox": [
+            "43.5535134",
+            "43.5537152",
+            "-79.7229123",
+            "-79.7226713"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7229123",
+                "43.5535571"
+            ],
+            [
+                "-79.7229102",
+                "43.5535437"
+            ],
+            [
+                "-79.7228509",
+                "43.5535142"
+            ],
+            [
+                "-79.7228262",
+                "43.5535134"
+            ],
+            [
+                "-79.7226713",
+                "43.5536628"
+            ],
+            [
+                "-79.7227675",
+                "43.5537152"
+            ],
+            [
+                "-79.7228975",
+                "43.5535899"
+            ],
+            [
+                "-79.7228853",
+                "43.5535832"
+            ],
+            [
+                "-79.7229123",
+                "43.5535571"
+            ]
+        ],
+        "lat": "43.55362635",
+        "lon": "-79.7227843873144",
+        "display_name": "Tim Hortons, Erin Centre Boulevard, Central Erin Mills, Churchill Meadows, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "69056695",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "5819383379",
+        "boundingbox": [
+            "43.5576937",
+            "43.5577937",
+            "-79.7024791",
+            "-79.7023791"
+        ],
+        "polygonpoints": [
+            [
+                -79.7024291,
+                43.557793700000005
+            ],
+            [
+                -79.70239374466094,
+                43.55777905533906
+            ],
+            [
+                -79.7023791,
+                43.5577437
+            ],
+            [
+                -79.70239374466094,
+                43.557708344660945
+            ],
+            [
+                -79.7024291,
+                43.5576937
+            ],
+            [
+                -79.70246445533907,
+                43.557708344660945
+            ],
+            [
+                -79.7024791,
+                43.5577437
+            ],
+            [
+                -79.70246445533907,
+                43.55777905533906
+            ]
+        ],
+        "lat": "43.5577437",
+        "lon": "-79.7024291",
+        "display_name": "Tim Hortons, Erin Mills Parkway, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 4L9, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "56786329",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4551486967",
+        "boundingbox": [
+            "43.5592418",
+            "43.5593418",
+            "-79.7127833",
+            "-79.7126833"
+        ],
+        "polygonpoints": [
+            [
+                -79.7127333,
+                43.5593418
+            ],
+            [
+                -79.71269794466093,
+                43.559327155339055
+            ],
+            [
+                -79.7126833,
+                43.5592918
+            ],
+            [
+                -79.71269794466093,
+                43.55925644466094
+            ],
+            [
+                -79.7127333,
+                43.559241799999995
+            ],
+            [
+                -79.71276865533906,
+                43.55925644466094
+            ],
+            [
+                -79.7127833,
+                43.5592918
+            ],
+            [
+                -79.71276865533906,
+                43.559327155339055
+            ]
+        ],
+        "lat": "43.5592918",
+        "lon": "-79.7127333",
+        "display_name": "Tim Hortons, Erin Centre Boulevard, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "56994910",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4551486962",
+        "boundingbox": [
+            "43.5557946",
+            "43.5558946",
+            "-79.7108937",
+            "-79.7107937"
+        ],
+        "polygonpoints": [
+            [
+                -79.7108437,
+                43.5558946
+            ],
+            [
+                -79.71080834466093,
+                43.55587995533906
+            ],
+            [
+                -79.7107937,
+                43.5558446
+            ],
+            [
+                -79.71080834466093,
+                43.55580924466094
+            ],
+            [
+                -79.7108437,
+                43.5557946
+            ],
+            [
+                -79.71087905533906,
+                43.55580924466094
+            ],
+            [
+                -79.7108937,
+                43.5558446
+            ],
+            [
+                -79.71087905533906,
+                43.55587995533906
+            ]
+        ],
+        "lat": "43.5558446",
+        "lon": "-79.7108437",
+        "display_name": "Tim Hortons, 2655, Eglinton Avenue West, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51220251",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4017888663",
+        "boundingbox": [
+            "43.5860664",
+            "43.5861664",
+            "-79.7416578",
+            "-79.7415578"
+        ],
+        "polygonpoints": [
+            [
+                -79.7416078,
+                43.5861664
+            ],
+            [
+                -79.74157244466093,
+                43.58615175533906
+            ],
+            [
+                -79.7415578,
+                43.5861164
+            ],
+            [
+                -79.74157244466093,
+                43.58608104466094
+            ],
+            [
+                -79.7416078,
+                43.5860664
+            ],
+            [
+                -79.74164315533906,
+                43.58608104466094
+            ],
+            [
+                -79.7416578,
+                43.5861164
+            ],
+            [
+                -79.74164315533906,
+                43.58615175533906
+            ]
+        ],
+        "lat": "43.5861164",
+        "lon": "-79.7416078",
+        "display_name": "Tim Hortons, 6405, Erin Mills Parkway, Riverview, Meadowvale, Ont., Peel Region, Ontario, L5N 2G2, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "51127802",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4014895306",
+        "boundingbox": [
+            "43.5976057",
+            "43.5977057",
+            "-79.7616559",
+            "-79.7615559"
+        ],
+        "polygonpoints": [
+            [
+                -79.7616059,
+                43.5977057
+            ],
+            [
+                -79.76157054466094,
+                43.597691055339055
+            ],
+            [
+                -79.7615559,
+                43.5976557
+            ],
+            [
+                -79.76157054466094,
+                43.59762034466094
+            ],
+            [
+                -79.7616059,
+                43.597605699999995
+            ],
+            [
+                -79.76164125533907,
+                43.59762034466094
+            ],
+            [
+                -79.76165590000001,
+                43.5976557
+            ],
+            [
+                -79.76164125533907,
+                43.597691055339055
+            ]
+        ],
+        "lat": "43.5976557",
+        "lon": "-79.7616059",
+        "display_name": "Tim Hortons, Millcreek Drive, Meadowvale Business Park, Meadowvale, Ont., Peel Region, Ontario, L5N 6A3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "45869958",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3410784119",
+        "boundingbox": [
+            "43.5832897",
+            "43.5833897",
+            "-79.7600721",
+            "-79.7599721"
+        ],
+        "polygonpoints": [
+            [
+                -79.7600221,
+                43.583389700000005
+            ],
+            [
+                -79.75998674466094,
+                43.58337505533906
+            ],
+            [
+                -79.7599721,
+                43.5833397
+            ],
+            [
+                -79.75998674466094,
+                43.583304344660945
+            ],
+            [
+                -79.7600221,
+                43.5832897
+            ],
+            [
+                -79.76005745533907,
+                43.583304344660945
+            ],
+            [
+                -79.7600721,
+                43.5833397
+            ],
+            [
+                -79.76005745533907,
+                43.58337505533906
+            ]
+        ],
+        "lat": "43.5833397",
+        "lon": "-79.7600221",
+        "display_name": "Tim Hortons, 6677, Meadowvale Town Centre Circle, Meadowvale Town Centre, Meadowvale, Ont., Peel Region, Ontario, L5N 4B7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "29772339",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2731610686",
+        "boundingbox": [
+            "43.5457394",
+            "43.5458394",
+            "-79.7139629",
+            "-79.7138629"
+        ],
+        "polygonpoints": [
+            [
+                -79.7139129,
+                43.5458394
+            ],
+            [
+                -79.71387754466093,
+                43.545824755339055
+            ],
+            [
+                -79.7138629,
+                43.5457894
+            ],
+            [
+                -79.71387754466093,
+                43.54575404466094
+            ],
+            [
+                -79.7139129,
+                43.545739399999995
+            ],
+            [
+                -79.71394825533906,
+                43.54575404466094
+            ],
+            [
+                -79.7139629,
+                43.5457894
+            ],
+            [
+                -79.71394825533906,
+                43.545824755339055
+            ]
+        ],
+        "lat": "43.5457894",
+        "lon": "-79.7139129",
+        "display_name": "Tim Hortons, 3060, Winston Churchill Boulevard, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    },
+    {
+        "place_id": "6247142",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "645621382",
+        "boundingbox": [
+            "43.582046",
+            "43.582146",
+            "-79.7790372",
+            "-79.7789372"
+        ],
+        "polygonpoints": [
+            [
+                -79.7789872,
+                43.582146
+            ],
+            [
+                -79.77895184466094,
+                43.58213135533906
+            ],
+            [
+                -79.7789372,
+                43.582096
+            ],
+            [
+                -79.77895184466094,
+                43.58206064466094
+            ],
+            [
+                -79.7789872,
+                43.582046
+            ],
+            [
+                -79.77902255533907,
+                43.58206064466094
+            ],
+            [
+                -79.7790372,
+                43.582096
+            ],
+            [
+                -79.77902255533907,
+                43.58213135533906
+            ]
+        ],
+        "lat": "43.582096",
+        "lon": "-79.7789872",
+        "display_name": "Tim Hortons, 3285, Derry Road West, Lisgar, Meadowvale, Ont., Peel Region, Ontario, L5N 7L7, Canada",
+        "class": "amenity",
+        "type": "cafe",
+        "importance": 0.201,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
+    }
+]

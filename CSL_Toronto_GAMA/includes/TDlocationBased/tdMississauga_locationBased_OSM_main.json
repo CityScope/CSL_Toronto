@@ -1,0 +1,1572 @@
+[
+    {
+        "place_id": "50637992",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3927259645",
+        "boundingbox": [
+            "43.6311583",
+            "43.6312583",
+            "-79.576007",
+            "-79.575907"
+        ],
+        "polygonpoints": [
+            [
+                -79.575957,
+                43.6312583
+            ],
+            [
+                -79.57592164466094,
+                43.631243655339055
+            ],
+            [
+                -79.575907,
+                43.6312083
+            ],
+            [
+                -79.57592164466094,
+                43.63117294466094
+            ],
+            [
+                -79.575957,
+                43.631158299999996
+            ],
+            [
+                -79.57599235533907,
+                43.63117294466094
+            ],
+            [
+                -79.576007,
+                43.6312083
+            ],
+            [
+                -79.57599235533907,
+                43.631243655339055
+            ]
+        ],
+        "lat": "43.6312083",
+        "lon": "-79.575957",
+        "display_name": "TD Canada Trust, 4335, Bloor Street West, Markland Woods, Etobicoke, Toronto, Ontario, M9C 1R1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "50664465",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3931418555",
+        "boundingbox": [
+            "43.6413581",
+            "43.6414581",
+            "-79.5767096",
+            "-79.5766096"
+        ],
+        "polygonpoints": [
+            [
+                -79.5766596,
+                43.6414581
+            ],
+            [
+                -79.57662424466093,
+                43.64144345533906
+            ],
+            [
+                -79.5766096,
+                43.6414081
+            ],
+            [
+                -79.57662424466093,
+                43.64137274466094
+            ],
+            [
+                -79.5766596,
+                43.6413581
+            ],
+            [
+                -79.57669495533906,
+                43.64137274466094
+            ],
+            [
+                -79.5767096,
+                43.6414081
+            ],
+            [
+                -79.57669495533906,
+                43.64144345533906
+            ]
+        ],
+        "lat": "43.6414081",
+        "lon": "-79.5766596",
+        "display_name": "TD Canada Trust, 666, Burnhamthorpe Road, Old Burnhamthorpe, Etobicoke, Toronto, Ontario, M9C 1Y5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "22524877",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2240043587",
+        "boundingbox": [
+            "43.6508341",
+            "43.6509341",
+            "-79.5805363",
+            "-79.5804363"
+        ],
+        "polygonpoints": [
+            [
+                -79.5804863,
+                43.6509341
+            ],
+            [
+                -79.58045094466094,
+                43.65091945533906
+            ],
+            [
+                -79.5804363,
+                43.6508841
+            ],
+            [
+                -79.58045094466094,
+                43.65084874466094
+            ],
+            [
+                -79.5804863,
+                43.6508341
+            ],
+            [
+                -79.58052165533907,
+                43.65084874466094
+            ],
+            [
+                -79.5805363,
+                43.6508841
+            ],
+            [
+                -79.58052165533907,
+                43.65091945533906
+            ]
+        ],
+        "lat": "43.6508841",
+        "lon": "-79.5804863",
+        "display_name": "TD Canada Trust, Rathburn Road, Eringate, Etobicoke, Toronto, Ontario, M9C 3T3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "114594407",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "168798726",
+        "boundingbox": [
+            "43.6084268",
+            "43.6086434",
+            "-79.556841",
+            "-79.5564924"
+        ],
+        "polygonpoints": [
+            [
+                "-79.556841",
+                "43.608569"
+            ],
+            [
+                "-79.5567793",
+                "43.6084268"
+            ],
+            [
+                "-79.5565123",
+                "43.6084876"
+            ],
+            [
+                "-79.5565519",
+                "43.6085789"
+            ],
+            [
+                "-79.5564924",
+                "43.6085924"
+            ],
+            [
+                "-79.5565146",
+                "43.6086434"
+            ],
+            [
+                "-79.556841",
+                "43.608569"
+            ]
+        ],
+        "lat": "43.6085283",
+        "lon": "-79.556676646724",
+        "display_name": "TD Canada Trust, 689, Evans Avenue, Alderwood, Etobicoke, Toronto, Ontario, M9C 1B8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "47880144",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3654360824",
+        "boundingbox": [
+            "43.6255084",
+            "43.6256084",
+            "-79.6055",
+            "-79.6054"
+        ],
+        "polygonpoints": [
+            [
+                -79.60545,
+                43.625608400000004
+            ],
+            [
+                -79.60541464466094,
+                43.62559375533906
+            ],
+            [
+                -79.6054,
+                43.6255584
+            ],
+            [
+                -79.60541464466094,
+                43.625523044660945
+            ],
+            [
+                -79.60545,
+                43.6255084
+            ],
+            [
+                -79.60548535533907,
+                43.625523044660945
+            ],
+            [
+                -79.6055,
+                43.6255584
+            ],
+            [
+                -79.60548535533907,
+                43.62559375533906
+            ]
+        ],
+        "lat": "43.6255584",
+        "lon": "-79.60545",
+        "display_name": "TD Canada Trust, Dixie Road, Burnhamthorpe, Ont., Peel Region, Ontario, L4W 1V5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "28030797",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2665392028",
+        "boundingbox": [
+            "43.5121493",
+            "43.5122493",
+            "-79.64936",
+            "-79.64926"
+        ],
+        "polygonpoints": [
+            [
+                -79.64931,
+                43.5122493
+            ],
+            [
+                -79.64927464466093,
+                43.51223465533906
+            ],
+            [
+                -79.64926,
+                43.5121993
+            ],
+            [
+                -79.64927464466093,
+                43.51216394466094
+            ],
+            [
+                -79.64931,
+                43.5121493
+            ],
+            [
+                -79.64934535533907,
+                43.51216394466094
+            ],
+            [
+                -79.64936,
+                43.5121993
+            ],
+            [
+                -79.64934535533907,
+                43.51223465533906
+            ]
+        ],
+        "lat": "43.5121993",
+        "lon": "-79.64931",
+        "display_name": "TD Canada Trust, Bonner Road, Sheridan Park, Clarkson, Ont., Peel Region, Ontario, L5J 2M4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3827002",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "414945725",
+        "boundingbox": [
+            "43.5790924",
+            "43.5791924",
+            "-79.6155426",
+            "-79.6154426"
+        ],
+        "polygonpoints": [
+            [
+                -79.6154926,
+                43.579192400000004
+            ],
+            [
+                -79.61545724466093,
+                43.57917775533906
+            ],
+            [
+                -79.6154426,
+                43.5791424
+            ],
+            [
+                -79.61545724466093,
+                43.579107044660944
+            ],
+            [
+                -79.6154926,
+                43.5790924
+            ],
+            [
+                -79.61552795533906,
+                43.579107044660944
+            ],
+            [
+                -79.6155426,
+                43.5791424
+            ],
+            [
+                -79.61552795533906,
+                43.57917775533906
+            ]
+        ],
+        "lat": "43.5791424",
+        "lon": "-79.6154926",
+        "display_name": "TD Canada Trust, Hurontario Street, Cooksville, Ont., Peel Region, Ontario, L5A 4K3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "22301821",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2181858024",
+        "boundingbox": [
+            "43.5117622",
+            "43.5118622",
+            "-79.6316657",
+            "-79.6315657"
+        ],
+        "polygonpoints": [
+            [
+                -79.6316157,
+                43.5118622
+            ],
+            [
+                -79.63158034466093,
+                43.51184755533906
+            ],
+            [
+                -79.6315657,
+                43.5118122
+            ],
+            [
+                -79.63158034466093,
+                43.51177684466094
+            ],
+            [
+                -79.6316157,
+                43.5117622
+            ],
+            [
+                -79.63165105533906,
+                43.51177684466094
+            ],
+            [
+                -79.6316657,
+                43.5118122
+            ],
+            [
+                -79.63165105533906,
+                43.51184755533906
+            ]
+        ],
+        "lat": "43.5118122",
+        "lon": "-79.6316157",
+        "display_name": "TD Canada Trust, Southdown Road, Clarkson, Ont., Peel Region, Ontario, L5J 2Y4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "20605595",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2009970371",
+        "boundingbox": [
+            "43.591538",
+            "43.591638",
+            "-79.5755311",
+            "-79.5754311"
+        ],
+        "polygonpoints": [
+            [
+                -79.5754811,
+                43.591638
+            ],
+            [
+                -79.57544574466094,
+                43.59162335533906
+            ],
+            [
+                -79.5754311,
+                43.591588
+            ],
+            [
+                -79.57544574466094,
+                43.59155264466094
+            ],
+            [
+                -79.5754811,
+                43.591538
+            ],
+            [
+                -79.57551645533907,
+                43.59155264466094
+            ],
+            [
+                -79.5755311,
+                43.591588
+            ],
+            [
+                -79.57551645533907,
+                43.59162335533906
+            ]
+        ],
+        "lat": "43.591588",
+        "lon": "-79.5754811",
+        "display_name": "TD Canada Trust, North Service Road, Applewood Acres, Lakeview, Ont., Peel Region, Ontario, L4Y 1A6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "19421294",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1883210309",
+        "boundingbox": [
+            "43.6125354",
+            "43.6126354",
+            "-79.5795837",
+            "-79.5794837"
+        ],
+        "polygonpoints": [
+            [
+                -79.5795337,
+                43.6126354
+            ],
+            [
+                -79.57949834466093,
+                43.61262075533906
+            ],
+            [
+                -79.5794837,
+                43.6125854
+            ],
+            [
+                -79.57949834466093,
+                43.61255004466094
+            ],
+            [
+                -79.5795337,
+                43.6125354
+            ],
+            [
+                -79.57956905533906,
+                43.61255004466094
+            ],
+            [
+                -79.5795837,
+                43.6125854
+            ],
+            [
+                -79.57956905533906,
+                43.61262075533906
+            ]
+        ],
+        "lat": "43.6125854",
+        "lon": "-79.5795337",
+        "display_name": "TD Canada Trust, 1540, Dundas Street East, Dixie, Lakeview, Ont., Peel Region, Ontario, L4X 1L4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "16568535",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1518732937",
+        "boundingbox": [
+            "43.544619",
+            "43.544719",
+            "-79.685067",
+            "-79.684967"
+        ],
+        "polygonpoints": [
+            [
+                -79.685017,
+                43.544719
+            ],
+            [
+                -79.68498164466094,
+                43.54470435533906
+            ],
+            [
+                -79.684967,
+                43.544669
+            ],
+            [
+                -79.68498164466094,
+                43.54463364466094
+            ],
+            [
+                -79.685017,
+                43.544619
+            ],
+            [
+                -79.68505235533907,
+                43.54463364466094
+            ],
+            [
+                -79.685067,
+                43.544669
+            ],
+            [
+                -79.68505235533907,
+                43.54470435533906
+            ]
+        ],
+        "lat": "43.544669",
+        "lon": "-79.685017",
+        "display_name": "TD Canada Trust, 2200, Burnhamthorpe Road West, Erin Mills, Ont., Peel Region, Ontario, L5L 3N1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "15782106",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1407762583",
+        "boundingbox": [
+            "43.5761966",
+            "43.5762966",
+            "-79.654564",
+            "-79.654464"
+        ],
+        "polygonpoints": [
+            [
+                -79.654514,
+                43.5762966
+            ],
+            [
+                -79.65447864466094,
+                43.576281955339056
+            ],
+            [
+                -79.654464,
+                43.5762466
+            ],
+            [
+                -79.65447864466094,
+                43.57621124466094
+            ],
+            [
+                -79.654514,
+                43.576196599999996
+            ],
+            [
+                -79.65454935533907,
+                43.57621124466094
+            ],
+            [
+                -79.65456400000001,
+                43.5762466
+            ],
+            [
+                -79.65454935533907,
+                43.576281955339056
+            ]
+        ],
+        "lat": "43.5762466",
+        "lon": "-79.654514",
+        "display_name": "TD Canada Trust, Wolfedale Road, Erindale Woodlands, Erindale, Ont., Peel Region, Ontario, L5C 3G1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "15582149",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1407761339",
+        "boundingbox": [
+            "43.5673274",
+            "43.5674274",
+            "-79.66054",
+            "-79.66044"
+        ],
+        "polygonpoints": [
+            [
+                -79.66049,
+                43.5674274
+            ],
+            [
+                -79.66045464466093,
+                43.567412755339056
+            ],
+            [
+                -79.66044,
+                43.5673774
+            ],
+            [
+                -79.66045464466093,
+                43.56734204466094
+            ],
+            [
+                -79.66049,
+                43.567327399999996
+            ],
+            [
+                -79.66052535533906,
+                43.56734204466094
+            ],
+            [
+                -79.66054,
+                43.5673774
+            ],
+            [
+                -79.66052535533906,
+                43.567412755339056
+            ]
+        ],
+        "lat": "43.5673774",
+        "lon": "-79.66049",
+        "display_name": "TD Canada Trust, 1177, Central Parkway West, Erindale Woodlands, Erindale, Ont., Peel Region, Ontario, L5C 3Y8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "14773134",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1313997542",
+        "boundingbox": [
+            "43.5458889",
+            "43.5459889",
+            "-79.5925519",
+            "-79.5924519"
+        ],
+        "polygonpoints": [
+            [
+                -79.5925019,
+                43.545988900000005
+            ],
+            [
+                -79.59246654466094,
+                43.54597425533906
+            ],
+            [
+                -79.5924519,
+                43.5459389
+            ],
+            [
+                -79.59246654466094,
+                43.545903544660945
+            ],
+            [
+                -79.5925019,
+                43.5458889
+            ],
+            [
+                -79.59253725533907,
+                43.545903544660945
+            ],
+            [
+                -79.5925519,
+                43.5459389
+            ],
+            [
+                -79.59253725533907,
+                43.54597425533906
+            ]
+        ],
+        "lat": "43.5459389",
+        "lon": "-79.5925019",
+        "display_name": "TD Canada Trust, 254, Lakeshore Road West, Lorne Park Estates, Port Credit, Ont., Peel Region, Ontario, L5H 1G6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "7071697",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "726284653",
+        "boundingbox": [
+            "43.5718217",
+            "43.5719217",
+            "-79.6275898",
+            "-79.6274898"
+        ],
+        "polygonpoints": [
+            [
+                -79.6275398,
+                43.571921700000004
+            ],
+            [
+                -79.62750444466093,
+                43.57190705533906
+            ],
+            [
+                -79.62748979999999,
+                43.5718717
+            ],
+            [
+                -79.62750444466093,
+                43.571836344660944
+            ],
+            [
+                -79.6275398,
+                43.5718217
+            ],
+            [
+                -79.62757515533906,
+                43.571836344660944
+            ],
+            [
+                -79.6275898,
+                43.5718717
+            ],
+            [
+                -79.62757515533906,
+                43.57190705533906
+            ]
+        ],
+        "lat": "43.5718717",
+        "lon": "-79.6275398",
+        "display_name": "TD Canada Trust, Drive-thru for McDonald's, Clayhill Plaza, Cooksville, Ont., Peel Region, Ontario, L5B 4L2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4330848",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "471065309",
+        "boundingbox": [
+            "43.6153003",
+            "43.6154003",
+            "-79.6177808",
+            "-79.6176808"
+        ],
+        "polygonpoints": [
+            [
+                -79.6177308,
+                43.615400300000005
+            ],
+            [
+                -79.61769544466094,
+                43.61538565533906
+            ],
+            [
+                -79.6176808,
+                43.6153503
+            ],
+            [
+                -79.61769544466094,
+                43.615314944660945
+            ],
+            [
+                -79.6177308,
+                43.6153003
+            ],
+            [
+                -79.61776615533907,
+                43.615314944660945
+            ],
+            [
+                -79.6177808,
+                43.6153503
+            ],
+            [
+                -79.61776615533907,
+                43.61538565533906
+            ]
+        ],
+        "lat": "43.6153503",
+        "lon": "-79.6177308",
+        "display_name": "TD Canada Trust, 925, Rathburn Road East, Rathwood, Ont., Peel Region, Ontario, L4Y 2X3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "22288910",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2181858154",
+        "boundingbox": [
+            "43.5287304",
+            "43.5288304",
+            "-79.6742155",
+            "-79.6741155"
+        ],
+        "polygonpoints": [
+            [
+                -79.6741655,
+                43.528830400000004
+            ],
+            [
+                -79.67413014466094,
+                43.52881575533906
+            ],
+            [
+                -79.6741155,
+                43.5287804
+            ],
+            [
+                -79.67413014466094,
+                43.528745044660944
+            ],
+            [
+                -79.6741655,
+                43.5287304
+            ],
+            [
+                -79.67420085533907,
+                43.528745044660944
+            ],
+            [
+                -79.6742155,
+                43.5287804
+            ],
+            [
+                -79.67420085533907,
+                43.52881575533906
+            ]
+        ],
+        "lat": "43.5287804",
+        "lon": "-79.6741655",
+        "display_name": "TD Canada Trust, 2400, Dundas Street West, Sheridan Homelands, Erin Mills, Ont., Peel Region, Ontario, L5K 1R8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3684146",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "391685784",
+        "boundingbox": [
+            "43.5933673",
+            "43.5934673",
+            "-79.64099",
+            "-79.64089"
+        ],
+        "polygonpoints": [
+            [
+                -79.64094,
+                43.5934673
+            ],
+            [
+                -79.64090464466094,
+                43.59345265533906
+            ],
+            [
+                -79.64089,
+                43.5934173
+            ],
+            [
+                -79.64090464466094,
+                43.59338194466094
+            ],
+            [
+                -79.64094,
+                43.5933673
+            ],
+            [
+                -79.64097535533907,
+                43.59338194466094
+            ],
+            [
+                -79.64099,
+                43.5934173
+            ],
+            [
+                -79.64097535533907,
+                43.59345265533906
+            ]
+        ],
+        "lat": "43.5934173",
+        "lon": "-79.64094",
+        "display_name": "TD Canada Trust, 100, City Centre Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 2N5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "83939376",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "33573868",
+        "boundingbox": [
+            "43.5988085",
+            "43.5990245",
+            "-79.6802915",
+            "-79.6799567"
+        ],
+        "polygonpoints": [
+            [
+                "-79.6802915",
+                "43.5989536"
+            ],
+            [
+                "-79.6802172",
+                "43.5988085"
+            ],
+            [
+                "-79.6799567",
+                "43.5988784"
+            ],
+            [
+                "-79.679974",
+                "43.5989122"
+            ],
+            [
+                "-79.6799638",
+                "43.5989149"
+            ],
+            [
+                "-79.6799834",
+                "43.5989531"
+            ],
+            [
+                "-79.67999",
+                "43.5989514"
+            ],
+            [
+                "-79.6800274",
+                "43.5990245"
+            ],
+            [
+                "-79.6802915",
+                "43.5989536"
+            ]
+        ],
+        "lat": "43.59893315",
+        "lon": "-79.680127096117",
+        "display_name": "TD Canada Trust, Bristol Road West, Meadowvale South, Ont., Peel Region, Ontario, L5V 2M6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "54513373",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4411474867",
+        "boundingbox": [
+            "43.6055751",
+            "43.6056751",
+            "-79.6491649",
+            "-79.6490649"
+        ],
+        "polygonpoints": [
+            [
+                -79.6491149,
+                43.6056751
+            ],
+            [
+                -79.64907954466094,
+                43.605660455339056
+            ],
+            [
+                -79.6490649,
+                43.6056251
+            ],
+            [
+                -79.64907954466094,
+                43.60558974466094
+            ],
+            [
+                -79.6491149,
+                43.605575099999996
+            ],
+            [
+                -79.64915025533907,
+                43.60558974466094
+            ],
+            [
+                -79.6491649,
+                43.6056251
+            ],
+            [
+                -79.64915025533907,
+                43.605660455339056
+            ]
+        ],
+        "lat": "43.6056251",
+        "lon": "-79.6491149",
+        "display_name": "TD Canada Trust, 4555, Hurontario Street, City Centre, Ont., Peel Region, Ontario, L5R 3E7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "54955607",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "4410798126",
+        "boundingbox": [
+            "43.5900085",
+            "43.5901085",
+            "-79.6482802",
+            "-79.6481802"
+        ],
+        "polygonpoints": [
+            [
+                -79.6482302,
+                43.5901085
+            ],
+            [
+                -79.64819484466094,
+                43.590093855339056
+            ],
+            [
+                -79.6481802,
+                43.5900585
+            ],
+            [
+                -79.64819484466094,
+                43.59002314466094
+            ],
+            [
+                -79.6482302,
+                43.590008499999996
+            ],
+            [
+                -79.64826555533907,
+                43.59002314466094
+            ],
+            [
+                -79.6482802,
+                43.5900585
+            ],
+            [
+                -79.64826555533907,
+                43.590093855339056
+            ]
+        ],
+        "lat": "43.5900585",
+        "lon": "-79.6482302",
+        "display_name": "TD Canada Trust, 4188, Living Arts Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 4C1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "51018445",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3956980929",
+        "boundingbox": [
+            "43.5571412",
+            "43.5572412",
+            "-79.6457297",
+            "-79.6456297"
+        ],
+        "polygonpoints": [
+            [
+                -79.6456797,
+                43.5572412
+            ],
+            [
+                -79.64564434466094,
+                43.55722655533906
+            ],
+            [
+                -79.6456297,
+                43.5571912
+            ],
+            [
+                -79.64564434466094,
+                43.55715584466094
+            ],
+            [
+                -79.6456797,
+                43.5571412
+            ],
+            [
+                -79.64571505533907,
+                43.55715584466094
+            ],
+            [
+                -79.6457297,
+                43.5571912
+            ],
+            [
+                -79.64571505533907,
+                43.55722655533906
+            ]
+        ],
+        "lat": "43.5571912",
+        "lon": "-79.6456797",
+        "display_name": "TD Canada Trust, Forestwood Drive, Erindale Woodlands, Erindale, Ont., Peel Region, Ontario, L5C 1H7, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "37495542",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2885590301",
+        "boundingbox": [
+            "43.5396093",
+            "43.5397093",
+            "-79.6724333",
+            "-79.6723333"
+        ],
+        "polygonpoints": [
+            [
+                -79.6723833,
+                43.5397093
+            ],
+            [
+                -79.67234794466094,
+                43.539694655339055
+            ],
+            [
+                -79.6723333,
+                43.5396593
+            ],
+            [
+                -79.67234794466094,
+                43.53962394466094
+            ],
+            [
+                -79.6723833,
+                43.539609299999995
+            ],
+            [
+                -79.67241865533907,
+                43.53962394466094
+            ],
+            [
+                -79.67243330000001,
+                43.5396593
+            ],
+            [
+                -79.67241865533907,
+                43.539694655339055
+            ]
+        ],
+        "lat": "43.5396593",
+        "lon": "-79.6723833",
+        "display_name": "TD Canada Trust, Fifth Line West, Gran Columbia, Erin Mills, Ont., Peel Region, Ontario, L5K 1R2, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    }
+    {
+        "place_id": "84149048",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "32916745",
+        "boundingbox": [
+            "43.5840386",
+            "43.5843101",
+            "-79.7612652",
+            "-79.7608992"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7612652",
+                "43.5842071"
+            ],
+            [
+                "-79.7610615",
+                "43.5840386"
+            ],
+            [
+                "-79.7608992",
+                "43.5841416"
+            ],
+            [
+                "-79.7611028",
+                "43.5843101"
+            ],
+            [
+                "-79.7612652",
+                "43.5842071"
+            ]
+        ],
+        "lat": "43.58417435",
+        "lon": "-79.7610821902819",
+        "display_name": "TD Canada Trust, 6760, Meadowvale Town Centre Circle, Meadowvale Town Centre, Meadowvale, Ont., Peel Region, Ontario, L5N 4B7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "91537601",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "61636707",
+        "boundingbox": [
+            "43.5591038",
+            "43.5593739",
+            "-79.7433748",
+            "-79.743023"
+        ],
+        "polygonpoints": [
+            [
+                "-79.7433748",
+                "43.5591912"
+            ],
+            [
+                "-79.7432223",
+                "43.5591038"
+            ],
+            [
+                "-79.743023",
+                "43.5592865"
+            ],
+            [
+                "-79.7430982",
+                "43.5593296"
+            ],
+            [
+                "-79.7431755",
+                "43.5593739"
+            ],
+            [
+                "-79.7433748",
+                "43.5591912"
+            ]
+        ],
+        "lat": "43.55923885",
+        "lon": "-79.7431989",
+        "display_name": "TD Canada Trust, Tenth Line West, Churchill Meadows, Ont., Peel Region, Ontario, L5M 0R4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "20136266",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1946935581",
+        "boundingbox": [
+            "43.5948302",
+            "43.5949302",
+            "-79.7862629",
+            "-79.7861629"
+        ],
+        "polygonpoints": [
+            [
+                -79.7862129,
+                43.5949302
+            ],
+            [
+                -79.78617754466093,
+                43.59491555533906
+            ],
+            [
+                -79.7861629,
+                43.5948802
+            ],
+            [
+                -79.78617754466093,
+                43.59484484466094
+            ],
+            [
+                -79.7862129,
+                43.5948302
+            ],
+            [
+                -79.78624825533906,
+                43.59484484466094
+            ],
+            [
+                -79.7862629,
+                43.5948802
+            ],
+            [
+                -79.78624825533906,
+                43.59491555533906
+            ]
+        ],
+        "lat": "43.5948802",
+        "lon": "-79.7862129",
+        "display_name": "TD Canada Trust, Argentia Road, Meadowvale, Ont., Peel Region, Ontario, L5N 8P7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "16743304",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1517048635",
+        "boundingbox": [
+            "43.550508",
+            "43.550608",
+            "-79.716755",
+            "-79.716655"
+        ],
+        "polygonpoints": [
+            [
+                -79.716705,
+                43.550608000000004
+            ],
+            [
+                -79.71666964466094,
+                43.55059335533906
+            ],
+            [
+                -79.716655,
+                43.550558
+            ],
+            [
+                -79.71666964466094,
+                43.550522644660944
+            ],
+            [
+                -79.716705,
+                43.550508
+            ],
+            [
+                -79.71674035533907,
+                43.550522644660944
+            ],
+            [
+                -79.716755,
+                43.550558
+            ],
+            [
+                -79.71674035533907,
+                43.55059335533906
+            ]
+        ],
+        "lat": "43.550558",
+        "lon": "-79.716705",
+        "display_name": "TD Canada Trust, 2955, Eglinton Avenue West, Central Erin Mills, Vista Heights, Ont., Peel Region, Ontario, L5M 6J3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "15721857",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1406559319",
+        "boundingbox": [
+            "43.5992031",
+            "43.5993031",
+            "-79.7108516",
+            "-79.7107516"
+        ],
+        "polygonpoints": [
+            [
+                -79.7108016,
+                43.5993031
+            ],
+            [
+                -79.71076624466093,
+                43.59928845533906
+            ],
+            [
+                -79.7107516,
+                43.5992531
+            ],
+            [
+                -79.71076624466093,
+                43.59921774466094
+            ],
+            [
+                -79.7108016,
+                43.5992031
+            ],
+            [
+                -79.71083695533906,
+                43.59921774466094
+            ],
+            [
+                -79.7108516,
+                43.5992531
+            ],
+            [
+                -79.71083695533906,
+                43.59928845533906
+            ]
+        ],
+        "lat": "43.5992531",
+        "lon": "-79.7108016",
+        "display_name": "TD Canada Trust, 6051, Creditview Road, Riverview, Meadowvale South, Ont., Peel Region, Ontario, L5M 4Z9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3840408",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "416027535",
+        "boundingbox": [
+            "43.5818725",
+            "43.5819725",
+            "-79.7144564",
+            "-79.7143564"
+        ],
+        "polygonpoints": [
+            [
+                -79.7144064,
+                43.5819725
+            ],
+            [
+                -79.71437104466094,
+                43.581957855339056
+            ],
+            [
+                -79.7143564,
+                43.5819225
+            ],
+            [
+                -79.71437104466094,
+                43.58188714466094
+            ],
+            [
+                -79.7144064,
+                43.581872499999996
+            ],
+            [
+                -79.71444175533907,
+                43.58188714466094
+            ],
+            [
+                -79.7144564,
+                43.5819225
+            ],
+            [
+                -79.71444175533907,
+                43.581957855339056
+            ]
+        ],
+        "lat": "43.5819225",
+        "lon": "-79.7144064",
+        "display_name": "TD Canada Trust, 168, Queen Street South, Streetsville Junction, Vista Heights, Ont., Peel Region, Ontario, L5M 1L4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "45870107",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3410807359",
+        "boundingbox": [
+            "43.5842129",
+            "43.5843129",
+            "-79.761306",
+            "-79.761206"
+        ],
+        "polygonpoints": [
+            [
+                -79.761256,
+                43.5843129
+            ],
+            [
+                -79.76122064466094,
+                43.58429825533906
+            ],
+            [
+                -79.761206,
+                43.5842629
+            ],
+            [
+                -79.76122064466094,
+                43.58422754466094
+            ],
+            [
+                -79.761256,
+                43.5842129
+            ],
+            [
+                -79.76129135533907,
+                43.58422754466094
+            ],
+            [
+                -79.761306,
+                43.5842629
+            ],
+            [
+                -79.76129135533907,
+                43.58429825533906
+            ]
+        ],
+        "lat": "43.5842629",
+        "lon": "-79.761256",
+        "display_name": "TD Canada Trust, Aquitaine Avenue, Lisgar, Meadowvale, Ont., Peel Region, Ontario, L5N 4B7, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "place_id": "49329191",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3750698087",
+        "boundingbox": [
+            "43.7925698",
+            "43.7926698",
+            "-79.4482241",
+            "-79.4481241"
+        ],
+        "polygonpoints": [
+            [
+                -79.4481741,
+                43.7926698
+            ],
+            [
+                -79.44813874466094,
+                43.792655155339055
+            ],
+            [
+                -79.4481241,
+                43.7926198
+            ],
+            [
+                -79.44813874466094,
+                43.79258444466094
+            ],
+            [
+                -79.4481741,
+                43.792569799999995
+            ],
+            [
+                -79.44820945533907,
+                43.79258444466094
+            ],
+            [
+                -79.4482241,
+                43.7926198
+            ],
+            [
+                -79.44820945533907,
+                43.792655155339055
+            ]
+        ],
+        "lat": "43.7926198",
+        "lon": "-79.4481741",
+        "display_name": "BMO Bank of Montreal, Steeles Avenue West, Fisherville, North York, Toronto, York Region, Ontario, L4J 7L2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "26403304",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2547775307",
+        "boundingbox": [
+            "43.7961671",
+            "43.7962671",
+            "-79.4212454",
+            "-79.4211454"
+        ],
+        "polygonpoints": [
+            [
+                -79.4211954,
+                43.7962671
+            ],
+            [
+                -79.42116004466094,
+                43.79625245533906
+            ],
+            [
+                -79.4211454,
+                43.7962171
+            ],
+            [
+                -79.42116004466094,
+                43.79618174466094
+            ],
+            [
+                -79.4211954,
+                43.7961671
+            ],
+            [
+                -79.42123075533907,
+                43.79618174466094
+            ],
+            [
+                -79.4212454,
+                43.7962171
+            ],
+            [
+                -79.42123075533907,
+                43.79625245533906
+            ]
+        ],
+        "lat": "43.7962171",
+        "lon": "-79.4211954",
+        "display_name": "BMO - Bank of Montreal, 6464, Steeles Avenue West, North York, Toronto, York Region, Ontario, L4J 1V7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    }
+    {
+        "place_id": "18984099",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1833563244",
+        "boundingbox": [
+            "43.852611",
+            "43.852711",
+            "-79.521297",
+            "-79.521197"
+        ],
+        "polygonpoints": [
+            [
+                -79.521247,
+                43.852711
+            ],
+            [
+                -79.52121164466094,
+                43.852696355339056
+            ],
+            [
+                -79.521197,
+                43.852661
+            ],
+            [
+                -79.52121164466094,
+                43.85262564466094
+            ],
+            [
+                -79.521247,
+                43.852610999999996
+            ],
+            [
+                -79.52128235533907,
+                43.85262564466094
+            ],
+            [
+                -79.521297,
+                43.852661
+            ],
+            [
+                -79.52128235533907,
+                43.852696355339056
+            ]
+        ],
+        "lat": "43.852661",
+        "lon": "-79.521247",
+        "display_name": "BMO Bank of Montreal, Major Mackenzie Drive West, Maple, Vaughan, York Region, Ontario, L6A 1Y3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "23906124",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2346823388",
+        "boundingbox": [
+            "43.8444649",
+            "43.8445649",
+            "-79.3839558",
+            "-79.3838558"
+        ],
+        "polygonpoints": [
+            [
+                -79.3839058,
+                43.8445649
+            ],
+            [
+                -79.38387044466093,
+                43.84455025533906
+            ],
+            [
+                -79.38385579999999,
+                43.8445149
+            ],
+            [
+                -79.38387044466093,
+                43.84447954466094
+            ],
+            [
+                -79.3839058,
+                43.8444649
+            ],
+            [
+                -79.38394115533906,
+                43.84447954466094
+            ],
+            [
+                -79.3839558,
+                43.8445149
+            ],
+            [
+                -79.38394115533906,
+                43.84455025533906
+            ]
+        ],
+        "lat": "43.8445149",
+        "lon": "-79.3839058",
+        "display_name": "BMO Bank of Montreal, Highway 7, Richmond Hill, York Region, Ontario, L3T 7M8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "18976986",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1832703784",
+        "boundingbox": [
+            "43.8419063",
+            "43.8420063",
+            "-79.4847207",
+            "-79.4846207"
+        ],
+        "polygonpoints": [
+            [
+                -79.4846707,
+                43.8420063
+            ],
+            [
+                -79.48463534466093,
+                43.84199165533906
+            ],
+            [
+                -79.4846207,
+                43.8419563
+            ],
+            [
+                -79.48463534466093,
+                43.84192094466094
+            ],
+            [
+                -79.4846707,
+                43.8419063
+            ],
+            [
+                -79.48470605533906,
+                43.84192094466094
+            ],
+            [
+                -79.4847207,
+                43.8419563
+            ],
+            [
+                -79.48470605533906,
+                43.84199165533906
+            ]
+        ],
+        "lat": "43.8419563",
+        "lon": "-79.4846707",
+        "display_name": "BMO Bank of Montreal, 1621, Rutherford Road, Vaughan, York Region, Ontario, L4K 0C6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    }
+    {
+        "place_id": "14633448",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1314641091",
+        "boundingbox": [
+            "43.9118241",
+            "43.9119241",
+            "-79.4473009",
+            "-79.4472009"
+        ],
+        "polygonpoints": [
+            [
+                -79.4472509,
+                43.9119241
+            ],
+            [
+                -79.44721554466093,
+                43.91190945533906
+            ],
+            [
+                -79.4472009,
+                43.9118741
+            ],
+            [
+                -79.44721554466093,
+                43.91183874466094
+            ],
+            [
+                -79.4472509,
+                43.9118241
+            ],
+            [
+                -79.44728625533907,
+                43.91183874466094
+            ],
+            [
+                -79.4473009,
+                43.9118741
+            ],
+            [
+                -79.44728625533907,
+                43.91190945533906
+            ]
+        ],
+        "lat": "43.9118741",
+        "lon": "-79.4472509",
+        "display_name": "BMO Bank of Montreal, Yonge Street, Jefferson, Wilcox Lake, Richmond Hill, York Region, Ontario, L4S 1A2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "46687522",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3477872563",
+        "boundingbox": [
+            "43.9348336",
+            "43.9349336",
+            "-79.5064455",
+            "-79.5063455"
+        ],
+        "polygonpoints": [
+            [
+                -79.5063955,
+                43.9349336
+            ],
+            [
+                -79.50636014466093,
+                43.93491895533906
+            ],
+            [
+                -79.5063455,
+                43.9348836
+            ],
+            [
+                -79.50636014466093,
+                43.93484824466094
+            ],
+            [
+                -79.5063955,
+                43.9348336
+            ],
+            [
+                -79.50643085533906,
+                43.93484824466094
+            ],
+            [
+                -79.5064455,
+                43.9348836
+            ],
+            [
+                -79.50643085533906,
+                43.93491895533906
+            ]
+        ],
+        "lat": "43.9348836",
+        "lon": "-79.5063955",
+        "display_name": "BMO ATM, BMO ATM Drive-through, King's Ridge Market Place, Temperanceville, King, York Region, Ontario, L7B 0N1, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    }
+]

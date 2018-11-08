@@ -1,0 +1,1739 @@
+[
+    {
+        "place_id": "3673033",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "387449955",
+        "boundingbox": [
+            "43.6643279",
+            "43.6644279",
+            "-79.4150181",
+            "-79.4149181"
+        ],
+        "polygonpoints": [
+            [
+                -79.4149681,
+                43.6644279
+            ],
+            [
+                -79.41493274466093,
+                43.664413255339056
+            ],
+            [
+                -79.4149181,
+                43.6643779
+            ],
+            [
+                -79.41493274466093,
+                43.66434254466094
+            ],
+            [
+                -79.4149681,
+                43.664327899999996
+            ],
+            [
+                -79.41500345533906,
+                43.66434254466094
+            ],
+            [
+                -79.4150181,
+                43.6643779
+            ],
+            [
+                -79.41500345533906,
+                43.664413255339056
+            ]
+        ],
+        "lat": "43.6643779",
+        "lon": "-79.4149681",
+        "display_name": "BMO Bank of Montreal, 1, Bloor Street West, Mirvish Village, Old Toronto, Toronto, Ontario, M6G 1K4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "2452025",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "344544934",
+        "boundingbox": [
+            "43.6637042",
+            "43.6638042",
+            "-79.3803909",
+            "-79.3802909"
+        ],
+        "polygonpoints": [
+            [
+                -79.3803409,
+                43.6638042
+            ],
+            [
+                -79.38030554466093,
+                43.66378955533906
+            ],
+            [
+                -79.38029089999999,
+                43.6637542
+            ],
+            [
+                -79.38030554466093,
+                43.66371884466094
+            ],
+            [
+                -79.3803409,
+                43.6637042
+            ],
+            [
+                -79.38037625533906,
+                43.66371884466094
+            ],
+            [
+                -79.3803909,
+                43.6637542
+            ],
+            [
+                -79.38037625533906,
+                43.66378955533906
+            ]
+        ],
+        "lat": "43.6637542",
+        "lon": "-79.3803409",
+        "display_name": "BMO Bank of Montreal, 1, Yonge Street, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M4Y 1X5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3598766",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "371385460",
+        "boundingbox": [
+            "43.6503204",
+            "43.6504204",
+            "-79.4807153",
+            "-79.4806153"
+        ],
+        "polygonpoints": [
+            [
+                -79.4806653,
+                43.6504204
+            ],
+            [
+                -79.48062994466093,
+                43.65040575533906
+            ],
+            [
+                -79.4806153,
+                43.6503704
+            ],
+            [
+                -79.48062994466093,
+                43.65033504466094
+            ],
+            [
+                -79.4806653,
+                43.6503204
+            ],
+            [
+                -79.48070065533906,
+                43.65033504466094
+            ],
+            [
+                -79.4807153,
+                43.6503704
+            ],
+            [
+                -79.48070065533906,
+                43.65040575533906
+            ]
+        ],
+        "lat": "43.6503704",
+        "lon": "-79.4806653",
+        "display_name": "BMO Bank of Montreal, 1, Windermere Avenue, Bloor West Village, Old Toronto, Toronto, Ontario, M6S, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "2410556",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "343270931",
+        "boundingbox": [
+            "43.6468351",
+            "43.6469351",
+            "-79.3959384",
+            "-79.3958384"
+        ],
+        "polygonpoints": [
+            [
+                -79.3958884,
+                43.6469351
+            ],
+            [
+                -79.39585304466094,
+                43.64692045533906
+            ],
+            [
+                -79.3958384,
+                43.6468851
+            ],
+            [
+                -79.39585304466094,
+                43.64684974466094
+            ],
+            [
+                -79.3958884,
+                43.6468351
+            ],
+            [
+                -79.39592375533907,
+                43.64684974466094
+            ],
+            [
+                -79.3959384,
+                43.6468851
+            ],
+            [
+                -79.39592375533907,
+                43.64692045533906
+            ]
+        ],
+        "lat": "43.6468851",
+        "lon": "-79.3958884",
+        "display_name": "BMO Bank of Montreal, 112, Spadina Avenue, Fashion District, Old Toronto, Toronto, Ontario, M5V 2K4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "2449614",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "344473395",
+        "boundingbox": [
+            "43.6599401",
+            "43.6600401",
+            "-79.3852664",
+            "-79.3851664"
+        ],
+        "polygonpoints": [
+            [
+                -79.3852164,
+                43.6600401
+            ],
+            [
+                -79.38518104466094,
+                43.66002545533906
+            ],
+            [
+                -79.3851664,
+                43.6599901
+            ],
+            [
+                -79.38518104466094,
+                43.65995474466094
+            ],
+            [
+                -79.3852164,
+                43.6599401
+            ],
+            [
+                -79.38525175533907,
+                43.65995474466094
+            ],
+            [
+                -79.3852664,
+                43.6599901
+            ],
+            [
+                -79.38525175533907,
+                43.66002545533906
+            ]
+        ],
+        "lat": "43.6599901",
+        "lon": "-79.3852164",
+        "display_name": "BMO Bank of Montreal, 763, Bay Street, Little Tokyo, Old Toronto, Toronto, Ontario, M5B 2C8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "850479",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "281669607",
+        "boundingbox": [
+            "43.6526331",
+            "43.6527331",
+            "-79.3791482",
+            "-79.3790482"
+        ],
+        "polygonpoints": [
+            [
+                -79.3790982,
+                43.6527331
+            ],
+            [
+                -79.37906284466094,
+                43.652718455339055
+            ],
+            [
+                -79.3790482,
+                43.6526831
+            ],
+            [
+                -79.37906284466094,
+                43.65264774466094
+            ],
+            [
+                -79.3790982,
+                43.652633099999996
+            ],
+            [
+                -79.37913355533907,
+                43.65264774466094
+            ],
+            [
+                -79.3791482,
+                43.6526831
+            ],
+            [
+                -79.37913355533907,
+                43.652718455339055
+            ]
+        ],
+        "lat": "43.6526831",
+        "lon": "-79.3790982",
+        "display_name": "BMO Bank of Montreal, 2, PATH, Financial District, Old Toronto, Toronto, Ontario, M5C 3G7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "746125",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "264414083",
+        "boundingbox": [
+            "43.6855128",
+            "43.6856128",
+            "-79.3125876",
+            "-79.3124876"
+        ],
+        "polygonpoints": [
+            [
+                -79.3125376,
+                43.6856128
+            ],
+            [
+                -79.31250224466093,
+                43.68559815533906
+            ],
+            [
+                -79.3124876,
+                43.6855628
+            ],
+            [
+                -79.31250224466093,
+                43.68552744466094
+            ],
+            [
+                -79.3125376,
+                43.6855128
+            ],
+            [
+                -79.31257295533906,
+                43.68552744466094
+            ],
+            [
+                -79.3125876,
+                43.6855628
+            ],
+            [
+                -79.31257295533906,
+                43.68559815533906
+            ]
+        ],
+        "lat": "43.6855628",
+        "lon": "-79.3125376",
+        "display_name": "BMO Bank of Montreal, 1, Woodbine Avenue, Beach Hill, Old Toronto, Toronto, Ontario, M4C 4B6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "639197",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "245022492",
+        "boundingbox": [
+            "43.649602",
+            "43.649702",
+            "-79.4197917",
+            "-79.4196917"
+        ],
+        "polygonpoints": [
+            [
+                -79.4197417,
+                43.649702000000005
+            ],
+            [
+                -79.41970634466094,
+                43.64968735533906
+            ],
+            [
+                -79.4196917,
+                43.649652
+            ],
+            [
+                -79.41970634466094,
+                43.649616644660945
+            ],
+            [
+                -79.4197417,
+                43.649602
+            ],
+            [
+                -79.41977705533907,
+                43.649616644660945
+            ],
+            [
+                -79.4197917,
+                43.649652
+            ],
+            [
+                -79.41977705533907,
+                43.64968735533906
+            ]
+        ],
+        "lat": "43.649652",
+        "lon": "-79.4197417",
+        "display_name": "BMO Bank of Montreal, 1, Dundas Street West, Ossington, Old Toronto, Toronto, Ontario, M6H 1Y3, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3630846",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "391005491",
+        "boundingbox": [
+            "43.6488021",
+            "43.6489021",
+            "-79.3809251",
+            "-79.3808251"
+        ],
+        "polygonpoints": [
+            [
+                -79.3808751,
+                43.6489021
+            ],
+            [
+                -79.38083974466093,
+                43.64888745533906
+            ],
+            [
+                -79.3808251,
+                43.6488521
+            ],
+            [
+                -79.38083974466093,
+                43.64881674466094
+            ],
+            [
+                -79.3808751,
+                43.6488021
+            ],
+            [
+                -79.38091045533906,
+                43.64881674466094
+            ],
+            [
+                -79.3809251,
+                43.6488521
+            ],
+            [
+                -79.38091045533906,
+                43.64888745533906
+            ]
+        ],
+        "lat": "43.6488521",
+        "lon": "-79.3808751",
+        "display_name": "BMO Bank of Montreal, 1, Yonge Street, Financial District, Old Toronto, Toronto, Ontario, M5C 1B5, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4957380",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "540594627",
+        "boundingbox": [
+            "43.6777762",
+            "43.6778762",
+            "-79.4444386",
+            "-79.4443386"
+        ],
+        "polygonpoints": [
+            [
+                -79.4443886,
+                43.6778762
+            ],
+            [
+                -79.44435324466093,
+                43.67786155533906
+            ],
+            [
+                -79.4443386,
+                43.6778262
+            ],
+            [
+                -79.44435324466093,
+                43.67779084466094
+            ],
+            [
+                -79.4443886,
+                43.6777762
+            ],
+            [
+                -79.44442395533906,
+                43.67779084466094
+            ],
+            [
+                -79.4444386,
+                43.6778262
+            ],
+            [
+                -79.44442395533906,
+                43.67786155533906
+            ]
+        ],
+        "lat": "43.6778262",
+        "lon": "-79.4443886",
+        "display_name": "BMO Bank of Montreal, 1200, Saint Clair Avenue West, Corso Italia, Old Toronto, Toronto, Ontario, M6E 1B4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "99443473",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": "105788339",
+        "boundingbox": [
+            "43.6783318",
+            "43.6785359",
+            "-79.348675",
+            "-79.3484637"
+        ],
+        "polygonpoints": [
+            [
+                "-79.348675",
+                "43.6785077"
+            ],
+            [
+                "-79.3486057",
+                "43.6783318"
+            ],
+            [
+                "-79.3484637",
+                "43.6783599"
+            ],
+            [
+                "-79.3485284",
+                "43.6785359"
+            ],
+            [
+                "-79.348675",
+                "43.6785077"
+            ]
+        ],
+        "lat": "43.6784338",
+        "lon": "-79.3485683759901",
+        "display_name": "BMO Bank of Montreal, Ferrier Avenue, Danforth by the Valley, Old Toronto, Toronto, Ontario, M4K 1P8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "22278673",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2193108947",
+        "boundingbox": [
+            "43.6594459",
+            "43.6595459",
+            "-79.382584",
+            "-79.382484"
+        ],
+        "polygonpoints": [
+            [
+                -79.382534,
+                43.659545900000005
+            ],
+            [
+                -79.38249864466094,
+                43.65953125533906
+            ],
+            [
+                -79.382484,
+                43.6594959
+            ],
+            [
+                -79.38249864466094,
+                43.659460544660945
+            ],
+            [
+                -79.382534,
+                43.6594459
+            ],
+            [
+                -79.38256935533907,
+                43.659460544660945
+            ],
+            [
+                -79.38258400000001,
+                43.6594959
+            ],
+            [
+                -79.38256935533907,
+                43.65953125533906
+            ]
+        ],
+        "lat": "43.6594959",
+        "lon": "-79.382534",
+        "display_name": "BMO Bank of Montreal, 384, Underground walkway, Downtown Yonge, Old Toronto, Toronto, Ontario, M5B 1S8, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "23126142",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2286883374",
+        "boundingbox": [
+            "43.6581287",
+            "43.6582287",
+            "-79.4430578",
+            "-79.4429578"
+        ],
+        "polygonpoints": [
+            [
+                -79.4430078,
+                43.6582287
+            ],
+            [
+                -79.44297244466094,
+                43.65821405533906
+            ],
+            [
+                -79.4429578,
+                43.6581787
+            ],
+            [
+                -79.44297244466094,
+                43.65814334466094
+            ],
+            [
+                -79.4430078,
+                43.6581287
+            ],
+            [
+                -79.44304315533907,
+                43.65814334466094
+            ],
+            [
+                -79.4430578,
+                43.6581787
+            ],
+            [
+                -79.44304315533907,
+                43.65821405533906
+            ]
+        ],
+        "lat": "43.6581787",
+        "lon": "-79.4430078",
+        "display_name": "BMO Bank of Montreal, 1, Bloor Street West, Bloordale Village, Old Toronto, Toronto, Ontario, M6H 1N7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3652436",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "393672323",
+        "boundingbox": [
+            "43.653188",
+            "43.653288",
+            "-79.397935",
+            "-79.397835"
+        ],
+        "polygonpoints": [
+            [
+                -79.397885,
+                43.653288
+            ],
+            [
+                -79.39784964466094,
+                43.65327335533906
+            ],
+            [
+                -79.397835,
+                43.653238
+            ],
+            [
+                -79.39784964466094,
+                43.653202644660944
+            ],
+            [
+                -79.397885,
+                43.653188
+            ],
+            [
+                -79.39792035533907,
+                43.653202644660944
+            ],
+            [
+                -79.397935,
+                43.653238
+            ],
+            [
+                -79.39792035533907,
+                43.65327335533906
+            ]
+        ],
+        "lat": "43.653238",
+        "lon": "-79.397885",
+        "display_name": "BMO Bank of Montreal, 1, Spadina Avenue, Chinatown, Old Toronto, Toronto, Ontario, M5T 1H1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "13032008",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1208680689",
+        "boundingbox": [
+            "43.7038001",
+            "43.7039001",
+            "-79.4111288",
+            "-79.4110288"
+        ],
+        "polygonpoints": [
+            [
+                -79.4110788,
+                43.7039001
+            ],
+            [
+                -79.41104344466093,
+                43.703885455339055
+            ],
+            [
+                -79.4110288,
+                43.7038501
+            ],
+            [
+                -79.41104344466093,
+                43.70381474466094
+            ],
+            [
+                -79.4110788,
+                43.703800099999995
+            ],
+            [
+                -79.41111415533906,
+                43.70381474466094
+            ],
+            [
+                -79.4111288,
+                43.7038501
+            ],
+            [
+                -79.41111415533906,
+                43.703885455339055
+            ]
+        ],
+        "lat": "43.7038501",
+        "lon": "-79.4110788",
+        "display_name": "BMO Bank of Montreal, 1, Yonge Street, Yonge & Eglinton, Old Toronto, Toronto, Ontario, M4S 2B4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "7291747",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "766938600",
+        "boundingbox": [
+            "43.6476039",
+            "43.6477039",
+            "-79.3858507",
+            "-79.3857507"
+        ],
+        "polygonpoints": [
+            [
+                -79.3858007,
+                43.6477039
+            ],
+            [
+                -79.38576534466094,
+                43.64768925533906
+            ],
+            [
+                -79.3857507,
+                43.6476539
+            ],
+            [
+                -79.38576534466094,
+                43.64761854466094
+            ],
+            [
+                -79.3858007,
+                43.6476039
+            ],
+            [
+                -79.38583605533907,
+                43.64761854466094
+            ],
+            [
+                -79.3858507,
+                43.6476539
+            ],
+            [
+                -79.38583605533907,
+                43.64768925533906
+            ]
+        ],
+        "lat": "43.6476539",
+        "lon": "-79.3858007",
+        "display_name": "BMO Bank of Montreal, 200, King Street West, Entertainment District, Old Toronto, Toronto, Ontario, M5H 1J9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "11676491",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1122913443",
+        "boundingbox": [
+            "43.6891548",
+            "43.6892548",
+            "-79.3948509",
+            "-79.3947509"
+        ],
+        "polygonpoints": [
+            [
+                -79.3948009,
+                43.6892548
+            ],
+            [
+                -79.39476554466094,
+                43.68924015533906
+            ],
+            [
+                -79.3947509,
+                43.6892048
+            ],
+            [
+                -79.39476554466094,
+                43.68916944466094
+            ],
+            [
+                -79.3948009,
+                43.6891548
+            ],
+            [
+                -79.39483625533907,
+                43.68916944466094
+            ],
+            [
+                -79.39485090000001,
+                43.6892048
+            ],
+            [
+                -79.39483625533907,
+                43.68924015533906
+            ]
+        ],
+        "lat": "43.6892048",
+        "lon": "-79.3948009",
+        "display_name": "BMO Bank of Montreal, 1560, Yonge Street, Deer Park, Old Toronto, Toronto, Ontario, M4T 1Z2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "32513228",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2784479085",
+        "boundingbox": [
+            "43.6658449",
+            "43.6659449",
+            "-79.4510909",
+            "-79.4509909"
+        ],
+        "polygonpoints": [
+            [
+                -79.4510409,
+                43.6659449
+            ],
+            [
+                -79.45100554466093,
+                43.665930255339056
+            ],
+            [
+                -79.4509909,
+                43.6658949
+            ],
+            [
+                -79.45100554466093,
+                43.66585954466094
+            ],
+            [
+                -79.4510409,
+                43.665844899999996
+            ],
+            [
+                -79.45107625533906,
+                43.66585954466094
+            ],
+            [
+                -79.4510909,
+                43.6658949
+            ],
+            [
+                -79.45107625533906,
+                43.665930255339056
+            ]
+        ],
+        "lat": "43.6658949",
+        "lon": "-79.4510409",
+        "display_name": "BMO Bank of Montreal, 1, Dupont Street, Wallace Emerson, Old Toronto, Toronto, Ontario, M6P, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4899497",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "538343125",
+        "boundingbox": [
+            "43.6709129",
+            "43.6710129",
+            "-79.3829235",
+            "-79.3828235"
+        ],
+        "polygonpoints": [
+            [
+                -79.3828735,
+                43.6710129
+            ],
+            [
+                -79.38283814466094,
+                43.67099825533906
+            ],
+            [
+                -79.3828235,
+                43.6709629
+            ],
+            [
+                -79.38283814466094,
+                43.67092754466094
+            ],
+            [
+                -79.3828735,
+                43.6709129
+            ],
+            [
+                -79.38290885533907,
+                43.67092754466094
+            ],
+            [
+                -79.3829235,
+                43.6709629
+            ],
+            [
+                -79.38290885533907,
+                43.67099825533906
+            ]
+        ],
+        "lat": "43.6709629",
+        "lon": "-79.3828735",
+        "display_name": "BMO Bank of Montreal, 1, Yonge Street, Yorkville, Old Toronto, Toronto, Ontario, M4Y 2B2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "638263",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "245020010",
+        "boundingbox": [
+            "43.6555099",
+            "43.6556099",
+            "-79.4128237",
+            "-79.4127237"
+        ],
+        "polygonpoints": [
+            [
+                -79.4127737,
+                43.6556099
+            ],
+            [
+                -79.41273834466094,
+                43.65559525533906
+            ],
+            [
+                -79.4127237,
+                43.6555599
+            ],
+            [
+                -79.41273834466094,
+                43.65552454466094
+            ],
+            [
+                -79.4127737,
+                43.6555099
+            ],
+            [
+                -79.41280905533907,
+                43.65552454466094
+            ],
+            [
+                -79.4128237,
+                43.6555599
+            ],
+            [
+                -79.41280905533907,
+                43.65559525533906
+            ]
+        ],
+        "lat": "43.6555599",
+        "lon": "-79.4127737",
+        "display_name": "BMO Bank of Montreal, 1, College Street, College Square, Old Toronto, Toronto, Ontario, M6G 1B1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "51256087",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3999366165",
+        "boundingbox": [
+            "43.6708596",
+            "43.6709596",
+            "-79.2968168",
+            "-79.2967168"
+        ],
+        "polygonpoints": [
+            [
+                -79.2967668,
+                43.6709596
+            ],
+            [
+                -79.29673144466094,
+                43.67094495533906
+            ],
+            [
+                -79.2967168,
+                43.6709096
+            ],
+            [
+                -79.29673144466094,
+                43.67087424466094
+            ],
+            [
+                -79.2967668,
+                43.6708596
+            ],
+            [
+                -79.29680215533907,
+                43.67087424466094
+            ],
+            [
+                -79.2968168,
+                43.6709096
+            ],
+            [
+                -79.29680215533907,
+                43.67094495533906
+            ]
+        ],
+        "lat": "43.6709096",
+        "lon": "-79.2967668",
+        "display_name": "BMO Bank of Montreal, 2072, Queen Street East, The Beaches, Old Toronto, Toronto, Ontario, M4E 1G1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4784486",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "517227446",
+        "boundingbox": [
+            "43.73114",
+            "43.73124",
+            "-79.4040912",
+            "-79.4039912"
+        ],
+        "polygonpoints": [
+            [
+                -79.4040412,
+                43.73124
+            ],
+            [
+                -79.40400584466093,
+                43.731225355339056
+            ],
+            [
+                -79.4039912,
+                43.73119
+            ],
+            [
+                -79.40400584466093,
+                43.73115464466094
+            ],
+            [
+                -79.4040412,
+                43.731139999999996
+            ],
+            [
+                -79.40407655533906,
+                43.73115464466094
+            ],
+            [
+                -79.4040912,
+                43.73119
+            ],
+            [
+                -79.40407655533906,
+                43.731225355339056
+            ]
+        ],
+        "lat": "43.73119",
+        "lon": "-79.4040412",
+        "display_name": "BMO Bank of Montreal, 3320, Yonge Street, Lawrence Park, Old Toronto, Toronto, Ontario, M4N 2M4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "3779182",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "410983906",
+        "boundingbox": [
+            "43.6713933",
+            "43.6714933",
+            "-79.4216645",
+            "-79.4215645"
+        ],
+        "polygonpoints": [
+            [
+                -79.4216145,
+                43.6714933
+            ],
+            [
+                -79.42157914466094,
+                43.67147865533906
+            ],
+            [
+                -79.4215645,
+                43.6714433
+            ],
+            [
+                -79.42157914466094,
+                43.67140794466094
+            ],
+            [
+                -79.4216145,
+                43.6713933
+            ],
+            [
+                -79.42164985533907,
+                43.67140794466094
+            ],
+            [
+                -79.4216645,
+                43.6714433
+            ],
+            [
+                -79.42164985533907,
+                43.67147865533906
+            ]
+        ],
+        "lat": "43.6714433",
+        "lon": "-79.4216145",
+        "display_name": "BMO Bank of Montreal, 1, Dupont Street, Christie Pits, Old Toronto, Toronto, Ontario, M6G 1Z6, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "41083329",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3049693338",
+        "boundingbox": [
+            "43.658789",
+            "43.658889",
+            "-79.3496024",
+            "-79.3495024"
+        ],
+        "polygonpoints": [
+            [
+                -79.3495524,
+                43.658889
+            ],
+            [
+                -79.34951704466093,
+                43.65887435533906
+            ],
+            [
+                -79.34950239999999,
+                43.658839
+            ],
+            [
+                -79.34951704466093,
+                43.65880364466094
+            ],
+            [
+                -79.3495524,
+                43.658789
+            ],
+            [
+                -79.34958775533906,
+                43.65880364466094
+            ],
+            [
+                -79.3496024,
+                43.658839
+            ],
+            [
+                -79.34958775533906,
+                43.65887435533906
+            ]
+        ],
+        "lat": "43.658839",
+        "lon": "-79.3495524",
+        "display_name": "BMO Bank of Montreal, 1, Queen Street East, Corktown, Old Toronto, Toronto, Ontario, M4M 1H4, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "25639254",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2480722088",
+        "boundingbox": [
+            "43.6588025",
+            "43.6589025",
+            "-79.3906057",
+            "-79.3905057"
+        ],
+        "polygonpoints": [
+            [
+                -79.3905557,
+                43.6589025
+            ],
+            [
+                -79.39052034466093,
+                43.65888785533906
+            ],
+            [
+                -79.39050569999999,
+                43.6588525
+            ],
+            [
+                -79.39052034466093,
+                43.658817144660944
+            ],
+            [
+                -79.3905557,
+                43.6588025
+            ],
+            [
+                -79.39059105533906,
+                43.658817144660944
+            ],
+            [
+                -79.3906057,
+                43.6588525
+            ],
+            [
+                -79.39059105533906,
+                43.65888785533906
+            ]
+        ],
+        "lat": "43.6588525",
+        "lon": "-79.3905557",
+        "display_name": "BMO Bank of Montreal, 700, Orde Street, Discovery District, Old Toronto, Toronto, Ontario, M5T 1N7, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "325256",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "118422987",
+        "boundingbox": [
+            "43.6545709",
+            "43.6546709",
+            "-79.3886931",
+            "-79.3885931"
+        ],
+        "polygonpoints": [
+            [
+                -79.3886431,
+                43.6546709
+            ],
+            [
+                -79.38860774466093,
+                43.654656255339056
+            ],
+            [
+                -79.3885931,
+                43.6546209
+            ],
+            [
+                -79.38860774466093,
+                43.65458554466094
+            ],
+            [
+                -79.3886431,
+                43.654570899999996
+            ],
+            [
+                -79.38867845533906,
+                43.65458554466094
+            ],
+            [
+                -79.3886931,
+                43.6546209
+            ],
+            [
+                -79.38867845533906,
+                43.654656255339056
+            ]
+        ],
+        "lat": "43.6546209",
+        "lon": "-79.3886431",
+        "display_name": "BMO Bank of Montreal, 438, University Avenue, Discovery District, Old Toronto, Toronto, Ontario, M6K 1X9, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4950299",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "550879621",
+        "boundingbox": [
+            "43.6727949",
+            "43.6728949",
+            "-79.2876078",
+            "-79.2875078"
+        ],
+        "polygonpoints": [
+            [
+                -79.2875578,
+                43.6728949
+            ],
+            [
+                -79.28752244466094,
+                43.67288025533906
+            ],
+            [
+                -79.2875078,
+                43.6728449
+            ],
+            [
+                -79.28752244466094,
+                43.67280954466094
+            ],
+            [
+                -79.2875578,
+                43.6727949
+            ],
+            [
+                -79.28759315533907,
+                43.67280954466094
+            ],
+            [
+                -79.2876078,
+                43.6728449
+            ],
+            [
+                -79.28759315533907,
+                43.67288025533906
+            ]
+        ],
+        "lat": "43.6728449",
+        "lon": "-79.2875578",
+        "display_name": "BMO Bank of Montreal, 1, Beech Avenue, The Beaches, Old Toronto, Toronto, Ontario, M4E 1E9, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "11964884",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "1132654307",
+        "boundingbox": [
+            "43.6458472",
+            "43.6459472",
+            "-79.3879261",
+            "-79.3878261"
+        ],
+        "polygonpoints": [
+            [
+                -79.3878761,
+                43.6459472
+            ],
+            [
+                -79.38784074466093,
+                43.64593255533906
+            ],
+            [
+                -79.3878261,
+                43.6458972
+            ],
+            [
+                -79.38784074466093,
+                43.64586184466094
+            ],
+            [
+                -79.3878761,
+                43.6458472
+            ],
+            [
+                -79.38791145533907,
+                43.64586184466094
+            ],
+            [
+                -79.3879261,
+                43.6458972
+            ],
+            [
+                -79.38791145533907,
+                43.64593255533906
+            ]
+        ],
+        "lat": "43.6458972",
+        "lon": "-79.3878761",
+        "display_name": "BMO Bank of Montreal, 200, David Pecaut Square, Entertainment District, Old Toronto, Toronto, Ontario, M5V 3C7, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.6010000000000001,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    },
+    {
+        "place_id": "3639925",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "392156991",
+        "boundingbox": [
+            "43.7075761",
+            "43.7076761",
+            "-79.3761932",
+            "-79.3760932"
+        ],
+        "polygonpoints": [
+            [
+                -79.3761432,
+                43.7076761
+            ],
+            [
+                -79.37610784466094,
+                43.70766145533906
+            ],
+            [
+                -79.3760932,
+                43.7076261
+            ],
+            [
+                -79.37610784466094,
+                43.70759074466094
+            ],
+            [
+                -79.3761432,
+                43.7075761
+            ],
+            [
+                -79.37617855533907,
+                43.70759074466094
+            ],
+            [
+                -79.3761932,
+                43.7076261
+            ],
+            [
+                -79.37617855533907,
+                43.70766145533906
+            ]
+        ],
+        "lat": "43.7076261",
+        "lon": "-79.3761432",
+        "display_name": "BMO Bank of Montreal, 1670, Hillsdale Avenue East, Leaside, East York, Toronto, Ontario, M4G 3C1, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "4919142",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "535026377",
+        "boundingbox": [
+            "43.7006933",
+            "43.7007933",
+            "-79.4274147",
+            "-79.4273147"
+        ],
+        "polygonpoints": [
+            [
+                -79.4273647,
+                43.7007933
+            ],
+            [
+                -79.42732934466093,
+                43.70077865533906
+            ],
+            [
+                -79.4273147,
+                43.7007433
+            ],
+            [
+                -79.42732934466093,
+                43.70070794466094
+            ],
+            [
+                -79.4273647,
+                43.7006933
+            ],
+            [
+                -79.42740005533906,
+                43.70070794466094
+            ],
+            [
+                -79.4274147,
+                43.7007433
+            ],
+            [
+                -79.42740005533906,
+                43.70077865533906
+            ]
+        ],
+        "lat": "43.7007433",
+        "lon": "-79.4273647",
+        "display_name": "BMO Bank of Montreal, 1, Eglinton Avenue West, Cedarvale, York, Toronto, Ontario, M6C 2C2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "50381815",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3841979996",
+        "boundingbox": [
+            "43.6686835",
+            "43.6687835",
+            "-79.4837591",
+            "-79.4836591"
+        ],
+        "polygonpoints": [
+            [
+                -79.4837091,
+                43.6687835
+            ],
+            [
+                -79.48367374466093,
+                43.66876885533906
+            ],
+            [
+                -79.4836591,
+                43.6687335
+            ],
+            [
+                -79.48367374466093,
+                43.668698144660944
+            ],
+            [
+                -79.4837091,
+                43.6686835
+            ],
+            [
+                -79.48374445533906,
+                43.668698144660944
+            ],
+            [
+                -79.4837591,
+                43.6687335
+            ],
+            [
+                -79.48374445533906,
+                43.66876885533906
+            ]
+        ],
+        "lat": "43.6687335",
+        "lon": "-79.4837091",
+        "display_name": "BMO Bank of Montreal, 1, Saint Clair Avenue West, York, Toronto, Ontario, M6N, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "25625676",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "2476507541",
+        "boundingbox": [
+            "43.7280553",
+            "43.7281553",
+            "-79.4177707",
+            "-79.4176707"
+        ],
+        "polygonpoints": [
+            [
+                -79.4177207,
+                43.728155300000005
+            ],
+            [
+                -79.41768534466094,
+                43.72814065533906
+            ],
+            [
+                -79.4176707,
+                43.7281053
+            ],
+            [
+                -79.41768534466094,
+                43.728069944660945
+            ],
+            [
+                -79.4177207,
+                43.7280553
+            ],
+            [
+                -79.41775605533907,
+                43.728069944660945
+            ],
+            [
+                -79.4177707,
+                43.7281053
+            ],
+            [
+                -79.41775605533907,
+                43.72814065533906
+            ]
+        ],
+        "lat": "43.7281053",
+        "lon": "-79.4177207",
+        "display_name": "BMO Bank of Montreal, 1717, Fairlawn Avenue, North York, Toronto, Ontario, M5M 1T2, Canada",
+        "class": "amenity",
+        "type": "bank",
+        "importance": 0.501,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
+    },
+    {
+        "place_id": "45768772",
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": "3404819969",
+        "boundingbox": [
+            "43.6977343",
+            "43.6978343",
+            "-79.395535",
+            "-79.395435"
+        ],
+        "polygonpoints": [
+            [
+                -79.395485,
+                43.697834300000004
+            ],
+            [
+                -79.39544964466093,
+                43.69781965533906
+            ],
+            [
+                -79.39543499999999,
+                43.6977843
+            ],
+            [
+                -79.39544964466093,
+                43.697748944660944
+            ],
+            [
+                -79.395485,
+                43.6977343
+            ],
+            [
+                -79.39552035533906,
+                43.697748944660944
+            ],
+            [
+                -79.395535,
+                43.6977843
+            ],
+            [
+                -79.39552035533906,
+                43.69781965533906
+            ]
+        ],
+        "lat": "43.6977843",
+        "lon": "-79.395485",
+        "display_name": "BMO Cash ATM, 1, Yonge Street, Chaplin Estates, Old Toronto, Toronto, Ontario, M4S 3C0, Canada",
+        "class": "amenity",
+        "type": "atm",
+        "importance": 0.30100000000000005,
+        "icon": "https://nominatim.openstreetmap.org/images/mapicons/money_atm2.p.20.png"
+    }
+]
