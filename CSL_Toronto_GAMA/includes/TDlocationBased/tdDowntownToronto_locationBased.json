@@ -1,0 +1,908 @@
+{
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "candidates": [
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.382100073287418,
+                "y": 43.658999981678171
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "380 Yonge St, Toronto, Ontario, M5B"
+            },
+            "extent": {
+                "xmin": -79.387259999999969,
+                "ymin": 43.653960000000033,
+                "xmax": -79.377259999999978,
+                "ymax": 43.663960000000039
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.369249930607637,
+                "y": 43.654529919499254
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "235 Queen St E, Toronto, Ontario, M5A"
+            },
+            "extent": {
+                "xmin": -79.374189999999942,
+                "ymin": 43.649400000000064,
+                "xmax": -79.364189999999951,
+                "ymax": 43.659400000000069
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.381600000576896,
+                "y": 43.651749963356359
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "394 Bay St, Toronto, Ontario, M5H"
+            },
+            "extent": {
+                "xmin": -79.386829999999975,
+                "ymin": 43.646670000000078,
+                "xmax": -79.376829999999984,
+                "ymax": 43.656670000000084
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.378330055542477,
+                "y": 43.650149956142982
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "110 Yonge St, Toronto, Ontario, M5C"
+            },
+            "extent": {
+                "xmin": -79.38367999999997,
+                "ymin": 43.645100000000063,
+                "xmax": -79.373679999999979,
+                "ymax": 43.655100000000068
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.385559999999941,
+                "y": 43.660210000000063
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "777 Bay St, Toronto, Ontario, M5G"
+            },
+            "extent": {
+                "xmin": -79.390559999999937,
+                "ymin": 43.655210000000061,
+                "xmax": -79.380559999999946,
+                "ymax": 43.665210000000066
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.378149996104838,
+                "y": 43.64906994835269
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1 King St W, Toronto, Ontario, M5H"
+            },
+            "extent": {
+                "xmin": -79.383049999999969,
+                "ymin": 43.643820000000055,
+                "xmax": -79.373049999999978,
+                "ymax": 43.65382000000006
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.37399003664369,
+                "y": 43.648630054965651
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "60 Wellington St E, Toronto, Ontario, M5E"
+            },
+            "extent": {
+                "xmin": -79.379069999999956,
+                "ymin": 43.643750000000061,
+                "xmax": -79.369069999999965,
+                "ymax": 43.653750000000066
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.388189926135595,
+                "y": 43.654980062179028
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "465 University Ave, Toronto, Ontario, M5G"
+            },
+            "extent": {
+                "xmin": -79.392799999999966,
+                "ymin": 43.650070000000078,
+                "xmax": -79.382799999999975,
+                "ymax": 43.660070000000083
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.381159930607637,
+                "y": 43.665639926712608
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "65 Wellesley St E, Toronto, Ontario, M4Y"
+            },
+            "extent": {
+                "xmin": -79.386099999999942,
+                "ymin": 43.660480000000057,
+                "xmax": -79.376099999999951,
+                "ymax": 43.670480000000062
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.363839956142854,
+                "y": 43.65570991949923
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "363 Queen St E, Toronto, Ontario, M5A"
+            },
+            "extent": {
+                "xmin": -79.368789999999933,
+                "ymin": 43.650580000000041,
+                "xmax": -79.358789999999942,
+                "ymax": 43.660580000000046
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.381009988891449,
+                "y": 43.648429977783032
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "55 King St W, Toronto, Ontario, M5H"
+            },
+            "extent": {
+                "xmin": -79.385939999999948,
+                "ymin": 43.643290000000029,
+                "xmax": -79.375939999999957,
+                "ymax": 43.653290000000034
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.384429930607681,
+                "y": 43.649099977783045
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "141 Adelaide St W, Toronto, Ontario, M5H"
+            },
+            "extent": {
+                "xmin": -79.389369999999985,
+                "ymin": 43.643960000000042,
+                "xmax": -79.379369999999994,
+                "ymax": 43.653960000000048
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.382149919499142,
+                "y": 43.648189995527979
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "77 King St W, Toronto, Ontario, M5K"
+            },
+            "extent": {
+                "xmin": -79.38701999999995,
+                "ymin": 43.642860000000034,
+                "xmax": -79.377019999999959,
+                "ymax": 43.65286000000004
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.379279962202375,
+                "y": 43.646400054965653
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "161 Bay St, Toronto, Ontario, M5J"
+            },
+            "extent": {
+                "xmin": -79.383739999999932,
+                "ymin": 43.641520000000064,
+                "xmax": -79.373739999999941,
+                "ymax": 43.651520000000069
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.382490015003626,
+                "y": 43.64677008107779
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "100 Wellington St W, Toronto, Ontario, M5J"
+            },
+            "extent": {
+                "xmin": -79.387659999999983,
+                "ymin": 43.642130000000058,
+                "xmax": -79.377659999999992,
+                "ymax": 43.652130000000064
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.385380029430308,
+                "y": 43.644680058860793
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "200 Front St W, Toronto, Ontario, M5V"
+            },
+            "extent": {
+                "xmin": -79.390489999999943,
+                "ymin": 43.639900000000061,
+                "xmax": -79.380489999999952,
+                "ymax": 43.649900000000066
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.386290074441234,
+                "y": 43.668999919499214
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "730 Yonge St, Toronto, Ontario, M4Y"
+            },
+            "extent": {
+                "xmin": -79.391909999999939,
+                "ymin": 43.663870000000024,
+                "xmax": -79.381909999999948,
+                "ymax": 43.673870000000029
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.380009933925848,
+                "y": 43.671689951670913
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "333 Bloor St E, Toronto, Ontario, M4W"
+            },
+            "extent": {
+                "xmin": -79.384819999999934,
+                "ymin": 43.66631000000006,
+                "xmax": -79.374819999999943,
+                "ymax": 43.676310000000065
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.377070036643701,
+                "y": 43.672340047752265
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "420 Bloor St E, Toronto, Ontario, M4W"
+            },
+            "extent": {
+                "xmin": -79.382149999999967,
+                "ymin": 43.667490000000036,
+                "xmax": -79.372149999999976,
+                "ymax": 43.677490000000041
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.390009919499136,
+                "y": 43.669589918922298
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "77 Bloor St W, Toronto, Ontario, M5S"
+            },
+            "extent": {
+                "xmin": -79.394879999999944,
+                "ymin": 43.664230000000025,
+                "xmax": -79.384879999999953,
+                "ymax": 43.67423000000003
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.397379955565967,
+                "y": 43.651610043857133
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "247 Spadina Ave, Toronto, Ontario, M5T"
+            },
+            "extent": {
+                "xmin": -79.402099999999962,
+                "ymin": 43.646660000000047,
+                "xmax": -79.392099999999971,
+                "ymax": 43.656660000000052
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.399629963356247,
+                "y": 43.657949981101247
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "267 College St, Toronto, Ontario, M5T"
+            },
+            "extent": {
+                "xmin": -79.404549999999972,
+                "ymin": 43.652680000000025,
+                "xmax": -79.394549999999981,
+                "ymax": 43.66268000000003
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.396699988891456,
+                "y": 43.648639933925935
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "443 Queen St W, Toronto, Ontario, M5V"
+            },
+            "extent": {
+                "xmin": -79.401629999999955,
+                "ymin": 43.643450000000023,
+                "xmax": -79.391629999999964,
+                "ymax": 43.653450000000028
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.400489999999934,
+                "y": 43.654180000000053
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "56 Kensington Ave, Toronto, Ontario, M5T"
+            },
+            "extent": {
+                "xmin": -79.405489999999929,
+                "ymin": 43.649180000000051,
+                "xmax": -79.395489999999938,
+                "ymax": 43.659180000000056
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.396499958884178,
+                "y": 43.67447006217899
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "165 Avenue Rd, Toronto, Ontario, M5R"
+            },
+            "extent": {
+                "xmin": -79.401089999999954,
+                "ymin": 43.66956000000004,
+                "xmax": -79.391089999999963,
+                "ymax": 43.679560000000045
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.342620036643709,
+                "y": 43.660510022217032
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "904 Queen St E, Toronto, Ontario, M4M"
+            },
+            "extent": {
+                "xmin": -79.347699999999975,
+                "ymin": 43.65565000000003,
+                "xmax": -79.337699999999984,
+                "ymax": 43.665650000000035
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.407830011108487,
+                "y": 43.646450080500841
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "686 Queen St W, Toronto, Ontario, M6J"
+            },
+            "extent": {
+                "xmin": -79.412899999999979,
+                "ymin": 43.641580000000026,
+                "xmax": -79.402899999999988,
+                "ymax": 43.651580000000031
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.390820033325454,
+                "y": 43.680039923394368
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1148 Yonge St, Toronto, Ontario, M4W"
+            },
+            "extent": {
+                "xmin": -79.396029999999939,
+                "ymin": 43.675010000000036,
+                "xmax": -79.386029999999948,
+                "ymax": 43.685010000000041
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.412020029430295,
+                "y": 43.664980033325556
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "574 Bloor St W, Toronto, Ontario, M6G"
+            },
+            "extent": {
+                "xmin": -79.417129999999929,
+                "ymin": 43.66019000000005,
+                "xmax": -79.407129999999938,
+                "ymax": 43.670190000000055
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.415240018321796,
+                "y": 43.654960040538938
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "632 College St, Toronto, Ontario, M6G"
+            },
+            "extent": {
+                "xmin": -79.420279999999934,
+                "ymin": 43.650140000000071,
+                "xmax": -79.410279999999943,
+                "ymax": 43.660140000000077
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.34975003664367,
+                "y": 43.678010047752274
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "480 Danforth Ave, Toronto, Ontario, M4K"
+            },
+            "extent": {
+                "xmin": -79.354829999999936,
+                "ymin": 43.673160000000045,
+                "xmax": -79.344829999999945,
+                "ymax": 43.683160000000051
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.376420062178894,
+                "y": 43.685950015003712
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "408 Summerhill Ave, Toronto, Ontario, M4W"
+            },
+            "extent": {
+                "xmin": -79.381509999999935,
+                "ymin": 43.681120000000071,
+                "xmax": -79.371509999999944,
+                "ymax": 43.691120000000076
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.420540069392288,
+                "y": 43.649380047752253
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1140 Dundas St W, Toronto, Ontario, M6J"
+            },
+            "extent": {
+                "xmin": -79.425599999999974,
+                "ymin": 43.644530000000024,
+                "xmax": -79.415599999999984,
+                "ymax": 43.65453000000003
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.393640080500774,
+                "y": 43.688190069969252
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "2 St Clair Ave E, Toronto, Ontario, M4T"
+            },
+            "extent": {
+                "xmin": -79.398769999999956,
+                "ymin": 43.683480000000024,
+                "xmax": -79.388769999999965,
+                "ymax": 43.693480000000029
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.33918002943031,
+                "y": 43.680060026112187
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "890 Danforth Ave, Toronto, Ontario, M4J"
+            },
+            "extent": {
+                "xmin": -79.344289999999944,
+                "ymin": 43.675300000000043,
+                "xmax": -79.334289999999953,
+                "ymax": 43.685300000000048
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.419869932195098,
+                "y": 43.639410015003719
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "61 Hanna Ave, Toronto, Ontario, M6K"
+            },
+            "extent": {
+                "xmin": -79.423989999999947,
+                "ymin": 43.634580000000078,
+                "xmax": -79.413989999999956,
+                "ymax": 43.644580000000083
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.421319930607652,
+                "y": 43.671649952247812
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "657 Dupont St, Toronto, Ontario, M6G"
+            },
+            "extent": {
+                "xmin": -79.426259999999957,
+                "ymin": 43.666500000000035,
+                "xmax": -79.416259999999966,
+                "ymax": 43.67650000000004
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.348029988314536,
+                "y": 43.687390043857121
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "991 Pape Ave, East York, Toronto, Ontario, M4K"
+            },
+            "extent": {
+                "xmin": -79.352729999999951,
+                "ymin": 43.682440000000035,
+                "xmax": -79.34272999999996,
+                "ymax": 43.69244000000004
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.349280069969197,
+                "y": 43.690599956142947
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1068 Pape Ave, East York, Toronto, Ontario, M4K"
+            },
+            "extent": {
+                "xmin": -79.354569999999967,
+                "ymin": 43.685550000000028,
+                "xmax": -79.344569999999976,
+                "ymax": 43.695550000000033
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.369769922817341,
+                "y": 43.696880062179027
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "321 Moore Ave, East York, Toronto, Ontario, M4G"
+            },
+            "extent": {
+                "xmin": -79.37450999999993,
+                "ymin": 43.691970000000076,
+                "xmax": -79.364509999999939,
+                "ymax": 43.701970000000081
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.418770036643693,
+                "y": 43.683160022217031
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "510 St Clair Ave W, Toronto, Ontario, M6C"
+            },
+            "extent": {
+                "xmin": -79.423849999999959,
+                "ymin": 43.678300000000029,
+                "xmax": -79.413849999999968,
+                "ymax": 43.688300000000034
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.412909988314553,
+                "y": 43.689290069392356
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "443 Spadina Rd, Toronto, Ontario, M5P"
+            },
+            "extent": {
+                "xmin": -79.417609999999968,
+                "ymin": 43.684350000000045,
+                "xmax": -79.407609999999977,
+                "ymax": 43.69435000000005
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.425899945034388,
+                "y": 43.681559952247802
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "687 St Clair Ave W, Toronto, Ontario, M6C"
+            },
+            "extent": {
+                "xmin": -79.43077999999997,
+                "ymin": 43.676410000000025,
+                "xmax": -79.420779999999979,
+                "ymax": 43.686410000000031
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.31941005164731,
+                "y": 43.673209956142969
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "274 Coxwell Ave, Toronto, Ontario, M4L"
+            },
+            "extent": {
+                "xmin": -79.324659999999938,
+                "ymin": 43.66816000000005,
+                "xmax": -79.314659999999947,
+                "ymax": 43.678160000000055
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.396809999423056,
+                "y": 43.699480051070502
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1955 Yonge St, Toronto, Ontario, M4S"
+            },
+            "extent": {
+                "xmin": -79.401579999999967,
+                "ymin": 43.694500000000055,
+                "xmax": -79.391579999999976,
+                "ymax": 43.70450000000006
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.43224006939225,
+                "y": 43.680410029430419
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "870 St Clair Ave W, Toronto, Ontario, M6C"
+            },
+            "extent": {
+                "xmin": -79.437299999999937,
+                "ymin": 43.675520000000056,
+                "xmax": -79.427299999999946,
+                "ymax": 43.685520000000061
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.374509941139252,
+                "y": 43.704100018321917
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1511 Bayview Ave, East York, Toronto, Ontario, M4G"
+            },
+            "extent": {
+                "xmin": -79.379289999999969,
+                "ymin": 43.69914000000005,
+                "xmax": -79.369289999999978,
+                "ymax": 43.709140000000055
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.437409930607672,
+                "y": 43.640419984996399
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1435 Queen St W, Toronto, Ontario, M6K"
+            },
+            "extent": {
+                "xmin": -79.442349999999976,
+                "ymin": 43.635250000000035,
+                "xmax": -79.432349999999985,
+                "ymax": 43.64525000000004
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.321309999999983,
+                "y": 43.684269933925961
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1684 Danforth Ave, Toronto, Ontario, M4C"
+            },
+            "extent": {
+                "xmin": -79.326309999999978,
+                "ymin": 43.679080000000049,
+                "xmax": -79.316309999999987,
+                "ymax": 43.689080000000054
+            }
+        },
+        {
+            "address": "TD Canada Trust",
+            "location": {
+                "x": -79.441949999423059,
+                "y": 43.668109976629211
+            },
+            "score": 100,
+            "attributes": {
+                "PlaceName": "TD Canada Trust",
+                "Place_addr": "1245 Dupont St, Toronto, Ontario, M6H"
+            },
+            "extent": {
+                "xmin": -79.446719999999971,
+                "ymin": 43.662510000000047,
+                "xmax": -79.43671999999998,
+                "ymax": 43.672510000000052
+            }
+        }
+    ]
+}
