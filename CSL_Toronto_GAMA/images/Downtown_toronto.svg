@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/bulliver"
+   sodipodi:docname="downtown_toronto.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="349.92766"
+     inkscape:cy="323.39479"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showborder="false"
+     inkscape:window-width="1272"
+     inkscape:window-height="972"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:8.44015789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1403"
+       width="845"
+       height="624"
+       x="-46"
+       y="462.36218"
+       inkscape:export-filename="/home/bulliver/maps/downtown_toronto.png"
+       inkscape:export-xdpi="73.115425"
+       inkscape:export-ydpi="73.115425" />
+    <path
+       style="fill:#8e908d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -46.5,1025.8622 L -19.5,1026.3622 L -15.5,817.86218 L -19,676.36218 L -20.5,461.86218 L -47,461.86218 L -46.5,1025.8622 z "
+       id="path2283" />
+    <path
+       style="fill:#8e908d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -19,470.86218 L 160.5,473.36218 L 313,479.86218 L 409,479.86218 L 439.5,497.86218 L 564,498.86218 L 579,491.86218 L 602,477.36218 L 650,485.36218 L 738,481.36218 L 756.5,481.36218 L 758,809.86218 L 760,909.36218 L 770.5,961.36218 L 799,952.36218 L 799.5,462.36218 L -26,463.36218 L -19,470.86218 z "
+       id="path2285" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:4.54251957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 384.66609,968.92358 L 393.85848,1024.785"
+       id="path2301" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="rails">
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -47,849.61218 L 181,852.86218 L 371.5,853.86218 L 568.5,856.36218 L 731,857.86218 C 756.35622,858.00381 777.88958,855.79829 799.25,850.61218"
+       id="path2471"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -46.75,843.61218 L 365,850.36218 L 583,852.86218 L 705.5,853.86218 C 738.8843,853.83625 770.18048,856.38627 798.75,847.36218"
+       id="path2473"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 172,846.86218 L 252.5,843.86218 L 355.5,845.36218 L 460,851.36218"
+       id="path2475" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 169,846.36218 L 258.5,839.86218 L 341,841.36218 L 415,848.86218"
+       id="path2477" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 170.5,852.36218 L 261.5,858.36218 L 402.5,857.86218 L 481,855.36218"
+       id="path2479" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 223,855.36218 L 283.5,862.86218 L 417,861.86218 L 522.5,855.36218"
+       id="path2481" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 106,840.86218 L 194,841.36218 L 192.5,810.36218 L 104.5,809.86218 L 106,840.86218 z "
+       id="path2494" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 260.5,832.36218 L 340,836.36218 L 339.5,810.36218 L 258.5,809.86218 L 260.5,832.36218 z "
+       id="path2496" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 49.5,853.86218 L 106.5,854.36218 L 102.5,896.86218 L 96,897.36218 C 82.559283,916.22179 67.606271,913.1531 51.5,893.36218 L 47.5,892.36218 L 49.5,853.86218 z "
+       id="path2498"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 127.5,866.61218 L 133.25,869.36218 L 131.75,876.86218 L 136,877.86218 L 136.75,870.11218 L 142,865.36218 L 138.75,861.36218 L 134.25,865.36218 L 128,863.36218 L 127.5,866.61218 z "
+       id="path2500" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 110.5,807.86218 L 138.75,809.86218 L 137,765.11218 L 107.25,765.61218 L 110.5,807.86218 z "
+       id="path2502" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 337.75,869.11218 L 308,870.61218 C 303.84698,882.27885 303.50638,893.94551 310,905.61218 L 339.75,904.11218 L 337.75,869.11218 z "
+       id="path2504"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 374.25,610.11218 L 393.5,610.36218 L 390.75,477.86218 L 363.25,478.11218 L 361,572.61218 L 361.75,608.11218 L 374.25,610.11218 z "
+       id="path2506" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.29055118;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 272.5,987.86218 L 278.5,1022.3622 L 349.75,1007.1122 L 343.25,975.61218 L 272.5,987.86218 z "
+       id="path2508" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 383,801.86218 L 395,797.86218 L 395,782.86218 L 372,782.86218 L 371.5,802.86218 L 383,801.86218 z "
+       id="path5456" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 525,760.36218 L 525,799.86218 L 543,794.86218 L 541,753.86218 L 525,760.36218 z "
+       id="path5476" />
+    <path
+       style="fill:#bdb580;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 84.852814,474.65594 L 140.00714,475.7166 L 139.65359,504.35443 L 82.024387,504.70798 L 84.852814,474.65594 z "
+       id="path6402" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="greenspace"
+     style="display:inline">
+    <path
+       style="fill:#89c736;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.6448819;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 323,608.86218 L 323.5,526.36218 L 269,525.86218 L 272,610.86218 L 323,608.86218 z "
+       id="path2484" />
+    <path
+       style="fill:#89c736;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 483.5,719.86218 L 542.5,721.36218 L 544,689.86218 L 528,678.86218 L 482,677.86218 L 483.5,719.86218 z "
+       id="path2486" />
+    <path
+       style="fill:#89c736;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 571,610.36218 L 636,610.36218 L 633.5,555.36218 L 569.5,555.36218 L 571,610.36218 z "
+       id="path2488" />
+    <path
+       style="fill:#89c736;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.5,501.86218 L 126,502.36218 L 125,539.86218 L 84.5,538.36218 L 84.5,501.86218 z "
+       id="path2490" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="streets"
+     style="display:inline">
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 543.05801,456.27117 L 543.76511,914.47636 L 547.30065,940.63931"
+       id="path2289" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 754.48294,461.92802 L 758.01847,869.92863 L 729.7342,908.81951 L 347.89654,974.58044 L 258.09398,989.42968 L 106.06602,980.9444 L 6.363961,983.06572 L -53.033009,983.06572"
+       id="path2291" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 336.58283,609.71334 L 340.82547,913.06215 C 340.73143,935.75226 341.67975,957.74747 347.18943,976.70176"
+       id="path2307"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
+       d="M -21.92031,983.06572 L -19.79899,457.68538"
+       id="path2293" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M -48.790368,814.0672 L -20.506097,812.65298 L 46.669048,809.11745 L 340.82547,810.53166 L 395.9798,799.21795 L 496.38896,764.56972 L 543.05801,753.25601 L 571.34228,749.01337 L 801.85909,745.47784"
+       id="path2297" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M -51.618795,720.022 L 544.47222,720.022 L 724.78445,717.90068 L 801.85909,688.9093"
+       id="path2295" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 260.2153,990.13679 L 258.09398,611.12755"
+       id="path2305"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 403.75797,965.38805 L 395.27269,891.84894 L 393.15137,456.97827"
+       id="path2309" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 801.15198,609.00623 L 396.6869,610.42044 L 80.610173,611.12755 L -52.325902,611.83466"
+       id="path2299" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.95984268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 391.03005,1007.1073 C 370.60531,1007.8874 353.77171,1001.4852 346.48232,975.99465"
+       id="path2303"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 800,564.36218 L 755,564.36218 L 693,566.36218 L 635,555.36218 L 393,556.36218"
+       id="path2327" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 729,838.36218 L 725,606.36218"
+       id="path2331" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 757,840.36218 L 663,840.36218 L 661,687.36218"
+       id="path2329" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 726,789.36218 L 543,795.36218 L 395,836.36218"
+       id="path2338" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -50,469.36218 L -20,470.36218 L 190,475.36218 L 407,479.36218 L 434,499.36218 L 567,499.36218 C 587.29963,477.62436 609.03406,473.10426 632,483.36218 L 756,479.36218 L 806,480.36218"
+       id="path2340"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -52,887.36218 L -20,883.36218 L 14,886.36218 C 39.461525,911.28505 58.798142,918.83431 79.97607,916.75323 C 101.154,914.67214 127.17324,895.96071 157,889.36218 L 260,890.36218"
+       id="path2342"
+       sodipodi:nodetypes="cccscc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 801,642.36218 L 727,645.36218 L 544,646.36218 L 530,634.36218 L 76,636.36218 L 42,644.36218 L -22,642.36218 L -55,631.36218"
+       id="path2344" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 805,656.36218 L 739,686.36218 L 545,690.36218 L 530,678.36218 L 395,675.36218 L -50,679.36218"
+       id="path2346" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 200,984.36218 L 195,950.36218 L 199,890.36218"
+       id="path2348" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 236,808.36218 L 228,720.36218 L 219,635.36218 L 217,460.36218"
+       id="path2350" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 641,925.36218 L 634,876.36218 L 631,644.36218 L 635,607.36218 L 632,460.36218"
+       id="path2352" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 495,763.36218 L 12,767.36218"
+       id="path2354" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 197,809.36218 L 194,459.36218"
+       id="path2356" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 46,610.36218 L 46,833.36218 L 36,862.36218 L -22,861.36218"
+       id="path2358" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 482,832.36218 L 480,459.36218"
+       id="path2360" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 324,610.36218 L 324,457.36218"
+       id="path2362" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 140,609.36218 L 140,456.36218"
+       id="path2364" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 168,608.36218 L 166,452.36218"
+       id="path2366" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 82,610.36218 L 82,456.36218"
+       id="path2368" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 139,565.36218 L 82,565.36218"
+       id="path2370" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107,808.36218 L 107,565.36218"
+       id="path2372" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 429,826.36218 L 424,455.36218"
+       id="path2374" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 571,611.36218 L 573,840.36218"
+       id="path2376"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 480,742.36218 L 371,741.36218 L 373,720.36218"
+       id="path2378" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 148,720.36218 L 148,611.36218"
+       id="path2380" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -21,786.36218 L 12,785.36218 L 11,755.36218 L -20,755.36218"
+       id="path2382" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 15,886.36218 L 16,862.36218"
+       id="path2384" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -22,769.36218 L -49,769.36218"
+       id="path2386" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 525,839.36218 L 524,758.36218"
+       id="path2388" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 75,719.36218 L 78,636.36218"
+       id="path2400" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 107,699.36218 L 259,699.36218"
+       id="path2402" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 136,983.36218 L 132,1006.3622 L 107,1007.3622 L 110,980.36218 L 110,959.36218 L 110,935.36218 L 103,910.36218"
+       id="path2390" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 498,807.36218 L 496,764.36218"
+       id="path2398" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 427,655.36218 L 542,656.36218"
+       id="path2392" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 393,656.36218 L 306,656.36218"
+       id="path2396" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 306,675.36218 L 305,635.36218"
+       id="path2394" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 82,538.36218 L -21,539.36218"
+       id="path2404" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015789;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M -47.376154,934.98246 L 203.64675,956.19566 L 260.2153,954.07434 L 340.11836,944.17485 C 362.29881,939.49135 386.14418,936.889 398.10112,919.42611 C 433.39629,877.97474 481.18066,883.35789 526.60721,879.8992 L 665.38748,884.07077 L 801.15198,866.3931"
+       id="path2311"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 442.64885,958.31698 L 440.52752,885.48498 L 480.83261,879.82813 L 482.95393,928.6185 L 487.19657,951.95302"
+       id="path2420" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 578.41335,934.27535 L 572.75649,908.1124 L 572.75649,875.58549 L 663.26616,876.29259 L 666.80169,920.13321 L 729.02709,908.81951 L 726.90577,875.58549"
+       id="path2422" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 726.19866,804.87481 L 632.15346,807.70324"
+       id="path2424" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 599.62655,689.6164 L 604.5763,840.23015 L 557.90725,840.23015 L 557.90725,821.13827 L 588.31284,819.72405 L 589.01995,840.23015"
+       id="path2426" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 684.47936,717.90068 L 683.06515,686.78798 L 690.13622,687.49508 L 689.42911,609.71334"
+       id="path2428" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 449.71991,762.4484 L 449.71991,719.31489 L 442.64885,719.31489 L 443.35595,676.88848"
+       id="path2430" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 494.97475,460.51381 L 496.38896,610.42044 L 517.60216,609.71334 L 516.89506,459.8067"
+       id="path2432" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 569.22096,459.09959 L 569.22096,554.55901 L 603.16208,555.26612 L 601.74787,458.39249"
+       id="path2434" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 723.37024,459.8067 L 724.07734,565.16561 L 692.25754,566.57982 L 692.96465,452.73563 L 668.92302,452.73563 L 669.63012,560.92297"
+       id="path2436" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 707.81389,481.0199 L 707.81389,565.87272 L 739.63369,564.4585 L 738.21948,479.60569"
+       id="path2438" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 456.79098,634.46207 L 456.79098,610.42044 L 451.84123,609.71334 L 451.84123,451.32142 L 436.99199,452.02853 L 438.4062,557.38744"
+       id="path2440" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 79.903066,569.40825 L -21.213203,567.28693"
+       id="path2442" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.94117647;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 80.610173,506.47575 L -47.376154,507.18285"
+       id="path2444" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 26.870058,565.16561 L 26.870058,459.09959"
+       id="path2446" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 45.254834,744.06363 L 106.77312,744.06363"
+       id="path2448" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 108.89444,657.08949 L 149.90664,658.50371 L 196.57569,657.7966"
+       id="path2450" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 65.053824,538.29555 L 65.053824,471.12041"
+       id="path2452" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 218.496,533.34581 L 246.07316,533.34581 L 270.8219,524.15342 L 269.40768,456.27117 L 241.12341,455.56406 L 243.24473,533.34581"
+       id="path2454" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 323.1478,525.56763 L 289.91378,525.56763 L 289.20667,454.85695"
+       id="path2456" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 107.48023,596.27831 L 195.86858,597.69252"
+       id="path2458" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 51.618795,607.59202 L 50.911688,570.11536"
+       id="path2460" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -19.091883,588.50013 L 50.204581,589.20724"
+       id="path2462" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 14.142136,717.90068 L 13.435029,679.71691"
+       id="path2464" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 12.727922,695.98036 L -21.213203,696.68747"
+       id="path2466" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:8.44015748;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 360.62446,609.71334 L 357.79603,568.70114 L 323.1478,572.94378"
+       id="path2468" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="water"
+     style="display:inline">
+    <path
+       style="fill:#9ccec9;fill-opacity:1;fill-rule:evenodd;stroke:#7fb5b5;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -45.961941,1085.9498 L 798.67711,1086.6569 L 799.38422,1038.9272 L 790.54538,1008.5216 L 799.03066,1006.0467 L 799.03066,945.23551 L 777.11035,950.53881 L 762.26111,893.26316 L 750.2403,914.12281 L 756.95781,954.42789 L 570.63517,992.61166 L 562.50344,947.35683 L 540.93669,951.59947 L 548.71486,998.26851 L 412.95036,1021.9566 L 404.81863,971.39846 L 388.55518,973.87333 L 397.39401,1027.2599 L 391.3836,1027.967 L 387.84807,1014.532 L 365.22065,1018.0675 L 365.92776,1032.2096 L 320.67293,1038.5736 L 317.49095,1021.9566 L 284.61048,1027.2599 L 287.79246,1045.2911 L 269.76124,1049.1802 L 265.16504,1010.9964 L 259.50819,997.56141 L 253.14423,998.26851 L 251.02291,1050.948 L 94.398755,1026.5528 L 97.227182,994.02587 L 84.852814,991.90455 L 81.670833,1024.0779 L 43.84062,1018.7746 L 43.133514,990.84389 L 26.870058,991.19745 L 26.162951,1015.5926 L -9.1923882,1009.9358 L -8.8388348,990.49034 L -24.395184,990.84389 L -24.748737,1021.9566 L -45.961941,1021.603 L -45.961941,1085.9498 z "
+       id="path2281" />
+    <path
+       style="fill:none;fill-opacity:0.43529412;fill-rule:evenodd;stroke:#ffffff;stroke-width:17.23110199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M -50,949.36218 L 139,958.36218 C 225,949.18825 311,918.28651 397,891.36218 C 445.10336,883.38543 494.01186,872.99326 537,880.36218 L 729,876.36218 L 802,867.36218"
+       id="path2287"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#9c9494;stroke-width:1.70787402;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -49,957.86218 L 142,967.36218 L 179,961.36218 C 256.74751,944.6299 329.47752,921.62575 402,898.36218 C 449.14757,889.2897 495.14526,883.37938 537,888.86218 L 736.5,884.36218 L 801.5,875.86218"
+       id="path2416"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#9c9494;stroke-width:1.70787402;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -49,941.36218 L 141.5,949.86218 L 179,944.36218 C 253.96699,928.20706 323.13521,904.32024 394.5,883.36218 C 443.55865,873.96093 492.36829,865.55571 537.5,871.86218 L 719.5,867.86218 L 800,858.86218"
+       id="path2418"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="annotations">
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="539"
+       y="1062.3622"
+       id="text1420"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1422"
+         x="539"
+         y="1062.3622">Lake Ontario</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.99999619px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="111.77702"
+       y="956.07294"
+       id="text1424"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.999323,3.678733e-2,-3.678733e-2,0.999323,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1426"
+         x="111.77702"
+         y="956.07294">Gardiner Expressway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="642.67999"
+       y="931.53699"
+       id="text1428"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.997063,-7.659091e-2,7.659091e-2,0.997063,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1430"
+         x="642.67999"
+         y="931.53699">Gardiner Expressway</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="211.83926"
+       y="976.35211"
+       id="text1432"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.998545,5.392851e-2,-5.392851e-2,0.998545,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1434"
+         x="211.83926"
+         y="976.35211">Queens Quay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="78.060661"
+       y="812.42285"
+       id="text1436"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1438"
+         x="78.060661"
+         y="812.42285">Front St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000763px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-236.27759"
+       y="883.26074"
+       id="text1440"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.922781,-0.385324,0.385324,0.922781,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1442"
+         x="-236.27759"
+         y="883.26074">Bremner Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="76"
+       y="769.36218"
+       id="text1444"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1446"
+         x="76"
+         y="769.36218">Wellington St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="1.4573234"
+       y="723.36218"
+       id="text1448"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1450"
+         x="1.4573234"
+         y="723.36218">King St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="671"
+       y="612.36218"
+       id="text1452"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1454"
+         x="671"
+         y="612.36218">Queen St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="694.89465"
+       y="749.67419"
+       id="text1456"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1458"
+         x="694.89465"
+         y="749.67419">Front St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="366.02661"
+       y="767.73816"
+       id="text1464"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1466"
+         x="366.02661"
+         y="767.73816">Wellington St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="689.89465"
+       y="720.73816"
+       id="text1468"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1470"
+         x="689.89465"
+         y="720.73816">King St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="303.35855"
+       y="613.46423"
+       id="text1472"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1474"
+         x="303.35855"
+         y="613.46423">Queen St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="461.9863"
+       y="1010.0843"
+       id="text1476"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.989478,-0.144682,0.144682,0.989478,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1478"
+         x="461.9863"
+         y="1010.0843">Queens Quay</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="69.142136"
+       y="879.89771"
+       id="text1480"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1482"
+         x="69.142136"
+         y="879.89771">Skydome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="158.84924"
+       y="874.19061"
+       id="text1484"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1486"
+         x="158.84924"
+         y="874.19061">CN Tower</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="308.48529"
+       y="997.77637"
+       id="text1488"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1490"
+         x="308.48529"
+         y="997.77637">Harbour</tspan><tspan
+         sodipodi:role="line"
+         x="308.48529"
+         y="1009.7764"
+         id="tspan1492">Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="314.31372"
+       y="883.36218"
+       id="text1494"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1496"
+         x="314.31372"
+         y="883.36218">Air Canada</tspan><tspan
+         sodipodi:role="line"
+         x="314.31372"
+         y="895.36218"
+         id="tspan1498">Place</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="123.12132"
+       y="789.31195"
+       id="text1500"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1502"
+         x="123.12132"
+         y="789.31195">CBC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="147.99138"
+       y="831.65509"
+       id="text1504"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1506"
+         x="147.99138"
+         y="831.65509">Convention Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="294.62741"
+       y="828.77637"
+       id="text1508"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1510"
+         x="294.62741"
+         y="828.77637">Union Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-534.44403"
+       y="393.73441"
+       id="text1512"
+       sodipodi:linespacing="100%"
+       transform="matrix(2.751192e-2,-0.999621,0.999621,2.751192e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1514"
+         x="-534.44403"
+         y="393.73441">Eaton Centre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="659.73065"
+       y="485.96967"
+       id="text1516"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1518"
+         x="659.73065"
+         y="485.96967">Dundas St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="651.24536"
+       y="648.95776"
+       id="text1520"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1522"
+         x="651.24536"
+         y="648.95776">Richmond St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="172.53404"
+       y="660.625"
+       id="text1524"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1526"
+         x="172.53404"
+         y="660.625">Nelson St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="486.13593"
+       y="658.85724"
+       id="text1528"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1530"
+         x="486.13593"
+         y="658.85724">Lombard St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="14.142143"
+       y="681.8382"
+       id="text1532"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1534"
+         x="14.142143"
+         y="681.8382">Adelaide St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="574.87781"
+       y="558.80164"
+       id="text1536"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1538"
+         x="574.87781"
+         y="558.80164">Shuter St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="77.074638"
+       y="747.59918"
+       id="text1540"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1542"
+         x="77.074638"
+         y="747.59918">Mercer St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="11.313693"
+       y="864.97888"
+       id="text1544"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1546"
+         x="11.313693"
+         y="864.97888">Blue Jays</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-771.83246"
+       y="357.3902"
+       id="text1548"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.372892,-0.927875,0.927875,0.372892,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1550"
+         x="-771.83246"
+         y="357.3902">Way</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999237px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="118.20782"
+       y="474.74625"
+       id="text1552"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.999869,1.620316e-2,-1.620316e-2,0.999869,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1554"
+         x="118.20782"
+         y="474.74625">Dundas St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="15.450973"
+       y="646.39136"
+       id="text1556"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1558"
+         x="15.450973"
+         y="646.39136">Richmond St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="604.01581"
+       y="691.6582"
+       id="text1560"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1562"
+         x="604.01581"
+         y="691.6582">Adelaide St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-2.828428"
+       y="510.01129"
+       id="text1564"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1566"
+         x="-2.828428"
+         y="510.01129">Grange Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-2.8284385"
+       y="541.83112"
+       id="text1568"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1570"
+         x="-2.8284385"
+         y="541.83112">Sullivan St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="4.5962014"
+       y="571.17603"
+       id="text1572"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1574"
+         x="4.5962014"
+         y="571.17603">Phoebe St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="13.435017"
+       y="592.03564"
+       id="text1576"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1578"
+         x="13.435017"
+         y="592.03564">Bulwer St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="93.777718"
+       y="935.99603"
+       id="text1580"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.993786,0.111304,-0.111304,0.993786,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1582"
+         x="93.777717"
+         y="935.99603">Lake Shore Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="189.54375"
+       y="980.50073"
+       id="text1584"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.993209,-0.116343,0.116343,0.993209,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1586"
+         x="189.54375"
+         y="980.50073">Lake Shore Blvd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="171.82695"
+       y="702.3443"
+       id="text1588"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1590"
+         x="171.82695"
+         y="702.3443">Pearl St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="110.30866"
+       y="568.70117"
+       id="text1592"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1594"
+         x="110.30866"
+         y="568.70117">Stephanie St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="134.35028"
+       y="599.10669"
+       id="text1596"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1598"
+         x="134.35028"
+         y="599.10669">Renfrew Pl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="237.54147"
+       y="911.06458"
+       id="text1600"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.966786,-0.255589,0.255589,0.966786,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1602"
+         x="237.54147"
+         y="911.06458">The Esplanade</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-894.03247"
+       y="9.8953333"
+       id="text1604"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.22817e-2,-0.999479,0.999479,3.22817e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1606"
+         x="-894.03247"
+         y="9.8953333">Spadina Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-690.12134"
+       y="23.00667"
+       id="text1608"
+       sodipodi:linespacing="100%"
+       transform="matrix(-3.742078e-2,-0.9993,0.9993,-3.742078e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1610"
+         x="-690.12134"
+         y="23.00667">Peter St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-693.97937"
+       y="134.49707"
+       id="text1612"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.622276e-2,-0.999344,0.999344,3.622276e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1614"
+         x="-693.97937"
+         y="134.49707">John St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000954px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="791.39832"
+       y="-149.37466"
+       id="text1616"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.103379,0.994642,-0.994642,0.103379,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1618"
+         x="791.39831"
+         y="-149.37466">University Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-968.71814"
+       y="269.1553"
+       id="text1620"
+       sodipodi:linespacing="100%"
+       transform="matrix(5.561853e-3,-0.999985,0.999985,5.561853e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1622"
+         x="-968.71814"
+         y="269.1553">York St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00001144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-803.3606"
+       y="355.7251"
+       id="text1624"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.673061e-2,-0.99986,0.99986,1.673061e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1626"
+         x="-803.3606"
+         y="355.7251">Bay St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999619px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="984.91394"
+       y="-257.89935"
+       id="text1628"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.144968,0.989436,-0.989436,0.144968,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1630"
+         x="984.91394"
+         y="-257.89935">Yonge St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-565.58643"
+       y="566.57056"
+       id="text1632"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.415989e-2,-0.999416,0.999416,3.415989e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1634"
+         x="-565.58642"
+         y="566.57056">Jarvis St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-605.177"
+       y="1.1941361"
+       id="text1636"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.228168e-2,-0.999479,0.999479,3.228168e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1638"
+         x="-605.177"
+         y="1.1941361">Spadina Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00001431px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-541.26001"
+       y="216.92508"
+       id="text1640"
+       sodipodi:linespacing="100%"
+       transform="matrix(-6.983307e-3,-0.999976,0.999976,-6.983307e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1642"
+         x="-541.26001"
+         y="216.92508">University Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00001144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-664.11407"
+       y="265.14667"
+       id="text1644"
+       sodipodi:linespacing="100%"
+       transform="matrix(5.56185e-3,-0.999985,0.999985,5.56185e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1646"
+         x="-664.11407"
+         y="265.14667">York St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00001144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-539.26282"
+       y="336.67239"
+       id="text1648"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.673061e-2,-0.99986,0.99986,1.673061e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1650"
+         x="-539.26282"
+         y="336.67239">Bay St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99998856px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-523.72076"
+       y="413.47403"
+       id="text1652"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.090985e-2,-0.999522,0.999522,3.090985e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1654"
+         x="-523.72076"
+         y="413.47403">Yonge St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="989.71198"
+       y="-392.76468"
+       id="text1656"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.155736,0.987799,-0.987799,0.155736,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1658"
+         x="989.71197"
+         y="-392.76468">Jarvis St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="285.56577"
+       y="723.1051"
+       id="text1660"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1662"
+         x="285.56577"
+         y="723.1051">King St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="8.4519062"
+       y="614.22955"
+       id="text1664"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1666"
+         x="8.4519062"
+         y="614.22955">Queen St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="290.51553"
+       y="638.61322"
+       id="text1668"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1670"
+         x="290.51553"
+         y="638.61322">Richmond St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="366.42795"
+       y="678.9303"
+       id="text1672"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1674"
+         x="366.42795"
+         y="678.9303">Adelaide St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999714px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="226.89597"
+       y="870.10852"
+       id="text1676"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.972853,-0.231423,0.231423,0.972853,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1678"
+         x="226.89597"
+         y="870.10852">Front St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-580.22607"
+       y="431.68585"
+       id="text1680"
+       sodipodi:linespacing="100%"
+       transform="matrix(4.52814e-3,-0.99999,0.99999,4.52814e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1682"
+         x="-580.22608"
+         y="431.68585">Victoria St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999237px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-510.71469"
+       y="473.12085"
+       id="text1684"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.471872e-2,-0.999397,0.999397,3.471872e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1686"
+         x="-510.71469"
+         y="473.12085">Bond St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-520.21887"
+       y="491.85117"
+       id="text1688"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.584234e-2,-0.999875,0.999875,1.584234e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1690"
+         x="-520.21887"
+         y="491.85117">Church St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-525.68707"
+       y="440.76291"
+       id="text1692"
+       sodipodi:linespacing="100%"
+       transform="matrix(-4.236789e-4,-1,1,-4.236789e-4,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1694"
+         x="-525.68707"
+         y="440.76291">Victoria Ln</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-524.1792"
+       y="501.69763"
+       id="text1696"
+       sodipodi:linespacing="100%"
+       transform="matrix(6.015318e-3,-0.999982,0.999982,6.015318e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1698"
+         x="-524.1792"
+         y="501.69763">Dalhousie St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999714px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-533.93933"
+       y="510.55002"
+       id="text1700"
+       sodipodi:linespacing="100%"
+       transform="matrix(-1.725013e-2,-0.999851,0.999851,-1.725013e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1702"
+         x="-533.93933"
+         y="510.55002">Mutual St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-544.02649"
+       y="615.2774"
+       id="text1704"
+       sodipodi:linespacing="100%"
+       transform="matrix(-3.954082e-2,-0.999218,0.999218,-3.954082e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1706"
+         x="-544.02649"
+         y="615.2774">Sherbourne St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00001144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-744.86975"
+       y="496.74469"
+       id="text1708"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.584233e-2,-0.999875,0.999875,1.584233e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1710"
+         x="-744.86975"
+         y="496.74469">Church St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-786.39117"
+       y="636.32892"
+       id="text1712"
+       sodipodi:linespacing="100%"
+       transform="matrix(2.445484e-4,-1,1,2.445484e-4,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1714"
+         x="-786.39117"
+         y="636.32892">Sherbourne St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000763px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-540.43243"
+       y="198.90257"
+       id="text1716"
+       sodipodi:linespacing="100%"
+       transform="matrix(4.366356e-3,-0.99999,0.99999,4.366356e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1718"
+         x="-540.43243"
+         y="198.90257">Simcoe St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-538.85425"
+       y="171.33502"
+       id="text1720"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.774791e-3,-0.999998,0.999998,1.774791e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1722"
+         x="-538.85425"
+         y="171.33502">St Patrick St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-521.17029"
+       y="161.66927"
+       id="text1724"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.604733e-2,-0.99935,0.99935,3.604733e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1726"
+         x="-521.17029"
+         y="161.66927">McCaul St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000763px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-904.92358"
+       y="256.09576"
+       id="text1728"
+       sodipodi:linespacing="100%"
+       transform="matrix(6.158726e-2,-0.998102,0.998102,6.158726e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1730"
+         x="-904.92358"
+         y="256.09576">Simcoe St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-522.34692"
+       y="84.228447"
+       id="text1732"
+       sodipodi:linespacing="100%"
+       transform="matrix(-1.15649e-3,-0.999999,0.999999,-1.15649e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1734"
+         x="-522.34692"
+         y="84.228447">Beverly St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99998188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-513.06219"
+       y="31.593512"
+       id="text1736"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.924628e-3,-0.999992,0.999992,3.924628e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1738"
+         x="-513.0622"
+         y="31.593512">Huron St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-507.22778"
+       y="71.670967"
+       id="text1740"
+       sodipodi:linespacing="100%"
+       transform="matrix(5.850714e-3,-0.999983,0.999983,5.850714e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1742"
+         x="-507.22778"
+         y="71.670967">Grange Pl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999619px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-677.63025"
+       y="91.690331"
+       id="text1744"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.753158e-2,-0.999846,0.999846,1.753158e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1746"
+         x="-677.63025"
+         y="91.690331">Widmer St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-583.2663"
+       y="93.196365"
+       id="text1748"
+       sodipodi:linespacing="100%"
+       transform="matrix(6.745426e-2,-0.997722,0.997722,6.745426e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1750"
+         x="-583.2663"
+         y="93.196365">Soho St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="9.0406957e-06"
+       y="698.80878"
+       id="text1752"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1754"
+         x="9.0406957e-06"
+         y="698.80878">Oxley St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-506.36795"
+       y="246.32806"
+       id="text1764"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.552964e-3,-0.999999,0.999999,1.552964e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1766"
+         x="-506.36795"
+         y="246.32806">Centre St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-508.68713"
+       y="256.40097"
+       id="text1768"
+       sodipodi:linespacing="100%"
+       transform="matrix(-3.469846e-2,-0.999398,0.999398,-3.469846e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1770"
+         x="-508.68713"
+         y="256.40097">Chestnut St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999809px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-492.944"
+       y="303.94882"
+       id="text1772"
+       sodipodi:linespacing="100%"
+       transform="matrix(2.253179e-2,-0.999746,0.999746,2.253179e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1774"
+         x="-492.944"
+         y="303.94882">Elizabeth St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="263.2019"
+       y="612.50763"
+       id="text1776"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.991842,-0.127477,0.127477,0.991842,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1778"
+         x="263.2019"
+         y="612.50763">Albert St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="620.04175"
+       y="-304.30975"
+       id="text1780"
+       sodipodi:linespacing="100%"
+       transform="matrix(8.611048e-2,0.996286,-0.996286,8.611048e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1782"
+         x="620.04175"
+         y="-304.30975">James St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="358.85669"
+       y="659.56439"
+       id="text1784"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1786"
+         x="358.85669"
+         y="659.56439">Temperance St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="420.02142"
+       y="745.47784"
+       id="text1788"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1790"
+         x="420.02142"
+         y="745.47784">Colborne St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000572px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-811.32416"
+       y="526.43018"
+       id="text2665"
+       sodipodi:linespacing="100%"
+       transform="matrix(-1.708385e-3,-0.999999,0.999999,-1.708385e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2667"
+         x="-811.32416"
+         y="526.43018">Market St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999809px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-803.79333"
+       y="470.98294"
+       id="text2669"
+       sodipodi:linespacing="100%"
+       transform="matrix(-3.626549e-2,-0.999342,0.999342,-3.626549e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2671"
+         x="-803.79333"
+         y="470.98294">Farquhars Ln</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999714px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-785.271"
+       y="577.34967"
+       id="text2673"
+       sodipodi:linespacing="100%"
+       transform="matrix(-3.606995e-2,-0.999349,0.999349,-3.606995e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2675"
+         x="-785.271"
+         y="577.34967">Frederick St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999046px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-715.9209"
+       y="584.46973"
+       id="text2677"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.307747e-2,-0.999914,0.999914,1.307747e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2679"
+         x="-715.9209"
+         y="584.46973">George St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-752.65558"
+       y="679.9389"
+       id="text2681"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.915243e-2,-0.999817,0.999817,1.915243e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2683"
+         x="-752.65558"
+         y="679.9389">Princess St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="661.74518"
+       y="834.67358"
+       id="text2685"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.999307,-3.721114e-2,3.721114e-2,0.999307,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2687"
+         x="661.74518"
+         y="834.67358">Scadding Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999428px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-643.12128"
+       y="701.8075"
+       id="text2689"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.369357e-2,-0.999906,0.999906,1.369357e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2691"
+         x="-643.12128"
+         y="701.8075">Ontario St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999905px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-773.2298"
+       y="726.70532"
+       id="text2693"
+       sodipodi:linespacing="100%"
+       transform="matrix(-5.272172e-3,-0.999986,0.999986,-5.272172e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2695"
+         x="-773.2298"
+         y="726.70532">Berkeley St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-810.2757"
+       y="737.50208"
+       id="text2697"
+       sodipodi:linespacing="100%"
+       transform="matrix(-2.83373e-2,-0.999598,0.999598,-2.83373e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2699"
+         x="-810.2757"
+         y="737.50208">Parliament St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Blue Highway"
+       x="697.91443"
+       y="843.41217"
+       id="text2701"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2703"
+         x="697.91443"
+         y="843.41217">Longboat Ave</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99998093px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-519.90875"
+       y="572.49652"
+       id="text2715"
+       sodipodi:linespacing="100%"
+       transform="matrix(7.588285e-4,-1,1,7.588285e-4,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2717"
+         x="-519.90875"
+         y="572.49652">George St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-514.95099"
+       y="605.46655"
+       id="text2719"
+       sodipodi:linespacing="100%"
+       transform="matrix(4.335977e-4,-1,1,4.335977e-4,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2721"
+         x="-514.95099"
+         y="605.46655">Pembroke St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-520.31842"
+       y="673.01898"
+       id="text2723"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.395289e-3,-0.999999,0.999999,1.395289e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2725"
+         x="-520.31842"
+         y="673.01898">Seaton St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-522.83649"
+       y="712.48517"
+       id="text2727"
+       sodipodi:linespacing="100%"
+       transform="matrix(2.119954e-3,-0.999998,0.999998,2.119954e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2729"
+         x="-522.83649"
+         y="712.48517">Milan St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.00000477px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-520.6983"
+       y="744.99353"
+       id="text2731"
+       sodipodi:linespacing="100%"
+       transform="matrix(3.571752e-3,-0.999994,0.999994,3.571752e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2733"
+         x="-520.6983"
+         y="744.99353">Poulette St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99998569px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-514.32184"
+       y="702.67694"
+       id="text2735"
+       sodipodi:linespacing="100%"
+       transform="matrix(1.369357e-2,-0.999906,0.999906,1.369357e-2,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2737"
+         x="-514.32184"
+         y="702.67694">Ontario St</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.99999714px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="-528.06592"
+       y="724.02423"
+       id="text2739"
+       sodipodi:linespacing="100%"
+       transform="matrix(-5.272174e-3,-0.999986,0.999986,-5.272174e-3,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2741"
+         x="-528.06592"
+         y="724.02423">Berkeley St</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#bdb580;fill-opacity:1;stroke:#000000;stroke-width:0.29055119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3616"
+       sodipodi:cx="299.25"
+       sodipodi:cy="563.61218"
+       sodipodi:rx="11.75"
+       sodipodi:ry="7.75"
+       d="M 311 563.61218 A 11.75 7.75 0 1 1  287.5,563.61218 A 11.75 7.75 0 1 1  311 563.61218 z"
+       transform="translate(-3.181981,-18.03122)" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="295.52515"
+       y="543.97742"
+       id="text3618"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3620"
+         x="295.52515"
+         y="543.97742">City</tspan><tspan
+         sodipodi:role="line"
+         x="295.52515"
+         y="552.97742"
+         id="tspan3622">Hall</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="293.85355"
+       y="572.81805"
+       id="text3624"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3626"
+         x="293.85355"
+         y="572.81805">Nathan</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="294.10229"
+       y="584.74695"
+       id="text3628"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3630"
+         x="294.10229"
+         y="584.74695">Philips</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="295.8284"
+       y="596.20099"
+       id="text3632"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3634"
+         x="295.8284"
+         y="596.20099">Square</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="104"
+       y="517.36218"
+       id="text3636"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3638"
+         x="104"
+         y="517.36218">Grange</tspan><tspan
+         sodipodi:role="line"
+         x="104"
+         y="529.36218"
+         id="tspan3640">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="512"
+       y="697.36218"
+       id="text3642"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3644"
+         x="512"
+         y="697.36218">St James</tspan><tspan
+         sodipodi:role="line"
+         x="512"
+         y="709.36218"
+         id="tspan3646">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="604"
+       y="578.36218"
+       id="text3648"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3650"
+         x="604"
+         y="578.36218">Moss</tspan><tspan
+         sodipodi:role="line"
+         x="604"
+         y="590.36218"
+         id="tspan3652">Park</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway;display:inline"
+       x="-2.4748702"
+       y="758.91284"
+       id="text1756"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1758"
+         x="-2.4748702"
+         y="758.91284">Clarance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway;display:inline"
+       x="-4.5961976"
+       y="788.61133"
+       id="text1760"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1762"
+         x="-4.5961976"
+         y="788.61133">Sq</tspan></text>
+    <g
+       id="g4579"
+       transform="matrix(0.179699,0,0,0.189277,429.4107,585.8558)">
+      <path
+         id="path6274"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.177165;stroke-dashoffset:0"
+         d="M 7.1775,6.61171 L 99.6875,6.61171 L 99.6875,99.12171 C 99.6875,99.12171 7.1775,99.12171 7.1775,99.12171 C 6.865,99.12171 7.1775,6.61171 7.1775,6.61171 z " />
+      <path
+         id="path6299"
+         style="font-size:12px;fill:#ffffff;fill-rule:evenodd;stroke-width:0.177165;stroke-dashoffset:0"
+         d="M 15.9375,14.1117 L 35,14.1117 L 34.6875,43.7992 L 71.56251,43.7992 L 71.56251,14.1117 L 90.62501,14.1117 L 90.62501,90.36171 L 71.56251,90.36171 L 71.56251,56.61171 L 35,56.61171 L 35,90.36171 L 15.9375,90.36171 L 15.9375,14.1117 z " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Blue Highway"
+       x="372"
+       y="783.86218"
+       id="text5458"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5460"
+         x="372"
+         y="783.86218">Hockey Hall</tspan><tspan
+         sodipodi:role="line"
+         x="372"
+         y="795.86218"
+         id="tspan5462">Of Fame</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="554"
+       y="772.36218"
+       id="text5478"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5480"
+         x="554"
+         y="772.36218">St Lawrence</tspan><tspan
+         sodipodi:role="line"
+         x="554"
+         y="784.36218"
+         id="tspan5482">Market</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Blue Highway"
+       x="110.30866"
+       y="488.09097"
+       id="text6404"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6406"
+         x="110.30866"
+         y="488.09097">Art Gallery</tspan><tspan
+         sodipodi:role="line"
+         x="110.30866"
+         y="499.09097"
+         id="tspan6408">Of Ontairio</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="subway">
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 392.44426,462.63513 L 394.56558,765.27683 C 381.02251,815.71434 288.42964,861.55048 231.22392,766.69104 L 218.496,635.16918 L 215.66757,462.63513"
+       id="path5485"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6360"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,180.1948,572.4301)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6362"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,348.0015,573.4908)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6364"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,171.9318,462.475)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6366"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,346.5873,461.7679)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6368"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,169.1034,328.1247)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6370"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,345.8801,333.0745)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6372"
+       sodipodi:cx="125.51145"
+       sodipodi:cy="396.87421"
+       sodipodi:rx="13.081475"
+       sodipodi:ry="12.727922"
+       d="M 138.59293 396.87421 A 13.081475 12.727922 0 1 1  112.42998,396.87421 A 13.081475 12.727922 0 1 1  138.59293 396.87421 z"
+       transform="matrix(0.370995,0,0,0.370995,241.2283,669.6573)" />
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="302.64169"
+       y="813.36011"
+       id="text6374"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6376"
+         x="302.64169"
+         y="813.36011">Union</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="408.70773"
+       y="722.49683"
+       id="text6378"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6380"
+         x="408.70773"
+         y="722.49683">King</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="202.93965"
+       y="721.78973"
+       id="text6382"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6384"
+         x="202.93965"
+         y="721.78973">St Andrew</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="410.12192"
+       y="612.89526"
+       id="text6386"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6388"
+         x="410.12192"
+         y="612.89526">Queen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="195.86858"
+       y="612.89532"
+       id="text6390"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6392"
+         x="195.86858"
+         y="612.89532">Osgoode</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="192.33305"
+       y="477.83792"
+       id="text6394"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6396"
+         x="192.33305"
+         y="477.83792">St Patrick</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       x="371.23105"
+       y="481.72702"
+       id="text6398"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan6400"
+         x="371.23105"
+         y="481.72702">Dundas</tspan></text>
+  </g>
+</svg>
